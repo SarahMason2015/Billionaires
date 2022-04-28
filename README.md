@@ -31,5 +31,5 @@ Team members will be expected to present a provisional machine learning model th
 
 ## Database Integration (25 points)
 Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
--Sample data that mimics the expected final database structure or schema
--Draft machine learning model is connected to the provisional database
+- Sample data that mimics the expected final database structure or schema
+- Draft machine learning model is connected to the provisional database
