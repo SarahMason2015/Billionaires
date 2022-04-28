@@ -18,6 +18,7 @@ The main branch should include:
 ### README.md
 The README.md should include:
 - Description of the communication protocols
+
 ###Individual Branches
 Requirements for the individual branches follow:
 - At least one branch for each team member
