@@ -11,11 +11,11 @@ Description of the source of data
 Questions they hope to answer with the data
 
 ## GitHub Repository (10 points)
-Main Branch
+### Main Branch
 The main branch should include:
+- README.md
 
 ### README.md
-README.md
 The README.md should include:
 - Description of the communication protocols
 ###Individual Branches
