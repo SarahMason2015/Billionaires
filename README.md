@@ -11,6 +11,7 @@ Final Project
 - Our second question is a simple regression problem: we want to plot the growth in the number of billionaires and predict the value in 2035
 #### Set an evaluation protocol and the different protocols available.
 - We plan to divide the Billionaire data into two sets, one for training, the other for testing. After we have preprocessed the data, we will train then test it.
+- We will save a version with categorial data and a separate dataset with the numerical data.
 #### Prepare the data (dealing with missing values, with categorial values…).
 - We will first need to identify the missing data. Where it can be replaced (by researching the billionaire in question), we will do so. If it cannot, then we will delete the row from the dataset. We believe that deleting null values automatically may skew the data towards Western billionaires whose birth dates and locations are easier to verify.
 - We will format those categorical values that are not numerical into numeric data using *get_dummies* and other data-formatting tools in Pandas.
