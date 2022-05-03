@@ -16,3 +16,5 @@ Our training and testing setup is SQL. Extra ML verbiage here.
 
 ## Dashboard
 In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on Tableau.
+
+Our Dashboards will consist of heat maps, pie charts, and bar graphs.
