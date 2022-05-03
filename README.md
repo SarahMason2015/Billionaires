@@ -35,7 +35,7 @@ Team members will be expected to present a provisional database that stands in f
 - Draft machine learning model is connected to the provisional database
 
 
-**<h1>Exploratory Data Analysis</h1>**
+## Exploratory Data Analysis
 
 <p> There are several definitions of what constitutes being rich. Technically, any person can be rich. Rich with love, family, or sometimes even happiness, things money can’t buy. The type of rich we will be discussing goes beyond emotional fulfillment, adding guac at chipotle, or the ability to afford a luxury vehicle. The kind of rich we will be diving into are not just the rich, but super-rich, billionaires.
 
