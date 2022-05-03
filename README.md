@@ -3,7 +3,9 @@ Final Project
 
 # Technologies Used
 CSV (for the data origin)
+
 Jupyter
+
 Tableau
 
 ## Data Cleaning and Analysis
