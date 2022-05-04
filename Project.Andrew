@@ -1,0 +1,466 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "6f018286",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Import our dependencies\n",
+    "import pandas as pd\n",
+    "import matplotlib as plt\n",
+    "import sklearn as skl\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "5ee54377",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>company.founded</th>\n",
+       "      <th>demographics.age</th>\n",
+       "      <th>demographics.gender</th>\n",
+       "      <th>location.citizenship</th>\n",
+       "      <th>location.region</th>\n",
+       "      <th>wealth.how.industry</th>\n",
+       "      <th>wealth.how.inherited</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>1975</td>\n",
+       "      <td>40</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Technology-Computer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1975</td>\n",
+       "      <td>45</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Technology-Computer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>1975</td>\n",
+       "      <td>58</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Technology-Computer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1962</td>\n",
+       "      <td>65</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Consumer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>1962</td>\n",
+       "      <td>70</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Consumer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   company.founded  demographics.age demographics.gender location.citizenship  \\\n",
+       "0             1975                40                male        United States   \n",
+       "1             1975                45                male        United States   \n",
+       "2             1975                58                male        United States   \n",
+       "3             1962                65                male        United States   \n",
+       "4             1962                70                male        United States   \n",
+       "\n",
+       "  location.region  wealth.how.industry wealth.how.inherited  \n",
+       "0   North America  Technology-Computer        not inherited  \n",
+       "1   North America  Technology-Computer        not inherited  \n",
+       "2   North America  Technology-Computer        not inherited  \n",
+       "3   North America             Consumer        not inherited  \n",
+       "4   North America             Consumer        not inherited  "
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "billion_df = pd.read_csv(r\"C:\\Users\\ANDRE\\OneDrive\\Desktop\\Week 20 Project\\billionaires_dataset.csv\")\n",
+    "billion_df.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "70f8a35c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "\n",
+    "billion_df.drop('company.founded', axis = 1, inplace = True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "5d890df8",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>demographics.age</th>\n",
+       "      <th>demographics.gender</th>\n",
+       "      <th>location.citizenship</th>\n",
+       "      <th>location.region</th>\n",
+       "      <th>wealth.how.industry</th>\n",
+       "      <th>wealth.how.inherited</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>40</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Technology-Computer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>45</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Technology-Computer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>58</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Technology-Computer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>65</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Consumer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>70</td>\n",
+       "      <td>male</td>\n",
+       "      <td>United States</td>\n",
+       "      <td>North America</td>\n",
+       "      <td>Consumer</td>\n",
+       "      <td>not inherited</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   demographics.age demographics.gender location.citizenship location.region  \\\n",
+       "0                40                male        United States   North America   \n",
+       "1                45                male        United States   North America   \n",
+       "2                58                male        United States   North America   \n",
+       "3                65                male        United States   North America   \n",
+       "4                70                male        United States   North America   \n",
+       "\n",
+       "   wealth.how.industry wealth.how.inherited  \n",
+       "0  Technology-Computer        not inherited  \n",
+       "1  Technology-Computer        not inherited  \n",
+       "2  Technology-Computer        not inherited  \n",
+       "3             Consumer        not inherited  \n",
+       "4             Consumer        not inherited  "
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "billion_df.head(5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "dab9f928",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "demographics.age        76\n",
+       "demographics.gender      3\n",
+       "location.citizenship    73\n",
+       "location.region          8\n",
+       "wealth.how.industry     19\n",
+       "wealth.how.inherited     6\n",
+       "dtype: int64"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "billion_df.nunique()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "951297d9",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "United States    903\n",
+       "Germany          160\n",
+       "China            153\n",
+       "Russia           119\n",
+       "Japan             96\n",
+       "                ... \n",
+       "Bahrain            1\n",
+       "Ecuador            1\n",
+       "Georgia            1\n",
+       "Bermuda            1\n",
+       "Tanzania           1\n",
+       "Name: location.citizenship, Length: 73, dtype: int64"
+      ]
+     },
+     "execution_count": 12,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "billion_df['location.citizenship'].value_counts()\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "0b695b5a",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "North America               992\n",
+       "Europe                      698\n",
+       "East Asia                   535\n",
+       "Latin America               182\n",
+       "Middle East/North Africa    117\n",
+       "South Asia                   69\n",
+       "Sub-Saharan Africa           20\n",
+       "0                             1\n",
+       "Name: location.region, dtype: int64"
+      ]
+     },
+     "execution_count": 13,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "billion_df['location.region'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "8c56118c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Consumer                           471\n",
+       "Retail, Restaurant                 281\n",
+       "Real Estate                        280\n",
+       "Money Management                   249\n",
+       "Media                              219\n",
+       "Technology-Computer                208\n",
+       "Diversified financial              167\n",
+       "Energy                             132\n",
+       "Technology-Medical                 111\n",
+       "Non-consumer industrial            107\n",
+       "Constrution                         97\n",
+       "Mining and metals                   90\n",
+       "Other                               83\n",
+       "Hedge funds                         67\n",
+       "Private equity/leveraged buyout     25\n",
+       "0                                   16\n",
+       "Venture Capital                      8\n",
+       "banking                              1\n",
+       "services                             1\n",
+       "Name: wealth.how.industry, dtype: int64"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "billion_df['wealth.how.industry'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "750a9994",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Money Management': 'Financial'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Diversified financial': 'Financial'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Hedge funds': 'Financial'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'banking': 'Financial'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Venture Capital': 'Financial'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Private equity/leveraged buyout': 'Financial'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Technology-Computer': 'Technology'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Technology-Medical': 'Technology'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Constrution': 'Construction'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Non-consumer industrial': 'Construction'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'Mining and metals': 'Construction'})\n",
+    "\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'0': 'Other'})\n",
+    "billion_df['wealth.how.industry'] = billion_df[\"wealth.how.industry\"].replace({'services': 'Consumer'})"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "1d14364e",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "financial             483\n",
+       "Consumer              472\n",
+       "Technology            319\n",
+       "Construction          294\n",
+       "Retail, Restaurant    281\n",
+       "Real Estate           280\n",
+       "Media                 219\n",
+       "Energy                132\n",
+       "Other                  99\n",
+       "Financial              34\n",
+       "Name: wealth.how.industry, dtype: int64"
+      ]
+     },
+     "execution_count": 24,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "billion_df['wealth.how.industry'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "166e1b88",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "PythonData",
+   "language": "python",
+   "name": "pythondata"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.11"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
