@@ -1,0 +1,2615 @@
+,demographics.age,demographics.gender,location.citizenship,location.region,wealth.how.industry,wealth.how.inherited
+0,40,male,United States,North America,Technology,not inherited
+1,45,male,United States,North America,Technology,not inherited
+2,58,male,United States,North America,Technology,not inherited
+3,65,male,United States,North America,Consumer,not inherited
+4,70,male,United States,North America,Consumer,not inherited
+5,74,male,Mexico,Latin America,Media,not inherited
+6,0,,Switzerland,Europe,Technology,inherited
+7,48,male,United States,North America,Technology,not inherited
+8,77,male,Spain,Europe,"Retail, Restaurant",not inherited
+9,68,male,Hong Kong,East Asia,Real Estate,not inherited
+10,56,male,United States,North America,Technology,not inherited
+11,83,male,United States,North America,Consumer,not inherited
+12,71,male,Taiwan,East Asia,Financial,not inherited
+13,0,male,Germany,Europe,"Retail, Restaurant",not inherited
+14,69,male,United States,North America,Technology,not inherited
+15,0,male,Hong Kong,East Asia,Real Estate,inherited
+16,44,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+17,78,male,United States,North America,Financial,inherited
+18,73,male,United States,North America,Financial,inherited
+19,67,male,Hong Kong,East Asia,Real Estate,not inherited
+20,53,male,United States,North America,"Retail, Restaurant",inherited
+21,61,male,Japan,East Asia,Real Estate,inherited
+22,55,male,United States,North America,Consumer,inherited
+23,80,male,United States,North America,Real Estate,not inherited
+24,0,male,Germany,Europe,"Retail, Restaurant",inherited
+25,57,male,United States,North America,"Retail, Restaurant",inherited
+26,59,female,United States,North America,"Retail, Restaurant",inherited
+27,0,male,Sweden,Europe,Consumer,inherited
+28,52,female,United States,North America,"Retail, Restaurant",inherited
+29,81,female,United States,North America,Consumer,inherited
+30,66,male,United States,North America,"Retail, Restaurant",inherited
+31,68,female,Germany,Europe,Consumer,inherited
+32,91,female,France,Europe,Consumer,inherited
+33,0,,Germany,Europe,Financial,not inherited
+34,73,female,Germany,Europe,Consumer,inherited
+35,66,male,Sweden,Europe,Consumer,inherited
+36,43,male,United States,North America,Technology,not inherited
+37,44,male,United States,North America,Technology,not inherited
+38,64,female,United States,North America,"Retail, Restaurant",inherited
+39,72,male,Canada,North America,Media,inherited
+40,77,male,Canada,North America,Media,inherited
+41,70,male,United States,North America,"Retail, Restaurant",inherited
+42,81,male,United States,North America,Media,not inherited
+43,78,female,France,Europe,Consumer,inherited
+44,64,male,France,Europe,Consumer,not inherited
+45,0,male,Philippines,East Asia,Real Estate,not inherited
+46,61,male,United States,North America,Financial,not inherited
+47,72,male,United States,North America,Media,not inherited
+48,0,,Indonesia,East Asia,Consumer,not inherited
+49,74,male,Sweden,Europe,"Retail, Restaurant",not inherited
+50,40,male,United States,North America,Technology,not inherited
+51,56,male,Mexico,Latin America,Media,not inherited
+52,72,male,Hong Kong,East Asia,Real Estate,not inherited
+53,77,male,United States,North America,Media,inherited
+54,50,male,United States,North America,"Retail, Restaurant",not inherited
+55,51,male,United States,North America,Technology,not inherited
+56,40,male,United States,North America,Technology,not inherited
+57,0,male,South Korea,East Asia,Financial,not inherited
+58,0,male,Germany,Europe,Media,not inherited
+59,85,male,Hong Kong,East Asia,Financial,not inherited
+60,0,male,France,Europe,"Retail, Restaurant",not inherited
+61,81,female,United States,North America,Media,inherited
+62,77,female,United States,North America,Media,inherited
+63,29,male,United States,North America,Technology,not inherited
+64,73,male,Malaysia,East Asia,Financial,not inherited
+65,88,male,Italy,Europe,Consumer,not inherited
+66,55,male,Singapore,East Asia,Financial,inherited
+67,0,male,Hong Kong,East Asia,Real Estate,inherited
+68,56,male,Nigeria,Sub-Saharan Africa,Construction,not inherited
+69,94,male,Germany,Europe,"Retail, Restaurant",not inherited
+70,70,male,Hong Kong,East Asia,Real Estate,inherited
+71,86,male,United States,North America,Media,not inherited
+72,85,male,Switzerland,Europe,Technology,not inherited
+73,61,male,Mexico,Latin America,Media,not inherited
+74,78,male,United States,North America,Financial,not inherited
+75,58,male,United States,North America,Consumer,not inherited
+76,52,male,France,Europe,Consumer,not inherited
+77,83,male,United States,North America,Financial,not inherited
+78,52,male,Germany,Europe,"Retail, Restaurant",inherited
+79,35,male,Switzerland,Europe,Technology,inherited
+80,36,male,United States,North America,Technology,not inherited
+81,56,male,Canada,North America,Media,inherited
+82,0,male,Hong Kong,East Asia,Consumer,inherited
+83,84,male,Hong Kong,East Asia,Real Estate,not inherited
+84,0,male,Hong Kong,East Asia,Real Estate,inherited
+85,64,male,Italy,Europe,Media,not inherited
+86,74,male,Germany,Europe,"Retail, Restaurant",inherited
+87,66,male,Japan,East Asia,Financial,not inherited
+88,39,female,United States,North America,Financial,inherited
+89,58,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+90,0,male,Brazil,Latin America,Construction,inherited
+91,69,male,United States,North America,Consumer,inherited
+92,0,female,United States,North America,Consumer,inherited
+93,64,male,United States,North America,Consumer,inherited
+94,0,female,Sweden,Europe,Consumer,inherited
+95,82,male,United States,North America,Consumer,inherited
+96,74,female,United States,North America,Consumer,inherited
+97,77,male,United States,North America,Consumer,inherited
+98,0,male,Indonesia,East Asia,Financial,not inherited
+99,73,female,France,Europe,Consumer,inherited
+100,0,,Germany,Europe,Technology,not inherited
+101,74,male,Brazil,Latin America,Consumer,not inherited
+102,59,male,Italy,Europe,Media,not inherited
+103,48,male,United States,North America,Media,not inherited
+104,62,male,United States,North America,Media,not inherited
+105,86,male,Hong Kong,East Asia,Financial,not inherited
+106,0,male,Saudi Arabia,Middle East/North Africa,Financial,inherited
+107,57,male,United States,North America,Technology,not inherited
+108,63,male,Germany,Europe,"Retail, Restaurant",inherited
+109,0,male,South Korea,East Asia,Technology,inherited
+110,71,male,Japan,East Asia,Financial,not inherited
+111,50,male,United States,North America,Consumer,inherited
+112,0,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+113,78,male,Italy,Europe,Consumer,not inherited
+114,48,male,United States,North America,"Retail, Restaurant",inherited
+115,70,male,United States,North America,Media,inherited
+116,56,male,United States,North America,Financial,not inherited
+117,76,female,United States,North America,Consumer,inherited
+118,74,male,Sweden,Europe,Consumer,inherited
+119,55,male,Japan,East Asia,Consumer,inherited
+120,60,male,Russia,Europe,Construction,not inherited
+121,56,male,India,South Asia,Energy,not inherited
+122,47,female,United States,North America,"Retail, Restaurant",inherited
+123,52,male,United States,North America,"Retail, Restaurant",inherited
+124,55,male,India,South Asia,Technology,inherited
+125,56,male,Japan,East Asia,Technology,not inherited
+126,70,male,Germany,Europe,"Retail, Restaurant",inherited
+127,76,male,United States,North America,Consumer,not inherited
+128,0,,Germany,Europe,Construction,not inherited
+129,65,male,Spain,Europe,Consumer,not inherited
+130,65,male,Italy,Europe,Consumer,not inherited
+131,38,male,Japan,East Asia,Media,not inherited
+132,69,male,Germany,Europe,Financial,inherited
+133,49,male,United Kingdom,Europe,Real Estate,inherited
+134,65,male,Japan,East Asia,"Retail, Restaurant",not inherited
+135,0,male,Indonesia,East Asia,Financial,not inherited
+136,83,male,United States,North America,Real Estate,not inherited
+137,60,female,Australia,North America,Construction,inherited
+138,0,male,Switzerland,Europe,Technology,not inherited
+139,63,male,United States,North America,Financial,not inherited
+140,64,male,France,Europe,"Retail, Restaurant",not inherited
+141,49,male,Russia,Europe,Energy,not inherited
+142,66,male,United States,North America,Media,inherited
+143,49,male,United States,North America,Technology,not inherited
+144,68,male,United States,North America,Media,inherited
+145,0,male,Switzerland,Europe,Technology,not inherited
+146,51,female,Germany,Europe,Consumer,inherited
+147,56,male,Thailand,East Asia,Consumer,inherited
+148,70,male,United States,North America,Financial,not inherited
+149,57,male,Kuwait,Middle East/North Africa,Construction,inherited
+150,52,female,United States,North America,Financial,inherited
+151,0,,Germany,Europe,Technology,inherited
+152,56,male,Russia,Europe,Construction,not inherited
+153,55,male,United Kingdom,Europe,"Retail, Restaurant",inherited
+154,73,male,Hong Kong,East Asia,Real Estate,not inherited
+155,63,male,India,South Asia,Construction,inherited
+156,0,,France,Europe,Technology,not inherited
+157,67,male,United States,North America,Financial,not inherited
+158,57,male,Russia,Europe,Construction,not inherited
+159,71,male,Japan,East Asia,"Retail, Restaurant",not inherited
+160,58,male,United States,North America,Technology,not inherited
+161,88,male,Hong Kong,East Asia,Financial,inherited
+162,71,male,Japan,East Asia,Real Estate,inherited
+163,60,male,Japan,East Asia,Financial,inherited
+164,43,male,Japan,East Asia,Media,not inherited
+165,75,male,Brazil,Latin America,Financial,not inherited
+166,65,male,Turkey,Middle East/North Africa,Financial,inherited
+167,61,male,United States,North America,Technology,not inherited
+168,72,female,United States,North America,Media,inherited
+169,65,male,Italy,Europe,Consumer,not inherited
+170,74,male,United States,North America,Real Estate,inherited
+171,50,male,United States,North America,Real Estate,inherited
+172,58,male,Russia,Europe,Energy,not inherited
+173,76,female,United States,North America,Media,inherited
+174,94,female,United States,North America,Media,inherited
+175,77,male,France,Europe,"Retail, Restaurant",not inherited
+176,71,female,Chile,Latin America,Construction,inherited
+177,53,male,United States,North America,Financial,not inherited
+178,66,male,Japan,East Asia,Real Estate,inherited
+179,74,male,Germany,Europe,Technology,inherited
+180,72,male,United States,North America,Technology,not inherited
+181,57,male,Germany,Europe,Technology,not inherited
+182,0,male,France,Europe,"Retail, Restaurant",not inherited
+183,72,male,Germany,Europe,"Retail, Restaurant",not inherited
+184,68,male,India,South Asia,Technology,inherited
+185,61,male,Russia,Europe,Energy,not inherited
+186,67,male,Saudi Arabia,Middle East/North Africa,Energy,not inherited
+187,52,female,Germany,Europe,"Retail, Restaurant",not inherited
+188,0,,Netherlands,Europe,"Retail, Restaurant",not inherited
+189,67,male,United States,North America,Technology,not inherited
+190,74,male,Germany,Europe,Financial,inherited
+191,55,male,Venezuela,Latin America,Media,inherited
+192,53,male,Sweden,Europe,Consumer,inherited
+193,90,male,Switzerland,Europe,Technology,not inherited
+194,59,male,China,East Asia,Real Estate,not inherited
+195,0,male,United States,North America,Media,inherited
+196,61,male,United States,North America,Media,not inherited
+197,39,male,United States,North America,Technology,not inherited
+198,47,male,Germany,Europe,Consumer,inherited
+199,61,male,Argentina,Latin America,Consumer,inherited
+200,60,male,Mexico,Latin America,Construction,not inherited
+201,69,male,Germany,Europe,Technology,inherited
+202,53,male,Japan,East Asia,Financial,not inherited
+203,68,male,United States,North America,Energy,not inherited
+204,0,,South Korea,East Asia,Consumer,not inherited
+205,0,male,United States,North America,Other,not inherited
+206,81,male,United States,North America,Real Estate,not inherited
+207,64,male,United States,North America,Financial,not inherited
+208,0,male,Canada,North America,Energy,inherited
+209,0,male,France,Europe,Consumer,inherited
+210,70,male,Germany,Europe,Financial,inherited
+211,71,male,United States,North America,Media,inherited
+212,57,male,Germany,Europe,"Retail, Restaurant",inherited
+213,73,male,United States,North America,Media,inherited
+214,42,male,Greece,Europe,Other,inherited
+215,49,male,Germany,Europe,Construction,inherited
+216,79,male,Taiwan,East Asia,Consumer,not inherited
+217,81,male,Colombia,Latin America,Financial,not inherited
+218,63,male,Turkey,Middle East/North Africa,Consumer,inherited
+219,50,female,United States,North America,Technology,inherited
+220,71,male,United States,North America,Financial,not inherited
+221,88,male,France,Europe,Other,inherited
+222,63,male,Germany,Europe,"Retail, Restaurant",inherited
+223,60,male,Malaysia,East Asia,Construction,not inherited
+224,76,male,France,Europe,Other,inherited
+225,78,male,United States,North America,Real Estate,not inherited
+226,60,male,Germany,Europe,Consumer,inherited
+227,52,male,Japan,East Asia,"Retail, Restaurant",not inherited
+228,69,male,Cyprus,Europe,Other,not inherited
+229,63,male,Russia,Europe,Energy,not inherited
+230,72,male,United States,North America,Media,inherited
+231,0,male,France,Europe,"Retail, Restaurant",not inherited
+232,46,male,Germany,Europe,Financial,inherited
+233,58,male,United States,North America,Financial,not inherited
+234,82,male,United States,North America,Media,inherited
+235,41,male,Germany,Europe,Financial,inherited
+236,59,male,Germany,Europe,Media,inherited
+237,70,male,United States,North America,Financial,inherited
+238,54,male,Greece,Europe,Financial,inherited
+239,0,female,Hong Kong,East Asia,Real Estate,inherited
+240,42,male,China,East Asia,Technology,not inherited
+241,55,male,Malaysia,East Asia,Financial,not inherited
+242,62,male,United Kingdom,Europe,Real Estate,inherited
+243,0,male,United Kingdom,Europe,Consumer,inherited
+244,35,male,Venezuela,Latin America,Consumer,inherited
+245,75,male,United States,North America,Energy,inherited
+246,76,male,Japan,East Asia,"Retail, Restaurant",not inherited
+247,58,male,United States,North America,Media,not inherited
+248,55,male,South Africa,Sub-Saharan Africa,Construction,inherited
+249,33,male,United States,North America,Technology,not inherited
+250,79,male,Germany,Europe,Media,inherited
+251,72,male,United States,North America,Consumer,inherited
+252,58,male,India,South Asia,Technology,not inherited
+253,91,male,United States,North America,"Retail, Restaurant",not inherited
+254,87,female,Germany,Europe,Consumer,inherited
+255,84,male,Ireland,Europe,Construction,inherited
+256,0,male,United States,North America,Technology,not inherited
+257,0,male,Japan,East Asia,Consumer,inherited
+258,65,male,United States,North America,Media,inherited
+259,70,male,United States,North America,Consumer,not inherited
+260,0,male,Hong Kong,East Asia,Real Estate,inherited
+261,53,male,Russia,Europe,Construction,not inherited
+262,71,male,United States,North America,Consumer,not inherited
+263,65,male,Germany,Europe,Financial,inherited
+264,75,male,United States,North America,Financial,not inherited
+265,47,male,Ukraine,Europe,Construction,not inherited
+266,0,male,Germany,Europe,"Retail, Restaurant",inherited
+267,74,male,Hong Kong,East Asia,Real Estate,not inherited
+268,0,male,Canada,North America,Energy,inherited
+269,0,male,Germany,Europe,Consumer,inherited
+270,82,male,Mexico,Latin America,Construction,inherited
+271,55,male,Japan,East Asia,Financial,inherited
+272,45,male,China,East Asia,Technology,not inherited
+273,0,male,Thailand,East Asia,Financial,not inherited
+274,44,male,United States,North America,Energy,inherited
+275,75,male,United States,North America,Financial,not inherited
+276,63,male,United States,North America,Consumer,not inherited
+277,48,male,Switzerland,Europe,Technology,inherited
+278,87,male,Sweden,Europe,Consumer,inherited
+279,0,male,United States,North America,"Retail, Restaurant",inherited
+280,0,,Greece,Europe,Financial,not inherited
+281,68,male,China,East Asia,Consumer,not inherited
+282,0,male,Kuwait,Middle East/North Africa,Financial,inherited
+283,76,male,Japan,East Asia,Real Estate,inherited
+284,71,male,United Kingdom,Europe,Financial,not inherited
+285,90,male,Malaysia,East Asia,Financial,not inherited
+286,0,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+287,51,male,United States,North America,"Retail, Restaurant",inherited
+288,50,male,Hong Kong,East Asia,Consumer,inherited
+289,79,male,Singapore,East Asia,Real Estate,not inherited
+290,41,male,Russia,Europe,Energy,not inherited
+291,74,male,Thailand,East Asia,Consumer,inherited
+292,89,male,Philippines,East Asia,Financial,not inherited
+293,59,male,United States,North America,Consumer,inherited
+294,0,male,Netherlands,Europe,Consumer,inherited
+295,68,male,United States,North America,Real Estate,not inherited
+296,68,male,Germany,Europe,"Retail, Restaurant",inherited
+297,60,male,Canada,North America,"Retail, Restaurant",inherited
+298,57,male,United States,North America,Consumer,not inherited
+299,0,male,United States,North America,Media,inherited
+300,0,female,United States,North America,Consumer,inherited
+301,0,male,United States,North America,Real Estate,inherited
+302,75,male,Malaysia,East Asia,Media,not inherited
+303,52,male,Russia,Europe,Energy,not inherited
+304,69,male,United States,North America,Real Estate,inherited
+305,0,male,United States,North America,Consumer,inherited
+306,37,male,Colombia,Latin America,Consumer,inherited
+307,72,male,South Korea,East Asia,Technology,inherited
+308,64,female,Italy,Europe,Consumer,inherited
+309,68,male,India,South Asia,Technology,not inherited
+310,64,male,United States,North America,Consumer,inherited
+311,0,male,Germany,Europe,Consumer,inherited
+312,0,male,United States,North America,Technology,not inherited
+313,63,male,United States,North America,Construction,not inherited
+314,67,male,United States,North America,Consumer,inherited
+315,58,male,United States,North America,Energy,inherited
+316,76,male,Taiwan,East Asia,Financial,not inherited
+317,0,male,South Korea,East Asia,Financial,inherited
+318,0,male,United States,North America,Technology,not inherited
+319,49,male,Czech Republic,Europe,Financial,not inherited
+320,0,male,Singapore,East Asia,Real Estate,inherited
+321,58,male,United States,North America,Financial,not inherited
+322,72,male,Germany,Europe,"Retail, Restaurant",not inherited
+323,0,male,Indonesia,East Asia,Consumer,inherited
+324,0,male,Italy,Europe,Consumer,inherited
+325,65,male,United States,North America,Financial,not inherited
+326,56,male,Turkey,Middle East/North Africa,Media,not inherited
+327,0,female,Hong Kong,East Asia,Real Estate,inherited
+328,78,male,Malaysia,East Asia,Financial,not inherited
+329,0,male,United States,North America,Financial,not inherited
+330,43,female,Israel,Middle East/North Africa,"Retail, Restaurant",inherited
+331,61,male,United States,North America,Financial,not inherited
+332,48,male,Russia,Europe,Financial,not inherited
+333,0,male,South Korea,East Asia,Financial,not inherited
+334,57,male,France,Europe,Consumer,inherited
+335,48,male,Russia,Europe,Construction,not inherited
+336,79,male,Switzerland,Europe,Technology,not inherited
+337,55,male,Germany,Europe,Technology,not inherited
+338,55,male,Germany,Europe,Consumer,inherited
+339,59,female,Netherlands,Europe,Consumer,inherited
+340,76,male,Germany,Europe,Other,inherited
+341,74,male,United States,North America,Financial,not inherited
+342,72,male,Italy,Europe,"Retail, Restaurant",not inherited
+343,78,male,Malaysia,East Asia,Financial,not inherited
+344,0,male,Taiwan,East Asia,Financial,inherited
+345,92,male,United States,North America,Consumer,not inherited
+346,67,male,United States,North America,Consumer,inherited
+347,0,male,Brazil,Latin America,Construction,inherited
+348,51,male,United States,North America,Media,not inherited
+349,58,male,Japan,East Asia,Real Estate,not inherited
+350,72,male,Singapore,East Asia,Real Estate,not inherited
+351,72,male,Switzerland,Europe,Consumer,not inherited
+352,0,male,Germany,Europe,Construction,not inherited
+353,68,male,Turkey,Middle East/North Africa,Consumer,inherited
+354,53,male,Switzerland,Europe,Financial,inherited
+355,64,male,Canada,North America,Consumer,inherited
+356,46,male,China,East Asia,Energy,not inherited
+357,46,male,Russia,Europe,"Retail, Restaurant",not inherited
+358,0,male,Germany,Europe,Media,not inherited
+359,0,,Germany,Europe,Construction,not inherited
+360,66,male,Denmark,Europe,Consumer,inherited
+361,64,male,Brazil,Latin America,Consumer,not inherited
+362,0,male,Greece,Europe,Financial,inherited
+363,0,male,Malaysia,East Asia,Construction,not inherited
+364,76,male,United States,North America,"Retail, Restaurant",inherited
+365,0,female,Netherlands,Europe,Consumer,inherited
+366,63,female,France,Europe,Other,inherited
+367,56,male,United States,North America,Financial,not inherited
+368,71,male,United States,North America,Energy,inherited
+369,0,male,United Kingdom,Europe,Financial,inherited
+370,49,male,China,East Asia,Technology,not inherited
+371,62,male,United States,North America,Technology,not inherited
+372,67,male,United States,North America,Financial,not inherited
+373,0,male,Philippines,East Asia,Financial,inherited
+374,0,male,Philippines,East Asia,Financial,not inherited
+375,0,female,United States,North America,Consumer,inherited
+376,69,male,Canada,North America,Consumer,inherited
+377,58,male,United States,North America,Media,not inherited
+378,0,male,India,South Asia,Consumer,not inherited
+379,68,male,France,Europe,Financial,inherited
+380,79,male,United States,North America,Real Estate,not inherited
+381,67,male,United States,North America,Consumer,inherited
+382,77,male,United States,North America,Financial,inherited
+383,60,male,Brazil,Latin America,Financial,not inherited
+384,0,,Germany,Europe,Other,inherited
+385,0,male,Greece,Europe,"Retail, Restaurant",not inherited
+386,79,male,Italy,Europe,Consumer,not inherited
+387,55,male,Hong Kong,East Asia,Financial,inherited
+388,66,male,Japan,East Asia,Real Estate,inherited
+389,64,male,United States,North America,Media,not inherited
+390,71,male,United States,North America,"Retail, Restaurant",not inherited
+391,72,male,United States,North America,Consumer,inherited
+392,58,male,Japan,East Asia,Real Estate,not inherited
+393,0,male,Switzerland,Europe,Financial,not inherited
+394,58,male,United States,North America,Financial,not inherited
+395,74,male,Japan,East Asia,Financial,not inherited
+396,69,male,United States,North America,Construction,not inherited
+397,57,male,Taiwan,East Asia,Consumer,inherited
+398,72,male,Hong Kong,East Asia,Real Estate,not inherited
+399,0,male,Japan,East Asia,Real Estate,not inherited
+400,83,male,United States,North America,Financial,inherited
+401,58,male,United States,North America,Technology,not inherited
+402,49,male,Japan,East Asia,"Retail, Restaurant",not inherited
+403,86,male,United States,North America,Media,inherited
+404,0,male,Japan,East Asia,Real Estate,not inherited
+405,0,male,Japan,East Asia,"Retail, Restaurant",not inherited
+406,52,male,Lebanon,Middle East/North Africa,Construction,not inherited
+407,0,male,Mexico,Latin America,Media,inherited
+408,69,male,Austria,Europe,Consumer,not inherited
+409,57,male,Netherlands,Europe,Energy,not inherited
+410,60,male,Brazil,Latin America,Media,inherited
+411,58,male,Brazil,Latin America,Media,inherited
+412,66,male,Brazil,Latin America,Media,inherited
+413,47,male,Russia,Europe,Construction,not inherited
+414,0,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+415,65,male,United States,North America,Energy,inherited
+416,60,male,United States,North America,Energy,inherited
+417,72,male,United States,North America,"Retail, Restaurant",not inherited
+418,70,female,United States,North America,Consumer,not inherited
+419,77,male,Germany,Europe,"Retail, Restaurant",not inherited
+420,65,male,France,Europe,"Retail, Restaurant",not inherited
+421,74,male,United States,North America,Consumer,not inherited
+422,59,male,United States,North America,Consumer,inherited
+423,0,male,Saudi Arabia,Middle East/North Africa,"Retail, Restaurant",inherited
+424,82,male,Denmark,Europe,Financial,inherited
+425,50,male,South Africa,Sub-Saharan Africa,Construction,inherited
+426,65,male,France,Europe,Consumer,inherited
+427,69,male,Thailand,East Asia,Consumer,not inherited
+428,63,male,France,Europe,Consumer,inherited
+429,77,male,Italy,Europe,Media,not inherited
+430,65,male,Russia,Europe,Media,not inherited
+431,30,male,Switzerland,Europe,Technology,inherited
+432,0,male,Thailand,East Asia,Financial,not inherited
+433,65,male,United States,North America,Financial,not inherited
+434,34,female,United States,North America,Financial,inherited
+435,58,male,United States,North America,Construction,not inherited
+436,60,male,Italy,Europe,Financial,not inherited
+437,0,male,Italy,Europe,Consumer,inherited
+438,75,male,United States,North America,Financial,inherited
+439,57,male,Lebanon,Middle East/North Africa,Construction,not inherited
+440,37,male,United States,North America,Consumer,inherited
+441,66,male,Brazil,Latin America,Consumer,not inherited
+442,0,male,Japan,East Asia,"Retail, Restaurant",inherited
+443,51,male,Russia,Europe,Energy,not inherited
+444,47,male,Russia,Europe,Consumer,not inherited
+445,71,female,United States,North America,Financial,inherited
+446,70,male,Germany,Europe,Technology,not inherited
+447,69,male,United States,North America,Financial,not inherited
+448,0,male,Japan,East Asia,Construction,inherited
+449,0,male,Philippines,East Asia,Real Estate,not inherited
+450,82,male,Chile,Latin America,Energy,not inherited
+451,0,male,Germany,Europe,"Retail, Restaurant",inherited
+452,70,male,United States,North America,Media,not inherited
+453,33,male,Mexico,Latin America,Media,inherited
+454,56,male,United States,North America,Media,not inherited
+455,82,male,United States,North America,Financial,inherited
+456,84,male,Singapore,East Asia,Real Estate,not inherited
+457,0,male,Saudi Arabia,Middle East/North Africa,"Retail, Restaurant",inherited
+458,45,male,Mexico,Latin America,"Retail, Restaurant",inherited
+459,48,male,United States,North America,Construction,inherited
+460,53,male,United States,North America,Energy,inherited
+461,59,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+462,75,male,United States,North America,Construction,inherited
+463,0,male,Indonesia,East Asia,Real Estate,not inherited
+464,49,male,Germany,Europe,Technology,inherited
+465,60,male,Italy,Europe,Consumer,not inherited
+466,70,female,Sweden,Europe,Financial,inherited
+467,84,male,United States,North America,Media,inherited
+468,73,male,Canada,North America,"Retail, Restaurant",inherited
+469,0,male,United States,North America,"Retail, Restaurant",inherited
+470,72,male,Hong Kong,East Asia,Financial,inherited
+471,69,male,Italy,Europe,Consumer,not inherited
+472,53,male,Japan,East Asia,Real Estate,not inherited
+473,0,male,Japan,East Asia,Consumer,not inherited
+474,0,male,South Korea,East Asia,Financial,not inherited
+475,48,male,Denmark,Europe,Consumer,inherited
+476,42,male,United States,North America,Consumer,not inherited
+477,62,male,Hong Kong,East Asia,Real Estate,not inherited
+478,48,male,Switzerland,Europe,Financial,inherited
+479,48,male,United States,North America,Energy,inherited
+480,83,male,Germany,Europe,Financial,inherited
+481,58,male,Mexico,Latin America,"Retail, Restaurant",inherited
+482,69,male,Chile,Latin America,Construction,not inherited
+483,0,male,Hong Kong,East Asia,Financial,inherited
+484,60,male,Germany,Europe,Technology,not inherited
+485,73,male,Japan,East Asia,Technology,inherited
+486,0,male,Brazil,Latin America,Financial,not inherited
+487,59,male,United States,North America,Consumer,not inherited
+488,56,male,Mexico,Latin America,Construction,inherited
+489,48,male,Russia,Europe,Construction,not inherited
+490,46,male,United States,North America,Technology,not inherited
+491,46,male,France,Europe,Technology,not inherited
+492,0,male,Indonesia,East Asia,Construction,not inherited
+493,0,male,Japan,East Asia,Technology,inherited
+494,0,male,Japan,East Asia,Financial,not inherited
+495,50,female,Switzerland,Europe,Construction,inherited
+496,61,male,Philippines,East Asia,Financial,not inherited
+497,87,male,France,Europe,Consumer,not inherited
+498,56,male,United States,North America,Financial,not inherited
+499,80,male,Brazil,Latin America,Financial,inherited
+500,74,male,United States,North America,Media,not inherited
+501,0,male,United States,North America,"Retail, Restaurant",not inherited
+502,54,male,United States,North America,Technology,not inherited
+503,0,male,Switzerland,Europe,Consumer,inherited
+504,55,male,United States,North America,Other,not inherited
+505,66,male,Japan,East Asia,Real Estate,inherited
+506,43,male,France,Europe,Consumer,inherited
+507,70,male,United States,North America,Energy,inherited
+508,63,female,United States,North America,Media,inherited
+509,73,male,United States,North America,Technology,not inherited
+510,76,male,France,Europe,Media,not inherited
+511,66,male,United States,North America,Media,inherited
+512,78,male,Germany,Europe,Construction,not inherited
+513,39,male,United States,North America,Energy,inherited
+514,0,male,Brazil,Latin America,Media,inherited
+515,0,male,France,Europe,"Retail, Restaurant",not inherited
+516,34,male,Germany,Europe,Real Estate,inherited
+517,75,female,Germany,Europe,Media,not inherited
+518,92,male,France,Europe,Technology,not inherited
+519,63,male,South Africa,Sub-Saharan Africa,Consumer,inherited
+520,73,male,Indonesia,East Asia,Financial,not inherited
+521,84,male,Taiwan,East Asia,Financial,not inherited
+522,0,,Germany,Europe,Media,not inherited
+523,68,male,United Kingdom,Europe,Financial,inherited
+524,75,male,Hong Kong,East Asia,Real Estate,inherited
+525,36,male,Canada,North America,Technology,not inherited
+526,0,male,United States,North America,Real Estate,inherited
+527,84,male,Taiwan,East Asia,Consumer,not inherited
+528,28,male,India,South Asia,Construction,inherited
+529,0,male,Japan,East Asia,Media,not inherited
+530,69,male,Japan,East Asia,Financial,not inherited
+531,81,male,United States,North America,Financial,inherited
+532,71,male,United States,North America,Technology,not inherited
+533,72,male,United States,North America,Media,not inherited
+534,74,male,United States,North America,"Retail, Restaurant",not inherited
+535,73,male,Germany,Europe,Technology,not inherited
+536,80,male,United States,North America,Consumer,inherited
+537,71,male,Singapore,East Asia,Financial,inherited
+538,0,male,Taiwan,East Asia,Financial,inherited
+539,75,male,Japan,East Asia,"Retail, Restaurant",not inherited
+540,60,male,Germany,Europe,Technology,not inherited
+541,55,male,Switzerland,Europe,Construction,inherited
+542,0,male,Thailand,East Asia,Real Estate,not inherited
+543,62,male,United States,North America,Consumer,inherited
+544,59,male,United States,North America,Consumer,inherited
+545,71,male,United States,North America,Media,not inherited
+546,70,male,United Kingdom,Europe,Other,not inherited
+547,85,male,United States,North America,Energy,inherited
+548,0,male,Mexico,Latin America,Other,inherited
+549,0,female,United States,North America,"Retail, Restaurant",inherited
+550,60,male,United States,North America,Media,not inherited
+551,63,male,Australia,North America,Media,inherited
+552,0,male,Germany,Europe,"Retail, Restaurant",inherited
+553,70,male,Turkey,Middle East/North Africa,Financial,inherited
+554,77,male,Germany,Europe,"Retail, Restaurant",not inherited
+555,47,male,United States,North America,Financial,not inherited
+556,55,male,Japan,East Asia,Technology,not inherited
+557,57,male,United States,North America,Media,not inherited
+558,61,male,France,Europe,Financial,inherited
+559,0,male,United States,North America,Consumer,inherited
+560,85,male,Canada,North America,Financial,not inherited
+561,74,male,Indonesia,East Asia,Consumer,not inherited
+562,0,male,Argentina,Latin America,Financial,not inherited
+563,0,female,Brazil,Latin America,Construction,not inherited
+564,0,male,Italy,Europe,Consumer,inherited
+565,72,male,Germany,Europe,Consumer,not inherited
+566,67,male,Austria,Europe,"Retail, Restaurant",not inherited
+567,68,male,Hong Kong,East Asia,Real Estate,inherited
+568,0,male,France,Europe,Consumer,inherited
+569,0,male,France,Europe,Financial,not inherited
+570,0,,France,Europe,Construction,inherited
+571,0,male,Germany,Europe,Financial,inherited
+572,71,male,China,East Asia,Consumer,not inherited
+573,50,male,Hong Kong,East Asia,Real Estate,inherited
+574,73,male,Germany,Europe,Technology,not inherited
+575,63,male,Israel,Middle East/North Africa,Real Estate,inherited
+576,58,male,New Zealand,North America,Financial,not inherited
+577,46,male,India,South Asia,Construction,inherited
+578,74,male,United States,North America,Consumer,not inherited
+579,0,male,Indonesia,East Asia,Financial,not inherited
+580,0,female,Israel,Middle East/North Africa,"Retail, Restaurant",inherited
+581,60,male,Italy,Europe,Consumer,not inherited
+582,39,male,United States,North America,Technology,not inherited
+583,0,male,United States,North America,Consumer,not inherited
+584,62,male,United States,North America,Real Estate,inherited
+585,37,male,Russia,Europe,Energy,not inherited
+586,28,male,Mexico,Latin America,Media,inherited
+587,0,male,Philippines,East Asia,Financial,not inherited
+588,76,male,United Kingdom,Europe,Real Estate,inherited
+589,80,male,United States,North America,Financial,not inherited
+590,88,male,United States,North America,Consumer,not inherited
+591,47,male,Russia,Europe,Financial,not inherited
+592,50,male,China,East Asia,Consumer,not inherited
+593,32,female,China,East Asia,Real Estate,inherited
+594,71,male,Philippines,East Asia,"Retail, Restaurant",not inherited
+595,0,male,Philippines,East Asia,Real Estate,not inherited
+596,58,male,United States,North America,Energy,inherited
+597,60,male,United States,North America,Energy,inherited
+598,46,male,United States,North America,Technology,not inherited
+599,49,male,France,Europe,Media,inherited
+600,62,male,United States,North America,Consumer,not inherited
+601,58,male,United States,North America,Energy,inherited
+602,60,male,United States,North America,"Retail, Restaurant",not inherited
+603,73,male,Germany,Europe,Consumer,inherited
+604,68,female,United States,North America,Consumer,inherited
+605,0,male,Taiwan,East Asia,Technology,not inherited
+606,78,male,United States,North America,Construction,not inherited
+607,61,male,Spain,Europe,Financial,inherited
+608,50,male,Switzerland,Europe,Construction,inherited
+609,51,male,United States,North America,Media,not inherited
+610,60,male,United States,North America,Energy,inherited
+611,75,male,South Korea,East Asia,Consumer,inherited
+612,29,male,United States,North America,Technology,not inherited
+613,38,male,United States,North America,Technology,not inherited
+614,55,male,United States,North America,Energy,inherited
+615,70,male,United States,North America,Financial,inherited
+616,63,male,United States,North America,Real Estate,not inherited
+617,53,male,Egypt,Europe,Construction,inherited
+618,68,male,South Africa,Sub-Saharan Africa,Construction,inherited
+619,60,female,United States,North America,"Retail, Restaurant",inherited
+620,53,male,United States,North America,Technology,not inherited
+621,68,male,Japan,East Asia,Technology,not inherited
+622,53,male,United States,North America,Energy,inherited
+623,46,male,Australia,North America,Real Estate,inherited
+624,57,male,Russia,Europe,Energy,not inherited
+625,64,male,United States,North America,"Retail, Restaurant",inherited
+626,46,male,Russia,Europe,Construction,not inherited
+627,0,male,United States,North America,Consumer,not inherited
+628,64,female,United States,North America,Technology,inherited
+629,59,male,Canada,North America,Technology,inherited
+630,60,male,United States,North America,Technology,not inherited
+631,70,male,Australia,North America,Real Estate,not inherited
+632,63,male,United States,North America,Other,not inherited
+633,65,male,United States,North America,Technology,not inherited
+634,63,male,France,Europe,Media,not inherited
+635,87,male,Denmark,Europe,Financial,inherited
+636,65,female,United States,North America,"Retail, Restaurant",inherited
+637,49,female,United States,North America,"Retail, Restaurant",inherited
+638,55,male,India,South Asia,Technology,not inherited
+639,54,male,Japan,East Asia,Consumer,inherited
+640,48,male,United States,North America,Technology,not inherited
+641,69,male,United States,North America,Consumer,not inherited
+642,0,male,Japan,East Asia,Technology,inherited
+643,0,male,Thailand,East Asia,Construction,not inherited
+644,0,female,Mexico,Latin America,Consumer,inherited
+645,51,female,Hong Kong,East Asia,Real Estate,inherited
+646,70,male,Malaysia,East Asia,Financial,not inherited
+647,53,male,United States,North America,Energy,inherited
+648,46,female,United States,North America,Consumer,inherited
+649,53,male,United States,North America,Media,not inherited
+650,50,female,United States,North America,Construction,inherited
+651,75,male,United States,North America,Construction,inherited
+652,57,male,Australia,North America,Construction,not inherited
+653,44,female,United States,North America,Construction,inherited
+654,0,male,Italy,Europe,Construction,inherited
+655,50,male,France,Europe,Media,not inherited
+656,52,female,United States,North America,Construction,inherited
+657,31,male,United States,North America,Construction,inherited
+658,32,male,United States,North America,Consumer,inherited
+659,87,male,United States,North America,Consumer,not inherited
+660,58,male,Australia,North America,Media,inherited
+661,52,male,Germany,Europe,Technology,not inherited
+662,82,male,Germany,Europe,"Retail, Restaurant",not inherited
+663,0,male,Hong Kong,East Asia,Real Estate,inherited
+664,0,male,Italy,Europe,Consumer,inherited
+665,0,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+666,74,male,Italy,Europe,Consumer,not inherited
+667,66,male,Germany,Europe,Technology,inherited
+668,70,male,United Kingdom,Europe,Financial,inherited
+669,68,male,United States,North America,Financial,inherited
+670,0,male,United States,North America,Construction,inherited
+671,84,male,Bermuda,North America,Technology,not inherited
+672,57,male,Ireland,Europe,Consumer,inherited
+673,52,male,United States,North America,Consumer,not inherited
+674,0,male,Israel,Middle East/North Africa,Consumer,inherited
+675,73,male,Switzerland,Europe,Other,inherited
+676,54,male,United States,North America,Media,not inherited
+677,0,male,Lebanon,Middle East/North Africa,Financial,not inherited
+678,56,male,Malaysia,East Asia,Financial,not inherited
+679,72,male,United States,North America,Financial,inherited
+680,92,male,United States,North America,"Retail, Restaurant",not inherited
+681,90,male,United States,North America,Media,inherited
+682,63,male,Mexico,Latin America,Construction,inherited
+683,0,male,Taiwan,East Asia,Consumer,inherited
+684,0,,United Kingdom,Europe,"Retail, Restaurant",inherited
+685,71,male,United States,North America,Media,not inherited
+686,50,male,Russia,Europe,Construction,not inherited
+687,79,male,Philippines,East Asia,Financial,not inherited
+688,58,male,Russia,Europe,Energy,not inherited
+689,68,male,United States,North America,Real Estate,inherited
+690,45,female,Spain,Europe,Consumer,inherited
+691,75,male,United States,North America,Technology,not inherited
+692,63,male,United States,North America,Consumer,inherited
+693,62,male,United States,North America,Media,not inherited
+694,50,male,Chile,Latin America,Consumer,inherited
+695,0,,Greece,Europe,Financial,not inherited
+696,52,male,Ireland,Europe,Consumer,inherited
+697,0,male,Japan,East Asia,Real Estate,not inherited
+698,69,male,Sweden,Europe,"Retail, Restaurant",not inherited
+699,82,male,Portugal,Europe,Financial,inherited
+700,0,male,Turkey,Middle East/North Africa,Financial,not inherited
+701,0,male,United States,North America,Media,not inherited
+702,72,male,United States,North America,Financial,not inherited
+703,0,male,United States,North America,Financial,not inherited
+704,0,male,Switzerland,Europe,Construction,inherited
+705,61,male,Germany,Europe,Media,inherited
+706,87,male,Germany,Europe,"Retail, Restaurant",not inherited
+707,37,male,United States,North America,"Retail, Restaurant",not inherited
+708,61,male,United States,North America,"Retail, Restaurant",not inherited
+709,67,male,United States,North America,Technology,not inherited
+710,63,male,United States,North America,Technology,not inherited
+711,58,male,United States,North America,Financial,inherited
+712,65,male,United States,North America,Technology,not inherited
+713,34,male,Hong Kong,East Asia,Media,inherited
+714,79,male,United States,North America,Other,inherited
+715,38,male,United States,North America,Technology,not inherited
+716,73,female,China,East Asia,Real Estate,not inherited
+717,55,male,Ireland,Europe,Media,not inherited
+718,50,male,Russia,Europe,Construction,not inherited
+719,79,male,United States,North America,Financial,not inherited
+720,85,male,Canada,North America,Financial,inherited
+721,68,male,Italy,Europe,Consumer,inherited
+722,0,male,Thailand,East Asia,Consumer,inherited
+723,0,male,Thailand,East Asia,Media,not inherited
+724,45,male,United States,North America,Energy,inherited
+725,33,male,United States,North America,Technology,not inherited
+726,0,male,United States,North America,Real Estate,not inherited
+727,0,female,United States,North America,"Retail, Restaurant",inherited
+728,76,male,United States,North America,Financial,not inherited
+729,79,male,United States,North America,Construction,not inherited
+730,80,female,United States,North America,Technology,not inherited
+731,62,male,United States,North America,Financial,not inherited
+732,46,male,United States,North America,"Retail, Restaurant",inherited
+733,63,male,Colombia,Latin America,Financial,not inherited
+734,0,male,France,Europe,"Retail, Restaurant",not inherited
+735,0,,Germany,Europe,Construction,inherited
+736,55,male,China,East Asia,Real Estate,not inherited
+737,63,male,Hong Kong,East Asia,Real Estate,not inherited
+738,58,male,Israel,Middle East/North Africa,Energy,inherited
+739,60,male,Spain,Europe,Consumer,not inherited
+740,54,male,Sweden,Europe,Other,inherited
+741,76,male,United States,North America,Consumer,not inherited
+742,76,male,United States,North America,Media,not inherited
+743,56,male,India,South Asia,Media,not inherited
+744,55,male,Germany,Europe,Technology,not inherited
+745,0,male,Hong Kong,East Asia,Real Estate,not inherited
+746,55,male,Indonesia,East Asia,Financial,not inherited
+747,0,male,Japan,East Asia,Consumer,not inherited
+748,-42,male,Japan,East Asia,"Retail, Restaurant",not inherited
+749,0,male,South Africa,Sub-Saharan Africa,Consumer,inherited
+750,44,male,United Kingdom,Europe,Real Estate,inherited
+751,47,male,United Arab Emirates,Middle East/North Africa,Financial,inherited
+752,0,male,Japan,East Asia,Technology,inherited
+753,68,male,Mexico,Latin America,Construction,inherited
+754,58,male,United States,North America,"Retail, Restaurant",not inherited
+755,59,male,United States,North America,Media,not inherited
+756,72,male,Canada,North America,Financial,not inherited
+757,57,male,United Kingdom,Europe,"Retail, Restaurant",not inherited
+758,0,male,Germany,Europe,Media,not inherited
+759,54,male,Saudi Arabia,Middle East/North Africa,Financial,inherited
+760,53,male,Denmark,Europe,Consumer,inherited
+761,81,female,United States,North America,Real Estate,not inherited
+762,0,male,United States,North America,Media,not inherited
+763,0,male,Japan,East Asia,Media,inherited
+764,47,male,United States,North America,Technology,not inherited
+765,0,male,Italy,Europe,Consumer,inherited
+766,56,male,United States,North America,Real Estate,not inherited
+767,47,male,United States,North America,Consumer,inherited
+768,59,male,United States,North America,Real Estate,not inherited
+769,0,male,Germany,Europe,Real Estate,inherited
+770,0,male,Canada,North America,Technology,not inherited
+771,0,male,Japan,East Asia,"Retail, Restaurant",not inherited
+772,43,male,United States,North America,Construction,inherited
+773,55,male,United States,North America,Technology,not inherited
+774,71,male,United States,North America,Energy,inherited
+775,66,male,United States,North America,Other,not inherited
+776,83,male,Malaysia,East Asia,Financial,not inherited
+777,70,male,United States,North America,Construction,inherited
+778,0,,France,Europe,Consumer,inherited
+779,0,male,Germany,Europe,Construction,inherited
+780,84,male,Canada,North America,Energy,inherited
+781,81,male,United Kingdom,Europe,Financial,inherited
+782,0,male,Argentina,Latin America,Energy,inherited
+783,54,male,United States,North America,Energy,not inherited
+784,65,male,China,East Asia,Consumer,not inherited
+785,49,male,United Kingdom,Europe,"Retail, Restaurant",not inherited
+786,68,male,Switzerland,Europe,Construction,inherited
+787,0,,Germany,Europe,Consumer,not inherited
+788,12,male,Germany,Europe,Financial,inherited
+789,0,male,Germany,Europe,Media,not inherited
+790,0,,Germany,Europe,Consumer,inherited
+791,45,male,India,South Asia,Energy,inherited
+792,48,male,Japan,East Asia,Financial,not inherited
+793,0,male,Liechtenstein,Europe,Construction,not inherited
+794,66,male,Sweden,Europe,Financial,not inherited
+795,42,male,Russia,Europe,Financial,not inherited
+796,73,male,United States,North America,Real Estate,not inherited
+797,63,male,Taiwan,East Asia,Technology,not inherited
+798,0,male,Malaysia,East Asia,Other,not inherited
+799,57,male,Malaysia,East Asia,Media,not inherited
+800,0,male,Mexico,Latin America,Financial,inherited
+801,0,,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+802,79,male,Portugal,Europe,Energy,inherited
+803,41,male,Denmark,Europe,"Retail, Restaurant",inherited
+804,87,male,Israel,Middle East/North Africa,Consumer,not inherited
+805,0,married couple,Switzerland,Europe,Construction,not inherited
+806,0,male,Switzerland,Europe,Financial,not inherited
+807,68,male,Switzerland,Europe,Other,inherited
+808,52,male,Australia,North America,Construction,not inherited
+809,58,male,Georgia,Europe,Financial,not inherited
+810,90,male,Germany,Europe,"Retail, Restaurant",not inherited
+811,45,male,United States,North America,Financial,not inherited
+812,69,male,Singapore,East Asia,Real Estate,inherited
+813,50,female,Mexico,Latin America,Consumer,inherited
+814,85,male,Singapore,East Asia,Financial,inherited
+815,0,male,Taiwan,East Asia,Construction,not inherited
+816,0,male,Thailand,East Asia,Construction,inherited
+817,59,male,United States,North America,"Retail, Restaurant",not inherited
+818,85,male,United States,North America,Financial,not inherited
+819,62,male,United States,North America,"Retail, Restaurant",inherited
+820,0,male,United States,North America,Consumer,not inherited
+821,72,male,United States,North America,"Retail, Restaurant",inherited
+822,61,male,United States,North America,Financial,inherited
+823,67,male,United States,North America,Technology,not inherited
+824,75,male,Mexico,Latin America,"Retail, Restaurant",not inherited
+825,39,male,United States,North America,Consumer,inherited
+826,0,male,Spain,Europe,Financial,inherited
+827,65,male,Brazil,Latin America,Financial,not inherited
+828,48,male,Japan,East Asia,Construction,not inherited
+829,50,male,United Kingdom,Europe,Energy,inherited
+830,81,male,United States,North America,Consumer,not inherited
+831,37,female,Mexico,Latin America,Consumer,inherited
+832,51,female,United States,North America,Consumer,inherited
+833,50,male,United Kingdom,Europe,Media,not inherited
+834,66,male,United States,North America,"Retail, Restaurant",not inherited
+835,48,male,United States,North America,"Retail, Restaurant",not inherited
+836,40,male,Russia,Europe,Construction,not inherited
+837,79,male,United States,North America,Technology,not inherited
+838,71,male,United States,North America,Financial,inherited
+839,76,female,United States,North America,Financial,inherited
+840,0,male,France,Europe,Financial,inherited
+841,71,male,France,Europe,Other,inherited
+842,68,male,Germany,Europe,Consumer,inherited
+843,59,male,Sweden,Europe,Other,inherited
+844,85,female,Canada,North America,Financial,inherited
+845,61,female,Sweden,Europe,Consumer,inherited
+846,50,male,Japan,East Asia,Technology,not inherited
+847,68,male,Japan,East Asia,Technology,inherited
+848,0,male,Malaysia,East Asia,Media,not inherited
+849,54,male,India,South Asia,Financial,not inherited
+850,75,male,Mexico,Latin America,Construction,not inherited
+851,83,male,United States,North America,Consumer,not inherited
+852,72,male,United States,North America,"Retail, Restaurant",not inherited
+853,63,male,Sweden,Europe,Technology,inherited
+854,70,male,United States,North America,Financial,not inherited
+855,85,male,United States,North America,Technology,not inherited
+856,81,male,Australia,North America,Real Estate,not inherited
+857,70,male,United States,North America,Financial,not inherited
+858,77,male,United Kingdom,Europe,Financial,not inherited
+859,62,male,India,South Asia,"Retail, Restaurant",not inherited
+860,63,male,United Kingdom,Europe,Media,not inherited
+861,57,male,Norway,Europe,"Retail, Restaurant",not inherited
+862,63,male,Hong Kong,East Asia,Real Estate,inherited
+863,0,male,Mexico,Latin America,Financial,not inherited
+864,0,male,Mexico,Latin America,Construction,not inherited
+865,32,female,Mexico,Latin America,Consumer,inherited
+866,48,male,Sweden,Europe,Consumer,inherited
+867,0,male,Switzerland,Europe,Consumer,inherited
+868,49,male,Thailand,East Asia,Media,inherited
+869,0,male,Turkey,Middle East/North Africa,Financial,not inherited
+870,45,male,United Kingdom,Europe,Media,not inherited
+871,74,male,United States,North America,Real Estate,not inherited
+872,58,male,United States,North America,Other,not inherited
+873,48,male,United States,North America,Media,not inherited
+874,0,male,Switzerland,Europe,Technology,inherited
+875,60,male,United States,North America,Consumer,not inherited
+876,68,male,United States,North America,Financial,inherited
+877,55,male,United States,North America,Real Estate,inherited
+878,0,male,Canada,North America,Other,not inherited
+879,66,male,Italy,Europe,Consumer,not inherited
+880,66,male,Argentina,Latin America,Consumer,inherited
+881,51,male,United States,North America,Consumer,not inherited
+882,71,male,United States,North America,Consumer,not inherited
+883,63,male,United States,North America,Real Estate,not inherited
+884,69,male,United Kingdom,Europe,"Retail, Restaurant",inherited
+885,33,male,India,South Asia,Construction,inherited
+886,0,male,United States,North America,Media,not inherited
+887,74,male,Italy,Europe,Consumer,not inherited
+888,53,male,Indonesia,East Asia,Consumer,inherited
+889,60,male,United States,North America,Real Estate,not inherited
+890,87,male,United States,North America,Consumer,not inherited
+891,0,male,United States,North America,Energy,not inherited
+892,60,male,United States,North America,Financial,inherited
+893,0,male,United States,North America,Technology,not inherited
+894,70,male,United States,North America,Financial,not inherited
+895,0,male,United States,North America,Other,not inherited
+896,80,male,United States,North America,Energy,inherited
+897,88,male,Belgium,Europe,Financial,not inherited
+898,72,male,India,South Asia,Technology,not inherited
+899,81,male,Germany,Europe,"Retail, Restaurant",inherited
+900,80,male,Netherlands,Europe,Other,not inherited
+901,69,male,United States,North America,Media,not inherited
+902,87,male,Germany,Europe,Consumer,inherited
+903,88,male,Japan,East Asia,"Retail, Restaurant",not inherited
+904,60,male,United States,North America,Financial,not inherited
+905,63,female,India,South Asia,Construction,inherited
+906,0,male,India,South Asia,Financial,not inherited
+907,0,male,Chile,Latin America,Financial,not inherited
+908,0,male,Chile,Latin America,Consumer,not inherited
+909,0,male,Colombia,Latin America,Consumer,inherited
+910,72,male,Colombia,Latin America,Consumer,not inherited
+911,56,male,Germany,Europe,Technology,not inherited
+912,74,male,Germany,Europe,Media,inherited
+913,0,male,Germany,Europe,Construction,inherited
+914,60,male,Germany,Europe,Construction,not inherited
+915,73,male,Hong Kong,East Asia,Real Estate,not inherited
+916,0,male,Indonesia,East Asia,Consumer,not inherited
+917,0,male,United Arab Emirates,Middle East/North Africa,Financial,inherited
+918,65,female,United States,North America,"Retail, Restaurant",inherited
+919,69,male,United States,North America,Financial,not inherited
+920,42,male,United States,North America,Financial,inherited
+921,49,male,United States,North America,Financial,inherited
+922,52,female,United States,North America,Financial,inherited
+923,64,male,Spain,Europe,"Retail, Restaurant",inherited
+924,96,male,Austria,Europe,"Retail, Restaurant",not inherited
+925,75,male,United Kingdom,Europe,Consumer,not inherited
+926,64,female,Sweden,Europe,Consumer,inherited
+927,80,female,United States,North America,Financial,inherited
+928,47,male,United States,North America,Financial,inherited
+929,85,male,United States,North America,Financial,inherited
+930,42,male,China,East Asia,Technology,not inherited
+931,0,male,Indonesia,East Asia,Real Estate,not inherited
+932,49,male,Japan,East Asia,Consumer,inherited
+933,70,male,Japan,East Asia,"Retail, Restaurant",not inherited
+934,0,male,Japan,East Asia,Real Estate,not inherited
+935,0,male,Japan,East Asia,Technology,not inherited
+936,50,male,Japan,East Asia,Other,inherited
+937,65,male,United States,North America,Financial,inherited
+938,64,male,Brazil,Latin America,"Retail, Restaurant",inherited
+939,0,male,United States,North America,Technology,not inherited
+940,78,male,Hong Kong,East Asia,Real Estate,not inherited
+941,0,male,United States,North America,Other,not inherited
+942,66,male,United States,North America,Construction,not inherited
+943,56,male,France,Europe,Energy,inherited
+944,47,male,United States,North America,Media,inherited
+945,81,male,United States,North America,Energy,not inherited
+946,33,male,Israel,Middle East/North Africa,Technology,not inherited
+947,77,male,United States,North America,Financial,not inherited
+948,62,male,France,Europe,Consumer,inherited
+949,66,male,Turkey,Middle East/North Africa,Financial,not inherited
+950,60,male,Singapore,East Asia,Financial,inherited
+951,59,male,South Korea,East Asia,Technology,inherited
+952,0,male,United States,North America,Media,not inherited
+953,86,male,United States,North America,Energy,inherited
+954,75,male,United States,North America,Consumer,not inherited
+955,54,male,United States,North America,Other,not inherited
+956,0,male,Argentina,Latin America,Financial,not inherited
+957,68,male,United States,North America,Financial,not inherited
+958,67,male,United States,North America,Media,not inherited
+959,74,male,Japan,East Asia,Technology,not inherited
+960,49,male,Russia,Europe,Energy,not inherited
+961,45,male,United States,North America,Technology,not inherited
+962,67,male,United States,North America,"Retail, Restaurant",inherited
+963,57,male,United States,North America,Consumer,not inherited
+964,0,male,United States,North America,Real Estate,inherited
+965,44,male,United States,North America,Consumer,not inherited
+966,46,male,United States,North America,Media,not inherited
+967,0,female,United States,North America,Consumer,inherited
+968,59,male,United States,North America,Media,not inherited
+969,61,male,Philippines,East Asia,Financial,not inherited
+970,69,male,Israel,Middle East/North Africa,Media,not inherited
+971,83,male,Australia,North America,Real Estate,not inherited
+972,79,male,Chile,Latin America,"Retail, Restaurant",not inherited
+973,86,male,Switzerland,Europe,Other,inherited
+974,56,female,Israel,Middle East/North Africa,"Retail, Restaurant",inherited
+975,30,male,Venezuela,Latin America,Consumer,inherited
+976,0,male,Brazil,Latin America,Construction,not inherited
+977,59,male,Brazil,Latin America,"Retail, Restaurant",inherited
+978,0,male,Brazil,Latin America,Media,inherited
+979,0,male,Canada,North America,Consumer,not inherited
+980,0,male,Ecuador,Latin America,Consumer,not inherited
+981,67,female,United States,North America,Construction,not inherited
+982,60,male,Nigeria,Sub-Saharan Africa,Media,not inherited
+983,84,male,France,Europe,"Retail, Restaurant",not inherited
+984,0,,Germany,Europe,"Retail, Restaurant",not inherited
+985,0,,Germany,Europe,Other,not inherited
+986,0,,Germany,Europe,"Retail, Restaurant",not inherited
+987,62,male,United States,North America,Technology,not inherited
+988,68,male,Germany,Europe,Construction,inherited
+989,66,male,United Kingdom,Europe,Consumer,not inherited
+990,45,male,South Korea,East Asia,Technology,inherited
+991,74,male,United States,North America,Real Estate,not inherited
+992,73,male,United States,North America,Technology,not inherited
+993,96,male,United States,North America,Real Estate,not inherited
+994,75,female,United States,North America,Energy,inherited
+995,0,male,United Arab Emirates,Middle East/North Africa,Real Estate,not inherited
+996,70,male,Germany,Europe,Consumer,inherited
+997,62,male,United States,North America,Energy,not inherited
+998,63,male,Germany,Europe,Consumer,inherited
+999,0,male,Japan,East Asia,Financial,not inherited
+1000,51,male,Mexico,Latin America,Construction,inherited
+1001,67,male,Singapore,East Asia,Financial,inherited
+1002,0,female,United States,North America,"Retail, Restaurant",not inherited
+1003,0,female,United States,North America,"Retail, Restaurant",inherited
+1004,0,male,United States,North America,Financial,not inherited
+1005,59,female,United States,North America,Technology,inherited
+1006,73,male,United States,North America,Construction,not inherited
+1007,0,male,Saudi Arabia,Middle East/North Africa,Consumer,not inherited
+1008,58,male,United States,North America,Consumer,inherited
+1009,73,male,United States,North America,Real Estate,not inherited
+1010,63,male,United States,North America,Real Estate,not inherited
+1011,49,male,Mexico,Latin America,Media,inherited
+1012,0,male,Switzerland,Europe,Construction,not inherited
+1013,0,male,Spain,Europe,Consumer,not inherited
+1014,74,male,United States,North America,Media,not inherited
+1015,56,male,United States,North America,Financial,not inherited
+1016,69,male,United States,North America,Financial,not inherited
+1017,57,male,United States,North America,Financial,not inherited
+1018,0,male,United States,North America,Media,not inherited
+1019,61,male,United States,North America,Real Estate,not inherited
+1020,53,male,United States,North America,Media,not inherited
+1021,0,male,United States,North America,Media,inherited
+1022,90,male,United States,North America,Construction,inherited
+1023,68,male,Colombia,Latin America,Financial,not inherited
+1024,35,male,Israel,Middle East/North Africa,Technology,not inherited
+1025,44,male,United States,North America,Technology,not inherited
+1026,0,male,Russia,Europe,Energy,not inherited
+1027,0,male,United States,North America,Financial,not inherited
+1028,54,male,United States,North America,Construction,not inherited
+1029,62,male,United States,North America,Real Estate,inherited
+1030,0,male,Brazil,Latin America,Media,inherited
+1031,0,male,Greece,Europe,"Retail, Restaurant",not inherited
+1032,48,male,United States,North America,Technology,not inherited
+1033,65,male,Malaysia,East Asia,Construction,not inherited
+1034,61,male,United States,North America,Construction,not inherited
+1035,0,female,United States,North America,"Retail, Restaurant",inherited
+1036,73,male,United States,North America,Media,inherited
+1037,67,male,United States,North America,"Retail, Restaurant",not inherited
+1038,71,female,United States,North America,Real Estate,inherited
+1039,73,male,Germany,Europe,Consumer,inherited
+1040,58,male,United States,North America,Construction,not inherited
+1041,88,male,Taiwan,East Asia,Consumer,not inherited
+1042,74,female,United States,North America,Real Estate,inherited
+1043,65,female,United States,North America,Consumer,not inherited
+1044,55,male,United States,North America,Technology,not inherited
+1045,67,male,United States,North America,Financial,not inherited
+1046,0,male,United States,North America,Other,inherited
+1047,63,female,United States,North America,Consumer,inherited
+1048,67,male,Sweden,Europe,Financial,inherited
+1049,77,male,Canada,North America,Consumer,inherited
+1050,47,male,China,East Asia,Financial,not inherited
+1051,74,male,Malaysia,East Asia,Construction,not inherited
+1052,57,male,China,East Asia,Construction,not inherited
+1053,59,male,United States,North America,Financial,not inherited
+1054,72,male,United States,North America,Real Estate,not inherited
+1055,48,male,Russia,Europe,Other,not inherited
+1056,48,male,China,East Asia,Consumer,not inherited
+1057,54,male,United States,North America,Real Estate,not inherited
+1058,0,male,United States,North America,"Retail, Restaurant",inherited
+1059,0,,Argentina,Latin America,Consumer,inherited
+1060,0,male,Brazil,Latin America,Consumer,not inherited
+1061,55,male,Canada,North America,"Retail, Restaurant",inherited
+1062,0,male,Hong Kong,East Asia,Real Estate,not inherited
+1063,0,male,Hong Kong,East Asia,Real Estate,not inherited
+1064,0,male,India,South Asia,Consumer,not inherited
+1065,-7,male,Japan,East Asia,Construction,not inherited
+1066,77,male,Japan,East Asia,Real Estate,inherited
+1067,83,male,United Kingdom,Europe,Other,not inherited
+1068,73,female,Germany,Europe,Media,inherited
+1069,54,male,Philippines,East Asia,Real Estate,inherited
+1070,71,female,Germany,Europe,Media,inherited
+1071,88,male,Mexico,Latin America,"Retail, Restaurant",not inherited
+1072,75,male,United States,North America,Real Estate,inherited
+1073,74,male,Taiwan,East Asia,Real Estate,not inherited
+1074,85,male,United States,North America,Consumer,not inherited
+1075,50,male,Germany,Europe,Technology,not inherited
+1076,88,male,United States,North America,Real Estate,not inherited
+1077,46,male,China,East Asia,Construction,not inherited
+1078,42,male,China,East Asia,Technology,not inherited
+1079,0,male,Japan,East Asia,Technology,not inherited
+1080,0,,Japan,East Asia,Consumer,not inherited
+1081,0,male,Japan,East Asia,Construction,inherited
+1082,0,,Japan,East Asia,Other,not inherited
+1083,0,,South Korea,East Asia,Financial,not inherited
+1084,0,male,Malaysia,East Asia,Consumer,not inherited
+1085,0,male,Mexico,Latin America,Other,inherited
+1086,49,male,Mexico,Latin America,Financial,not inherited
+1087,72,male,Mexico,Latin America,Financial,not inherited
+1088,59,female,United States,North America,Real Estate,inherited
+1089,66,male,Spain,Europe,Financial,inherited
+1090,78,male,United States,North America,Financial,not inherited
+1091,64,male,United States,North America,Financial,not inherited
+1092,0,female,Germany,Europe,Financial,inherited
+1093,76,male,United States,North America,Consumer,not inherited
+1094,62,male,Netherlands,Europe,Energy,not inherited
+1095,0,male,Taiwan,East Asia,Financial,not inherited
+1096,62,female,United States,North America,Real Estate,inherited
+1097,40,male,United States,North America,Media,not inherited
+1098,54,male,Liechtenstein,Europe,Construction,inherited
+1099,51,female,Italy,Europe,Consumer,inherited
+1100,71,male,France,Europe,"Retail, Restaurant",not inherited
+1101,80,male,Spain,Europe,Construction,inherited
+1102,60,male,United States,North America,Energy,not inherited
+1103,34,male,Russia,Europe,Energy,not inherited
+1104,55,male,Japan,East Asia,Other,inherited
+1105,47,male,United States,North America,Financial,not inherited
+1106,44,male,Norway,Europe,"Retail, Restaurant",not inherited
+1107,49,male,United States,North America,Technology,not inherited
+1108,62,male,United States,North America,Technology,not inherited
+1109,0,married couple,Switzerland,Europe,Construction,not inherited
+1110,0,male,United States,North America,Consumer,inherited
+1111,57,male,United States,North America,"Retail, Restaurant",not inherited
+1112,0,male,Spain,Europe,Financial,inherited
+1113,0,male,Switzerland,Europe,Construction,inherited
+1114,69,male,Taiwan,East Asia,Other,not inherited
+1115,0,male,United States,North America,"Retail, Restaurant",inherited
+1116,68,male,United Kingdom,Europe,Construction,inherited
+1117,64,male,Taiwan,East Asia,Technology,not inherited
+1118,57,male,Israel,Middle East/North Africa,Construction,inherited
+1119,31,male,Brazil,Latin America,Technology,not inherited
+1120,77,male,Brazil,Latin America,Consumer,not inherited
+1121,87,male,Sweden,Europe,"Retail, Restaurant",not inherited
+1122,62,female,United States,North America,"Retail, Restaurant",inherited
+1123,63,male,United States,North America,Consumer,not inherited
+1124,35,female,United States,North America,Consumer,inherited
+1125,35,female,United States,North America,Consumer,inherited
+1126,0,female,United States,North America,"Retail, Restaurant",inherited
+1127,0,male,United States,North America,Media,not inherited
+1128,0,male,United States,North America,Consumer,inherited
+1129,51,male,United States,North America,Real Estate,not inherited
+1130,31,male,United States,North America,Technology,not inherited
+1131,0,male,United States,North America,Energy,not inherited
+1132,62,male,Russia,Europe,Construction,not inherited
+1133,73,male,Sweden,Europe,Other,not inherited
+1134,51,male,Indonesia,East Asia,Financial,not inherited
+1135,87,male,Germany,Europe,Technology,inherited
+1136,80,male,United Kingdom,Europe,Media,not inherited
+1137,75,male,Germany,Europe,"Retail, Restaurant",not inherited
+1138,76,male,Sweden,Europe,Other,not inherited
+1139,68,male,Venezuela,Latin America,Media,inherited
+1140,65,male,United States,North America,"Retail, Restaurant",not inherited
+1141,65,male,Denmark,Europe,"Retail, Restaurant",not inherited
+1142,44,male,China,East Asia,Consumer,not inherited
+1143,60,male,United States,North America,Technology,not inherited
+1144,0,male,China,East Asia,"Retail, Restaurant",not inherited
+1145,0,male,United States,North America,"Retail, Restaurant",not inherited
+1146,58,male,United States,North America,Financial,not inherited
+1147,62,male,United States,North America,Financial,not inherited
+1148,76,male,United States,North America,Other,not inherited
+1149,57,male,United States,North America,Technology,not inherited
+1150,74,male,United States,North America,Construction,inherited
+1151,50,male,Venezuela,Latin America,Media,inherited
+1152,0,male,Bahrain,Middle East/North Africa,Consumer,inherited
+1153,0,,Brazil,Latin America,Financial,not inherited
+1154,0,male,Brazil,Latin America,Construction,not inherited
+1155,63,male,France,Europe,Financial,inherited
+1156,0,male,United Kingdom,Europe,Financial,inherited
+1157,57,male,Mexico,Latin America,Financial,not inherited
+1158,74,male,Chile,Latin America,Construction,not inherited
+1159,55,male,United Kingdom,Europe,Construction,inherited
+1160,58,male,United States,North America,Financial,not inherited
+1161,54,male,United States,North America,Real Estate,not inherited
+1162,67,male,United States,North America,"Retail, Restaurant",not inherited
+1163,0,male,Italy,Europe,Consumer,not inherited
+1164,0,male,Italy,Europe,Media,inherited
+1165,76,male,United States,North America,Consumer,not inherited
+1166,0,male,United States,North America,Financial,not inherited
+1167,55,male,Chile,Latin America,Consumer,inherited
+1168,0,male,Italy,Europe,Financial,not inherited
+1169,0,male,Canada,North America,Media,not inherited
+1170,56,male,United States,North America,Media,not inherited
+1171,61,male,Germany,Europe,Technology,not inherited
+1172,76,male,Philippines,East Asia,"Retail, Restaurant",not inherited
+1173,77,male,Mexico,Latin America,Financial,not inherited
+1174,82,male,United States,North America,"Retail, Restaurant",not inherited
+1175,50,male,South Africa,Sub-Saharan Africa,Consumer,inherited
+1176,65,male,United States,North America,Financial,not inherited
+1177,36,male,Russia,Europe,Energy,not inherited
+1178,0,male,France,Europe,Other,inherited
+1179,0,male,United States,North America,Energy,inherited
+1180,0,male,Indonesia,East Asia,Consumer,inherited
+1181,66,male,Australia,North America,Consumer,inherited
+1182,0,male,Mexico,Latin America,Financial,not inherited
+1183,0,male,China,East Asia,Financial,not inherited
+1184,89,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+1185,42,male,Italy,Europe,Media,not inherited
+1186,46,male,United States,North America,Technology,not inherited
+1187,50,male,Russia,Europe,Energy,not inherited
+1188,0,male,United States,North America,Technology,not inherited
+1189,71,male,Canada,North America,Consumer,not inherited
+1190,0,male,United States,North America,Construction,not inherited
+1191,61,male,Germany,Europe,Technology,inherited
+1192,72,male,Canada,North America,Technology,inherited
+1193,53,male,United States,North America,Financial,not inherited
+1194,67,male,United States,North America,Media,inherited
+1195,80,male,Germany,Europe,"Retail, Restaurant",not inherited
+1196,86,male,Philippines,East Asia,Financial,not inherited
+1197,78,female,United States,North America,"Retail, Restaurant",inherited
+1198,61,male,United States,North America,Construction,inherited
+1199,88,male,United States,North America,Construction,inherited
+1200,0,,Germany,Europe,Consumer,not inherited
+1201,0,,Germany,Europe,Construction,not inherited
+1202,0,male,Hong Kong,East Asia,Consumer,not inherited
+1203,0,male,Israel,Middle East/North Africa,Financial,not inherited
+1204,0,male,Israel,Middle East/North Africa,Consumer,inherited
+1205,0,,Japan,East Asia,Real Estate,not inherited
+1206,0,male,Japan,East Asia,Consumer,inherited
+1207,0,,Japan,East Asia,Construction,not inherited
+1208,76,male,France,Europe,Technology,inherited
+1209,55,male,Russia,Europe,Construction,not inherited
+1210,58,male,Germany,Europe,Technology,not inherited
+1211,49,male,United States,North America,Technology,not inherited
+1212,62,male,United States,North America,"Retail, Restaurant",inherited
+1213,57,male,United States,North America,Technology,not inherited
+1214,62,male,Norway,Europe,"Retail, Restaurant",not inherited
+1215,67,male,United Kingdom,Europe,Financial,not inherited
+1216,72,male,United States,North America,Real Estate,not inherited
+1217,54,male,India,South Asia,Financial,not inherited
+1218,58,male,Brazil,Latin America,Consumer,not inherited
+1219,73,male,United States,North America,Energy,inherited
+1220,0,male,Malaysia,East Asia,Financial,not inherited
+1221,70,male,Mexico,Latin America,"Retail, Restaurant",not inherited
+1222,40,male,Mexico,Latin America,"Retail, Restaurant",inherited
+1223,0,,Mexico,Latin America,Construction,not inherited
+1224,0,female,Peru,Latin America,Construction,inherited
+1225,0,male,Philippines,East Asia,Financial,not inherited
+1226,54,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+1227,0,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+1228,0,female,Spain,Europe,Construction,inherited
+1229,0,male,Switzerland,Europe,Financial,inherited
+1230,0,male,Switzerland,Europe,Financial,inherited
+1231,0,male,Thailand,East Asia,Real Estate,not inherited
+1232,62,male,Germany,Europe,Energy,not inherited
+1233,47,male,Germany,Europe,Consumer,inherited
+1234,87,male,United States,North America,Media,not inherited
+1235,52,male,United States,North America,Financial,not inherited
+1236,49,male,Hong Kong,East Asia,Financial,not inherited
+1237,74,male,Germany,Europe,Other,not inherited
+1238,47,male,Russia,Europe,"Retail, Restaurant",not inherited
+1239,40,female,Angola,Sub-Saharan Africa,Financial,not inherited
+1240,47,male,China,East Asia,Technology,not inherited
+1241,65,male,United States,North America,Technology,not inherited
+1242,50,male,Canada,North America,Technology,not inherited
+1243,56,female,United States,North America,Real Estate,inherited
+1244,0,male,France,Europe,Construction,inherited
+1245,66,male,Germany,Europe,Consumer,inherited
+1246,54,male,Turkey,Middle East/North Africa,Consumer,inherited
+1247,82,male,Swaziland,Sub-Saharan Africa,"Retail, Restaurant",not inherited
+1248,66,male,Denmark,Europe,Technology,inherited
+1249,70,male,United States,North America,Consumer,inherited
+1250,50,female,China,East Asia,Real Estate,not inherited
+1251,50,male,China,East Asia,"Retail, Restaurant",not inherited
+1252,48,female,China,East Asia,Real Estate,not inherited
+1253,54,male,United States,North America,Technology,not inherited
+1254,46,male,United States,North America,Consumer,not inherited
+1255,0,male,United States,North America,Media,not inherited
+1256,53,male,United States,North America,Media,not inherited
+1257,85,male,United States,North America,Construction,inherited
+1258,0,male,United States,North America,Media,inherited
+1259,0,male,United States,North America,Construction,not inherited
+1260,47,male,United States,North America,Energy,inherited
+1261,31,male,United States,North America,Financial,inherited
+1262,21,male,United States,North America,Financial,inherited
+1263,24,male,United States,North America,Financial,inherited
+1264,77,male,United States,North America,"Retail, Restaurant",not inherited
+1265,0,male,United States,North America,"Retail, Restaurant",not inherited
+1266,64,male,Ireland,Europe,Media,not inherited
+1267,71,male,United States,North America,Construction,not inherited
+1268,0,male,United States,North America,Media,inherited
+1269,29,male,United States,North America,Financial,inherited
+1270,0,male,Thailand,East Asia,Media,not inherited
+1271,36,male,United States,North America,Financial,inherited
+1272,56,male,United States,North America,Energy,inherited
+1273,48,male,United States,North America,"Retail, Restaurant",inherited
+1274,0,male,United States,North America,Media,not inherited
+1275,73,male,United States,North America,Media,not inherited
+1276,0,male,Philippines,East Asia,Financial,inherited
+1277,56,male,Norway,Europe,Media,not inherited
+1278,0,male,United States,North America,Technology,not inherited
+1279,65,male,United States,North America,Real Estate,inherited
+1280,42,male,United States,North America,Technology,inherited
+1281,75,male,United States,North America,Other,not inherited
+1282,33,male,Japan,East Asia,"Retail, Restaurant",not inherited
+1283,76,male,Singapore,East Asia,Financial,inherited
+1284,66,male,Philippines,East Asia,Financial,not inherited
+1285,66,male,Switzerland,Europe,Financial,not inherited
+1286,77,female,United States,North America,Other,inherited
+1287,63,male,United States,North America,Real Estate,not inherited
+1288,60,male,United States,North America,Technology,not inherited
+1289,0,male,Italy,Europe,Technology,not inherited
+1290,0,male,United States,North America,Financial,inherited
+1291,31,male,United States,North America,Financial,inherited
+1292,0,male,Canada,North America,Construction,inherited
+1293,0,male,Greece,Europe,Technology,not inherited
+1294,0,female,United States,North America,Consumer,not inherited
+1295,0,male,Thailand,East Asia,Real Estate,not inherited
+1296,52,male,United States,North America,Energy,inherited
+1297,49,male,United States,North America,Media,not inherited
+1298,80,male,United States,North America,Financial,not inherited
+1299,0,male,Thailand,East Asia,Financial,not inherited
+1300,62,male,United States,North America,Financial,not inherited
+1301,41,male,Russia,Europe,Real Estate,not inherited
+1302,0,male,United Kingdom,Europe,Real Estate,not inherited
+1303,60,male,United States,North America,"Retail, Restaurant",not inherited
+1304,64,male,Poland,Europe,Media,not inherited
+1305,73,male,United States,North America,Real Estate,not inherited
+1306,58,male,United States,North America,"Retail, Restaurant",not inherited
+1307,72,female,Germany,Europe,Construction,inherited
+1308,45,male,United Kingdom,Europe,Financial,not inherited
+1309,46,male,United States,North America,Technology,not inherited
+1310,85,male,United States,North America,Real Estate,not inherited
+1311,62,male,United States,North America,Construction,not inherited
+1312,68,male,United States,North America,Other,not inherited
+1313,47,male,Russia,Europe,Real Estate,not inherited
+1314,67,male,China,East Asia,Construction,not inherited
+1315,71,male,India,South Asia,Consumer,inherited
+1316,64,male,Germany,Europe,Technology,not inherited
+1317,84,male,United States,North America,"Retail, Restaurant",not inherited
+1318,41,male,United States,North America,Technology,not inherited
+1319,77,male,United States,North America,Energy,not inherited
+1320,83,male,United States,North America,Technology,not inherited
+1321,65,male,India,South Asia,Consumer,inherited
+1322,82,male,Japan,East Asia,Consumer,not inherited
+1323,70,male,United States,North America,Financial,not inherited
+1324,48,male,Venezuela,Latin America,Consumer,inherited
+1325,69,male,China,East Asia,Financial,not inherited
+1326,89,male,Japan,East Asia,"Retail, Restaurant",not inherited
+1327,60,male,Saudi Arabia,Middle East/North Africa,Consumer,not inherited
+1328,0,female,Italy,Europe,Consumer,inherited
+1329,61,male,Indonesia,East Asia,Construction,not inherited
+1330,64,male,Germany,Europe,Technology,not inherited
+1331,36,female,Germany,Europe,Media,inherited
+1332,57,male,Poland,Europe,Media,not inherited
+1333,83,male,United States,North America,Other,not inherited
+1334,74,male,United States,North America,Financial,not inherited
+1335,51,male,Taiwan,East Asia,Technology,not inherited
+1336,0,male,United States,North America,Media,not inherited
+1337,50,female,United States,North America,Consumer,inherited
+1338,58,male,United States,North America,Consumer,inherited
+1339,77,male,United States,North America,Consumer,not inherited
+1340,67,male,Canada,North America,Media,not inherited
+1341,54,male,Italy,Europe,Construction,not inherited
+1342,73,male,Canada,North America,Consumer,not inherited
+1343,77,male,Hong Kong,East Asia,Real Estate,not inherited
+1344,0,male,Japan,East Asia,Technology,not inherited
+1345,59,male,United States,North America,Financial,not inherited
+1346,73,male,Canada,North America,"Retail, Restaurant",not inherited
+1347,69,male,United States,North America,Technology,not inherited
+1348,50,male,United States,North America,Media,not inherited
+1349,0,male,Japan,East Asia,Technology,not inherited
+1350,0,male,United States,North America,Media,not inherited
+1351,0,male,Japan,East Asia,Consumer,not inherited
+1352,0,male,Italy,Europe,Consumer,not inherited
+1353,72,female,United States,North America,Media,inherited
+1354,0,female,United States,North America,Other,not inherited
+1355,63,male,United States,North America,Financial,not inherited
+1356,55,male,Hong Kong,East Asia,Real Estate,inherited
+1357,60,male,Malaysia,East Asia,Financial,not inherited
+1358,0,male,United States,North America,Real Estate,not inherited
+1359,64,male,United States,North America,"Retail, Restaurant",inherited
+1360,46,female,United States,North America,Technology,inherited
+1361,71,male,United States,North America,Media,inherited
+1362,73,male,United States,North America,Consumer,not inherited
+1363,79,male,Hong Kong,East Asia,Real Estate,not inherited
+1364,68,male,United States,North America,Real Estate,not inherited
+1365,56,male,Hong Kong,East Asia,"Retail, Restaurant",inherited
+1366,0,male,Russia,Europe,Energy,not inherited
+1367,0,male,United Kingdom,Europe,Media,inherited
+1368,69,male,United States,North America,Construction,not inherited
+1369,69,male,United States,North America,Technology,not inherited
+1370,53,male,Hong Kong,East Asia,Consumer,inherited
+1371,53,male,Russia,Europe,Consumer,not inherited
+1372,43,male,South Korea,East Asia,Consumer,inherited
+1373,60,female,Germany,Europe,Consumer,inherited
+1374,75,male,United States,North America,Real Estate,inherited
+1375,62,male,Sweden,Europe,Real Estate,inherited
+1376,69,male,United States,North America,Media,not inherited
+1377,83,male,Japan,East Asia,"Retail, Restaurant",not inherited
+1378,70,male,United States,North America,Consumer,not inherited
+1379,62,male,United States,North America,Financial,not inherited
+1380,79,male,Australia,North America,Real Estate,inherited
+1381,78,male,Taiwan,East Asia,Real Estate,not inherited
+1382,55,male,Spain,Europe,Construction,inherited
+1383,59,female,United States,North America,Technology,inherited
+1384,67,male,United States,North America,Media,not inherited
+1385,51,male,China,East Asia,Financial,not inherited
+1386,52,female,United States,North America,"Retail, Restaurant",inherited
+1387,73,male,Germany,Europe,Technology,not inherited
+1388,93,male,Brazil,Latin America,Financial,inherited
+1389,57,male,Finland,Europe,Construction,inherited
+1390,76,male,Canada,North America,Energy,not inherited
+1391,52,male,Canada,North America,"Retail, Restaurant",not inherited
+1392,92,male,Philippines,East Asia,Construction,not inherited
+1393,82,female,United States,North America,Consumer,not inherited
+1394,66,male,Hong Kong,East Asia,Real Estate,not inherited
+1395,46,male,China,East Asia,Technology,not inherited
+1396,65,male,United States,North America,Financial,not inherited
+1397,71,male,France,Europe,Consumer,inherited
+1398,49,male,United States,North America,Technology,not inherited
+1399,48,male,Germany,Europe,Consumer,inherited
+1400,55,male,Russia,Europe,Energy,not inherited
+1401,66,male,Germany,Europe,Other,inherited
+1402,77,male,United States,North America,Technology,not inherited
+1403,62,female,Germany,Europe,Consumer,inherited
+1404,58,male,Italy,Europe,Consumer,not inherited
+1405,63,male,Taiwan,East Asia,Financial,not inherited
+1406,83,male,Turkey,Middle East/North Africa,Construction,not inherited
+1407,50,male,Germany,Europe,Consumer,inherited
+1408,66,male,Switzerland,Europe,Financial,inherited
+1409,63,male,United States,North America,Energy,not inherited
+1410,61,male,Germany,Europe,Consumer,inherited
+1411,75,male,Belgium,Europe,Financial,not inherited
+1412,0,male,United States,North America,Financial,not inherited
+1413,48,female,Spain,Europe,Construction,inherited
+1414,0,female,Argentina,Latin America,Construction,inherited
+1415,62,male,Malaysia,East Asia,Media,not inherited
+1416,57,female,Sweden,Europe,Financial,inherited
+1417,59,male,United States,North America,Technology,not inherited
+1418,59,male,Portugal,Europe,"Retail, Restaurant",not inherited
+1419,0,male,Switzerland,Europe,Financial,inherited
+1420,55,male,United States,North America,Financial,not inherited
+1421,53,male,United States,North America,Technology,not inherited
+1422,40,male,South Korea,East Asia,Consumer,inherited
+1423,34,male,United States,North America,Technology,not inherited
+1424,77,male,United States,North America,Real Estate,inherited
+1425,65,male,United States,North America,Other,inherited
+1426,0,female,United States,North America,Consumer,inherited
+1427,0,female,Argentina,Latin America,Media,inherited
+1428,50,female,Spain,Europe,Construction,inherited
+1429,0,male,United States,North America,Technology,not inherited
+1430,66,male,Spain,Europe,"Retail, Restaurant",not inherited
+1431,0,male,Singapore,East Asia,Financial,not inherited
+1432,0,male,United Kingdom,Europe,Real Estate,inherited
+1433,47,male,Mexico,Latin America,Construction,not inherited
+1434,55,female,United States,North America,Consumer,inherited
+1435,0,married couple,Israel,Middle East/North Africa,Technology,not inherited
+1436,0,male,France,Europe,Financial,not inherited
+1437,56,male,United States,North America,Other,inherited
+1438,75,male,United States,North America,Financial,not inherited
+1439,32,male,United States,North America,Technology,not inherited
+1440,50,male,United States,North America,Financial,not inherited
+1441,0,male,New Zealand,North America,Energy,inherited
+1442,69,male,United States,North America,Financial,not inherited
+1443,0,male,Hong Kong,East Asia,Real Estate,inherited
+1444,0,male,United States,North America,Consumer,not inherited
+1445,0,male,United Kingdom,Europe,"Retail, Restaurant",not inherited
+1446,50,male,Canada,North America,Financial,inherited
+1447,0,male,United States,North America,Media,not inherited
+1448,71,male,Egypt,Middle East/North Africa,Construction,not inherited
+1449,65,male,Switzerland,Europe,Energy,not inherited
+1450,0,male,United States,North America,Technology,not inherited
+1451,67,male,United States,North America,Real Estate,not inherited
+1452,0,male,Japan,East Asia,Technology,inherited
+1453,64,male,United States,North America,Financial,not inherited
+1454,58,male,Japan,East Asia,Construction,inherited
+1455,36,male,United States,North America,Financial,not inherited
+1456,46,male,United States,North America,Financial,not inherited
+1457,72,male,Singapore,East Asia,Financial,inherited
+1458,68,male,United States,North America,Other,inherited
+1459,51,male,United States,North America,Media,inherited
+1460,63,male,United States,North America,Financial,inherited
+1461,72,male,South Africa,Sub-Saharan Africa,"Retail, Restaurant",not inherited
+1462,76,male,India,South Asia,Technology,not inherited
+1463,69,male,United States,North America,"Retail, Restaurant",not inherited
+1464,77,male,United States,North America,Financial,not inherited
+1465,0,male,Switzerland,Europe,Other,not inherited
+1466,73,female,Austria,Europe,"Retail, Restaurant",inherited
+1467,70,male,Algeria,Middle East/North Africa,Consumer,not inherited
+1468,64,male,United States,North America,Financial,inherited
+1469,82,male,United States,North America,Financial,not inherited
+1470,62,male,China,East Asia,Consumer,not inherited
+1471,51,male,China,East Asia,Consumer,not inherited
+1472,60,female,United States,North America,Financial,inherited
+1473,0,female,Switzerland,Europe,Other,not inherited
+1474,67,male,Greece,Europe,Financial,inherited
+1475,53,male,Ukraine,Europe,Construction,not inherited
+1476,46,male,Russia,Europe,Financial,not inherited
+1477,45,male,Brazil,Latin America,Financial,not inherited
+1478,53,male,United States,North America,Real Estate,inherited
+1479,85,male,Brazil,Latin America,Financial,inherited
+1480,84,male,United States,North America,Construction,not inherited
+1481,67,male,United States,North America,Financial,not inherited
+1482,91,male,Canada,North America,Real Estate,not inherited
+1483,64,male,United States,North America,Financial,not inherited
+1484,63,male,United Kingdom,Europe,Real Estate,not inherited
+1485,81,male,Brazil,Latin America,Financial,inherited
+1486,72,male,Germany,Europe,Consumer,inherited
+1487,71,male,United States,North America,Media,not inherited
+1488,64,male,United States,North America,Consumer,not inherited
+1489,49,male,United States,North America,Real Estate,inherited
+1490,74,male,United States,North America,Consumer,inherited
+1491,70,female,United States,North America,Technology,not inherited
+1492,83,female,Brazil,Latin America,Financial,inherited
+1493,66,male,Egypt,Middle East/North Africa,Financial,inherited
+1494,89,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+1495,58,male,Lebanon,Middle East/North Africa,Media,not inherited
+1496,71,male,United States,North America,Financial,inherited
+1497,65,male,United States,North America,"Retail, Restaurant",not inherited
+1498,51,male,China,East Asia,Technology,not inherited
+1499,60,male,United States,North America,Financial,not inherited
+1500,47,male,Cyprus,Europe,"Retail, Restaurant",not inherited
+1501,62,male,Malaysia,East Asia,Financial,not inherited
+1502,69,male,Lebanon,Middle East/North Africa,Media,not inherited
+1503,74,male,Germany,Europe,Consumer,not inherited
+1504,93,male,Taiwan,East Asia,Construction,not inherited
+1505,64,male,United States,North America,Financial,not inherited
+1506,65,male,Israel,Middle East/North Africa,Real Estate,not inherited
+1507,51,male,Russia,Europe,Construction,not inherited
+1508,77,male,United States,North America,Media,not inherited
+1509,53,male,Australia,North America,Consumer,inherited
+1510,42,male,United States,North America,Technology,not inherited
+1511,51,male,United States,North America,"Retail, Restaurant",not inherited
+1512,66,male,United States,North America,"Retail, Restaurant",not inherited
+1513,67,male,Germany,Europe,Construction,inherited
+1514,55,male,United States,North America,Consumer,inherited
+1515,72,male,United States,North America,Consumer,not inherited
+1516,57,female,United States,North America,Consumer,inherited
+1517,69,male,Turkey,Middle East/North Africa,Financial,not inherited
+1518,84,female,United States,North America,Consumer,inherited
+1519,76,male,United States,North America,Consumer,inherited
+1520,71,male,United States,North America,Other,not inherited
+1521,65,male,United States,North America,Energy,not inherited
+1522,70,male,United States,North America,Consumer,not inherited
+1523,64,male,Australia,North America,Financial,not inherited
+1524,82,male,India,South Asia,Real Estate,inherited
+1525,37,male,Hong Kong,East Asia,Real Estate,inherited
+1526,61,male,China,East Asia,Financial,not inherited
+1527,74,male,France,Europe,Consumer,not inherited
+1528,78,male,Australia,North America,Technology,not inherited
+1529,83,male,United States,North America,"Retail, Restaurant",not inherited
+1530,73,male,United States,North America,Consumer,inherited
+1531,58,male,United States,North America,Consumer,inherited
+1532,74,male,Hong Kong,East Asia,Real Estate,inherited
+1533,80,male,Hong Kong,East Asia,"Retail, Restaurant",not inherited
+1534,49,male,China,East Asia,Energy,not inherited
+1535,54,female,United States,North America,Consumer,inherited
+1536,60,male,India,South Asia,Construction,not inherited
+1537,70,male,Italy,Europe,Consumer,not inherited
+1538,47,male,United States,North America,Technology,not inherited
+1539,98,male,United States,North America,Energy,inherited
+1540,0,male,United States,North America,Consumer,not inherited
+1541,58,male,United Kingdom,Europe,Construction,not inherited
+1542,67,male,Brazil,Latin America,Financial,inherited
+1543,72,male,Italy,Europe,Consumer,not inherited
+1544,76,female,Italy,Europe,Consumer,not inherited
+1545,85,male,United States,North America,Consumer,inherited
+1546,71,male,United States,North America,Real Estate,not inherited
+1547,56,male,Colombia,Latin America,Financial,not inherited
+1548,0,female,United States,North America,Consumer,not inherited
+1549,52,male,Brazil,Latin America,Financial,inherited
+1550,39,male,United States,North America,Financial,not inherited
+1551,52,male,United States,North America,Consumer,inherited
+1552,83,female,United States,North America,Consumer,inherited
+1553,49,male,United States,North America,Financial,not inherited
+1554,78,male,Italy,Europe,Consumer,not inherited
+1555,45,female,Switzerland,Europe,Construction,inherited
+1556,52,male,United States,North America,Financial,not inherited
+1557,68,male,Switzerland,Europe,Consumer,inherited
+1558,64,male,Hong Kong,East Asia,"Retail, Restaurant",not inherited
+1559,60,female,United States,North America,Media,not inherited
+1560,54,male,Brazil,Latin America,Financial,inherited
+1561,38,female,Switzerland,Europe,Construction,inherited
+1562,72,male,United States,North America,Other,not inherited
+1563,63,male,United States,North America,Real Estate,inherited
+1564,49,male,United States,North America,Financial,not inherited
+1565,82,male,United States,North America,Construction,not inherited
+1566,57,male,Brazil,Latin America,Financial,inherited
+1567,77,male,Brazil,Latin America,"Retail, Restaurant",inherited
+1568,55,female,Germany,Europe,Real Estate,inherited
+1569,79,male,Portugal,Europe,"Retail, Restaurant",inherited
+1570,90,male,United States,North America,Real Estate,not inherited
+1571,52,female,Hong Kong,East Asia,Real Estate,inherited
+1572,70,male,Germany,Europe,Technology,not inherited
+1573,72,male,Hong Kong,East Asia,Other,inherited
+1574,67,male,Germany,Europe,"Retail, Restaurant",not inherited
+1575,67,male,United States,North America,Real Estate,inherited
+1576,46,male,Turkey,Middle East/North Africa,Construction,not inherited
+1577,51,male,India,South Asia,Construction,not inherited
+1578,62,male,China,East Asia,Real Estate,not inherited
+1579,88,female,United States,North America,Financial,inherited
+1580,61,male,United Kingdom,Europe,Consumer,not inherited
+1581,67,male,Thailand,East Asia,Media,inherited
+1582,75,male,United States,North America,Consumer,not inherited
+1583,64,female,United States,North America,Consumer,inherited
+1584,58,male,Japan,East Asia,"Retail, Restaurant",not inherited
+1585,0,male,Germany,Europe,"Retail, Restaurant",inherited
+1586,59,male,United States,North America,Financial,not inherited
+1587,59,male,Egypt,Middle East/North Africa,Media,inherited
+1588,81,male,Morocco,Middle East/North Africa,Financial,inherited
+1589,62,male,Indonesia,East Asia,Financial,not inherited
+1590,78,male,France,Europe,"Retail, Restaurant",not inherited
+1591,66,male,United States,North America,Energy,inherited
+1592,0,male,United Arab Emirates,Middle East/North Africa,Financial,inherited
+1593,51,male,South Korea,East Asia,Consumer,inherited
+1594,65,male,Russia,Europe,Construction,not inherited
+1595,85,male,United States,North America,Energy,inherited
+1596,76,male,United States,North America,Financial,not inherited
+1597,57,male,China,East Asia,Consumer,not inherited
+1598,48,male,Russia,Europe,Construction,not inherited
+1599,55,male,New Zealand,North America,Financial,not inherited
+1600,72,female,United States,North America,Technology,inherited
+1601,71,male,United States,North America,Financial,not inherited
+1602,70,female,United States,North America,Real Estate,not inherited
+1603,57,female,Switzerland,Europe,Technology,inherited
+1604,56,female,Denmark,Europe,Consumer,inherited
+1605,46,male,France,Europe,Consumer,inherited
+1606,54,male,United States,North America,Real Estate,not inherited
+1607,47,male,Norway,Europe,"Retail, Restaurant",inherited
+1608,66,male,Hong Kong,East Asia,Real Estate,not inherited
+1609,39,male,China,East Asia,Technology,not inherited
+1610,33,female,France,Europe,Consumer,inherited
+1611,41,male,United States,North America,"Retail, Restaurant",not inherited
+1612,64,male,Brazil,Latin America,Consumer,not inherited
+1613,52,male,South Africa,Sub-Saharan Africa,Construction,not inherited
+1614,62,male,China,East Asia,"Retail, Restaurant",not inherited
+1615,35,male,United States,North America,Technology,not inherited
+1616,61,male,United States,North America,"Retail, Restaurant",not inherited
+1617,59,male,China,East Asia,Real Estate,not inherited
+1618,70,male,Hong Kong,East Asia,Technology,not inherited
+1619,84,male,Malaysia,East Asia,Construction,not inherited
+1620,83,male,United States,North America,Media,not inherited
+1621,62,female,United States,North America,Construction,inherited
+1622,0,female,United Kingdom,Europe,"Retail, Restaurant",not inherited
+1623,50,male,Spain,Europe,Construction,not inherited
+1624,42,male,Russia,Europe,Financial,not inherited
+1625,70,male,Brazil,Latin America,Real Estate,not inherited
+1626,46,male,Mexico,Latin America,Media,inherited
+1627,74,male,Austria,Europe,Other,inherited
+1628,74,male,United States,North America,Financial,inherited
+1629,61,male,China,East Asia,Consumer,not inherited
+1630,69,male,Singapore,East Asia,Technology,not inherited
+1631,73,female,Chile,Latin America,"Retail, Restaurant",inherited
+1632,55,male,United States,North America,Media,not inherited
+1633,60,male,Germany,Europe,Construction,inherited
+1634,44,male,China,East Asia,Technology,not inherited
+1635,72,male,Hong Kong,East Asia,Consumer,not inherited
+1636,0,male,United Kingdom,Europe,"Retail, Restaurant",not inherited
+1637,59,male,United States,North America,Technology,not inherited
+1638,69,male,United States,North America,Real Estate,not inherited
+1639,34,male,United States,North America,Technology,not inherited
+1640,64,male,China,East Asia,Consumer,not inherited
+1641,60,male,Sweden,Europe,Energy,not inherited
+1642,69,male,United States,North America,Real Estate,not inherited
+1643,62,male,Russia,Europe,Construction,not inherited
+1644,62,male,Russia,Europe,Energy,not inherited
+1645,49,male,Japan,East Asia,Media,not inherited
+1646,0,male,United Arab Emirates,Middle East/North Africa,"Retail, Restaurant",inherited
+1647,52,male,Greece,Europe,Construction,not inherited
+1648,75,male,Portugal,Europe,"Retail, Restaurant",not inherited
+1649,58,male,Chile,Latin America,Consumer,inherited
+1650,57,male,Germany,Europe,"Retail, Restaurant",not inherited
+1651,50,male,United Kingdom,Europe,Consumer,not inherited
+1652,53,male,South Korea,East Asia,Consumer,inherited
+1653,67,male,United Kingdom,Europe,Media,not inherited
+1654,49,male,United States,North America,"Retail, Restaurant",inherited
+1655,40,male,Israel,Middle East/North Africa,Construction,not inherited
+1656,62,male,Canada,North America,Technology,not inherited
+1657,68,male,Peru,Latin America,Consumer,not inherited
+1658,68,male,Chile,Latin America,Consumer,inherited
+1659,73,male,Italy,Europe,Financial,not inherited
+1660,63,female,Nigeria,Sub-Saharan Africa,Energy,not inherited
+1661,49,male,Spain,Europe,Construction,inherited
+1662,76,male,United States,North America,Financial,not inherited
+1663,95,male,United States,North America,Financial,inherited
+1664,74,male,Germany,Europe,Media,inherited
+1665,68,male,United States,North America,Technology,not inherited
+1666,59,male,United States,North America,Real Estate,not inherited
+1667,70,male,Ireland,Europe,Consumer,inherited
+1668,0,male,Spain,Europe,Construction,inherited
+1669,82,male,Spain,Europe,Construction,not inherited
+1670,55,male,Norway,Europe,Other,not inherited
+1671,69,female,Sweden,Europe,Financial,inherited
+1672,67,male,United States,North America,Financial,not inherited
+1673,65,male,United States,North America,Technology,not inherited
+1674,84,male,Indonesia,East Asia,Financial,not inherited
+1675,76,male,United States,North America,Real Estate,not inherited
+1676,58,male,China,East Asia,Consumer,not inherited
+1677,70,female,Chile,Latin America,Consumer,inherited
+1678,60,male,Greece,Europe,Other,inherited
+1679,78,male,United States,North America,Real Estate,not inherited
+1680,69,male,Japan,East Asia,Consumer,not inherited
+1681,76,male,Germany,Europe,Consumer,not inherited
+1682,65,male,Sweden,Europe,Financial,inherited
+1683,42,male,Israel,Middle East/North Africa,"Retail, Restaurant",not inherited
+1684,63,male,United States,North America,Energy,not inherited
+1685,62,male,Russia,Europe,Real Estate,not inherited
+1686,57,male,United States,North America,Financial,inherited
+1687,64,male,United States,North America,Financial,not inherited
+1688,65,male,Hong Kong,East Asia,Other,inherited
+1689,50,male,United States,North America,Consumer,inherited
+1690,0,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+1691,59,male,Czech Republic,Europe,Consumer,not inherited
+1692,72,male,United States,North America,Media,not inherited
+1693,61,male,United States,North America,"Retail, Restaurant",not inherited
+1694,90,male,India,South Asia,Consumer,not inherited
+1695,83,male,Colombia,Latin America,Consumer,inherited
+1696,62,male,Hong Kong,East Asia,Real Estate,not inherited
+1697,78,female,Switzerland,Europe,Consumer,inherited
+1698,77,male,United States,North America,Real Estate,not inherited
+1699,89,male,Hong Kong,East Asia,Real Estate,not inherited
+1700,92,female,Germany,Europe,Consumer,inherited
+1701,72,male,Spain,Europe,Financial,inherited
+1702,63,male,United States,North America,Financial,not inherited
+1703,41,male,United States,North America,Consumer,not inherited
+1704,73,male,Singapore,East Asia,Financial,inherited
+1705,54,male,Canada,North America,"Retail, Restaurant",not inherited
+1706,52,male,Poland,Europe,Financial,not inherited
+1707,45,male,China,East Asia,Consumer,not inherited
+1708,67,male,France,Europe,"Retail, Restaurant",not inherited
+1709,50,male,China,East Asia,Consumer,inherited
+1710,59,female,Switzerland,Europe,Technology,inherited
+1711,72,male,Spain,Europe,Real Estate,not inherited
+1712,76,male,United States,North America,Real Estate,not inherited
+1713,84,male,Egypt,Middle East/North Africa,Construction,not inherited
+1714,60,male,India,South Asia,Technology,inherited
+1715,62,male,United Kingdom,Europe,Media,not inherited
+1716,60,male,United States,North America,Energy,not inherited
+1717,72,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+1718,64,male,Chile,Latin America,Financial,not inherited
+1719,67,male,Hong Kong,East Asia,Consumer,not inherited
+1720,61,male,Guernsey,Europe,Financial,not inherited
+1721,56,male,United States,North America,"Retail, Restaurant",not inherited
+1722,60,male,Singapore,East Asia,Financial,not inherited
+1723,54,male,Russia,Europe,Financial,not inherited
+1724,49,male,Russia,Europe,Real Estate,not inherited
+1725,46,male,Russia,Europe,Real Estate,not inherited
+1726,81,male,United States,North America,Financial,inherited
+1727,69,male,United States,North America,Financial,not inherited
+1728,51,male,China,East Asia,Real Estate,not inherited
+1729,88,male,Italy,Europe,"Retail, Restaurant",not inherited
+1730,53,male,China,East Asia,Financial,not inherited
+1731,81,male,United States,North America,Financial,inherited
+1732,90,male,United States,North America,Consumer,not inherited
+1733,81,male,Philippines,East Asia,Financial,not inherited
+1734,52,male,Ukraine,Europe,Financial,not inherited
+1735,77,female,India,South Asia,Media,inherited
+1736,69,male,United States,North America,Other,inherited
+1737,52,female,United States,North America,Real Estate,inherited
+1738,65,male,Switzerland,Europe,Energy,not inherited
+1739,41,male,China,East Asia,Media,not inherited
+1740,71,male,United Kingdom,Europe,Real Estate,not inherited
+1741,68,male,Chile,Latin America,Consumer,not inherited
+1742,78,male,United States,North America,Financial,not inherited
+1743,64,male,Singapore,East Asia,Construction,not inherited
+1744,61,male,Italy,Europe,Consumer,not inherited
+1745,51,male,Poland,Europe,Financial,not inherited
+1746,54,female,United States,North America,Real Estate,inherited
+1747,75,male,United States,North America,Real Estate,inherited
+1748,68,male,Canada,North America,"Retail, Restaurant",not inherited
+1749,80,male,United States,North America,Media,not inherited
+1750,68,male,United States,North America,Other,inherited
+1751,48,male,China,East Asia,Media,not inherited
+1752,69,male,China,East Asia,Technology,not inherited
+1753,55,male,China,East Asia,Technology,not inherited
+1754,68,male,Egypt,Middle East/North Africa,Financial,inherited
+1755,52,male,Norway,Europe,Financial,not inherited
+1756,47,male,Lebanon,Middle East/North Africa,Real Estate,inherited
+1757,81,male,United States,North America,Real Estate,inherited
+1758,56,male,Kazakhstan,South Asia,Construction,not inherited
+1759,57,male,Canada,North America,Consumer,not inherited
+1760,52,male,United States,North America,Financial,not inherited
+1761,74,male,Italy,Europe,"Retail, Restaurant",inherited
+1762,37,male,United States,North America,Technology,not inherited
+1763,86,male,Canada,North America,"Retail, Restaurant",not inherited
+1764,60,male,China,East Asia,Technology,not inherited
+1765,57,male,United States,North America,Financial,not inherited
+1766,58,male,Netherlands,Europe,Media,not inherited
+1767,48,male,India,South Asia,Media,not inherited
+1768,76,male,Australia,North America,Other,not inherited
+1769,69,male,Spain,Europe,"Retail, Restaurant",not inherited
+1770,53,male,United Kingdom,Europe,Financial,not inherited
+1771,60,male,Switzerland,Europe,Technology,inherited
+1772,74,male,Ireland,Europe,Construction,not inherited
+1773,79,male,Brazil,Latin America,Financial,not inherited
+1774,76,male,United Kingdom,Europe,Real Estate,not inherited
+1775,36,male,Japan,East Asia,Technology,not inherited
+1776,46,male,United States,North America,Technology,not inherited
+1777,60,female,Brazil,Latin America,Construction,inherited
+1778,63,female,Brazil,Latin America,Construction,inherited
+1779,75,male,United States,North America,Real Estate,not inherited
+1780,66,male,United States,North America,Technology,not inherited
+1781,64,female,Brazil,Latin America,Construction,inherited
+1782,85,female,Turkey,Middle East/North Africa,Financial,inherited
+1783,53,male,United States,North America,Other,not inherited
+1784,75,male,United States,North America,Media,not inherited
+1785,49,male,United States,North America,Construction,not inherited
+1786,0,male,Singapore,East Asia,Consumer,not inherited
+1787,58,male,Russia,Europe,Energy,not inherited
+1788,55,male,United States,North America,Energy,not inherited
+1789,59,female,Spain,Europe,Construction,inherited
+1790,71,male,Brazil,Latin America,Consumer,not inherited
+1791,80,male,United States,North America,"Retail, Restaurant",not inherited
+1792,82,male,Canada,North America,Consumer,inherited
+1793,83,male,Australia,North America,Financial,not inherited
+1794,67,male,Mexico,Latin America,Construction,not inherited
+1795,69,male,United States,North America,Energy,inherited
+1796,49,male,Turkey,Middle East/North Africa,Financial,inherited
+1797,69,male,United States,North America,Financial,not inherited
+1798,67,female,Spain,Europe,Financial,inherited
+1799,60,male,United States,North America,Consumer,not inherited
+1800,51,male,Russia,Europe,Energy,not inherited
+1801,51,male,Ukraine,Europe,Financial,not inherited
+1802,54,male,United States,North America,Financial,not inherited
+1803,45,male,United States,North America,Technology,not inherited
+1804,82,female,United States,North America,Other,not inherited
+1805,57,male,United States,North America,Energy,inherited
+1806,50,male,China,East Asia,Construction,not inherited
+1807,0,male,India,South Asia,Technology,inherited
+1808,85,male,United States,North America,Technology,not inherited
+1809,83,male,Turkey,Middle East/North Africa,Financial,inherited
+1810,54,male,Canada,North America,Energy,not inherited
+1811,59,male,Singapore,East Asia,Real Estate,inherited
+1812,85,male,Germany,Europe,Financial,not inherited
+1813,73,male,United States,North America,"Retail, Restaurant",not inherited
+1814,54,male,Italy,Europe,Consumer,not inherited
+1815,57,male,United States,North America,Financial,not inherited
+1816,64,male,Indonesia,East Asia,Financial,not inherited
+1817,58,female,Germany,Europe,Consumer,inherited
+1818,0,male,Taiwan,East Asia,Financial,not inherited
+1819,0,male,Japan,East Asia,"Retail, Restaurant",not inherited
+1820,63,male,Germany,Europe,"Retail, Restaurant",inherited
+1821,72,male,United States,North America,Other,not inherited
+1822,65,male,Hong Kong,East Asia,Real Estate,not inherited
+1823,61,male,China,East Asia,Real Estate,not inherited
+1824,43,male,China,East Asia,Technology,not inherited
+1825,56,male,China,East Asia,Energy,not inherited
+1826,79,male,United States,North America,Real Estate,not inherited
+1827,60,male,United States,North America,Financial,not inherited
+1828,49,male,Russia,Europe,Financial,not inherited
+1829,83,male,Norway,Europe,"Retail, Restaurant",inherited
+1830,57,male,Indonesia,East Asia,Construction,inherited
+1831,50,male,Switzerland,Europe,Financial,inherited
+1832,68,male,United States,North America,Consumer,inherited
+1833,57,male,United States,North America,Consumer,not inherited
+1834,58,male,United States,North America,Financial,not inherited
+1835,44,male,China,East Asia,Technology,not inherited
+1836,62,male,Sweden,Europe,Financial,not inherited
+1837,59,male,Canada,North America,Real Estate,inherited
+1838,66,male,Mexico,Latin America,Financial,not inherited
+1839,69,female,United States,North America,Construction,inherited
+1840,60,male,China,East Asia,Consumer,not inherited
+1841,73,male,United States,North America,Consumer,not inherited
+1842,55,male,United States,North America,Real Estate,inherited
+1843,90,male,United States,North America,Real Estate,inherited
+1844,63,male,Ireland,Europe,Financial,not inherited
+1845,45,male,Russia,Europe,Financial,not inherited
+1846,49,male,Russia,Europe,Construction,not inherited
+1847,77,male,United States,North America,"Retail, Restaurant",not inherited
+1848,81,male,Germany,Europe,"Retail, Restaurant",not inherited
+1849,49,female,Australia,North America,Consumer,inherited
+1850,66,male,Spain,Europe,Construction,not inherited
+1851,47,male,Germany,Europe,Real Estate,inherited
+1852,80,male,United States,North America,Energy,inherited
+1853,54,male,Canada,North America,Other,not inherited
+1854,51,female,Australia,North America,Consumer,inherited
+1855,67,male,United States,North America,Financial,not inherited
+1856,54,male,United States,North America,Financial,not inherited
+1857,52,male,United States,North America,Technology,not inherited
+1858,88,male,United States,North America,Construction,not inherited
+1859,61,male,United States,North America,Real Estate,inherited
+1860,64,male,United States,North America,Real Estate,not inherited
+1861,59,male,Mexico,Latin America,Consumer,inherited
+1862,57,male,Hong Kong,East Asia,Real Estate,not inherited
+1863,0,male,United States,North America,Construction,inherited
+1864,57,female,United States,North America,Technology,not inherited
+1865,52,male,United States,North America,Financial,not inherited
+1866,71,male,France,Europe,Consumer,inherited
+1867,52,male,United States,North America,Financial,not inherited
+1868,62,male,Hong Kong,East Asia,Real Estate,not inherited
+1869,60,male,United States,North America,Consumer,inherited
+1870,77,male,United States,North America,Energy,not inherited
+1871,70,male,United States,North America,Financial,not inherited
+1872,51,male,Russia,Europe,Financial,not inherited
+1873,65,male,Singapore,East Asia,Consumer,not inherited
+1874,51,male,China,East Asia,"Retail, Restaurant",not inherited
+1875,60,male,South Korea,East Asia,Financial,inherited
+1876,46,male,Hong Kong,East Asia,Energy,not inherited
+1877,50,male,China,East Asia,Construction,not inherited
+1878,61,male,United States,North America,Technology,not inherited
+1879,61,male,Taiwan,East Asia,Financial,inherited
+1880,60,male,Russia,Europe,Consumer,not inherited
+1881,46,male,China,East Asia,Real Estate,not inherited
+1882,56,male,United States,North America,Consumer,inherited
+1883,46,male,United Kingdom,Europe,Construction,not inherited
+1884,59,male,United States,North America,Technology,not inherited
+1885,84,male,Brazil,Latin America,"Retail, Restaurant",not inherited
+1886,89,male,United States,North America,Consumer,not inherited
+1887,59,male,South Korea,East Asia,"Retail, Restaurant",inherited
+1888,64,male,China,East Asia,Technology,not inherited
+1889,64,male,Chile,Latin America,Financial,not inherited
+1890,52,male,Russia,Europe,Construction,not inherited
+1891,53,male,Russia,Europe,Construction,not inherited
+1892,63,male,United States,North America,Technology,not inherited
+1893,73,male,India,South Asia,Real Estate,not inherited
+1894,77,male,France,Europe,Consumer,not inherited
+1895,87,male,United States,North America,Financial,not inherited
+1896,78,male,United States,North America,Real Estate,not inherited
+1897,66,female,Brazil,Latin America,Real Estate,not inherited
+1898,81,male,Argentina,Latin America,Real Estate,not inherited
+1899,85,male,United States,North America,Financial,not inherited
+1900,0,male,Germany,Europe,Consumer,inherited
+1901,56,male,China,East Asia,Media,not inherited
+1902,75,male,Netherlands,Europe,Construction,not inherited
+1903,71,male,United Kingdom,Europe,Energy,inherited
+1904,76,male,United States,North America,Real Estate,not inherited
+1905,70,male,United States,North America,Technology,not inherited
+1906,46,male,United Kingdom,Europe,Media,inherited
+1907,48,male,Russia,Europe,Construction,not inherited
+1908,0,male,Taiwan,East Asia,Construction,inherited
+1909,60,male,Brazil,Latin America,Financial,not inherited
+1910,63,male,Brazil,Latin America,"Retail, Restaurant",inherited
+1911,52,male,Russia,Europe,Construction,not inherited
+1912,85,male,Morocco,Middle East/North Africa,Financial,not inherited
+1913,50,male,China,East Asia,Technology,not inherited
+1914,85,male,Egypt,Middle East/North Africa,Other,not inherited
+1915,81,male,United States,North America,"Retail, Restaurant",not inherited
+1916,57,female,United States,North America,Technology,inherited
+1917,47,male,Hong Kong,East Asia,Media,inherited
+1918,69,male,United States,North America,Technology,not inherited
+1919,83,male,Canada,North America,Real Estate,not inherited
+1920,64,male,Brazil,Latin America,Energy,not inherited
+1921,71,male,United States,North America,Energy,inherited
+1922,66,male,China,East Asia,Financial,not inherited
+1923,63,male,India,South Asia,Media,not inherited
+1924,94,male,Saudi Arabia,Middle East/North Africa,Financial,not inherited
+1925,86,male,Taiwan,East Asia,Construction,not inherited
+1926,61,male,Taiwan,East Asia,Consumer,not inherited
+1927,57,male,Taiwan,East Asia,Consumer,not inherited
+1928,59,male,Taiwan,East Asia,Consumer,not inherited
+1929,55,male,Taiwan,East Asia,Consumer,not inherited
+1930,60,male,Austria,Europe,Other,not inherited
+1931,53,male,India,South Asia,Energy,not inherited
+1932,55,male,United Kingdom,Europe,Energy,not inherited
+1933,60,male,Italy,Europe,"Retail, Restaurant",not inherited
+1934,74,male,Germany,Europe,Technology,not inherited
+1935,57,male,United States,North America,Financial,not inherited
+1936,50,male,China,East Asia,Consumer,not inherited
+1937,50,male,China,East Asia,Technology,not inherited
+1938,73,male,France,Europe,Financial,not inherited
+1939,52,male,Canada,North America,Real Estate,not inherited
+1940,75,male,India,South Asia,Consumer,inherited
+1941,68,male,United States,North America,Technology,not inherited
+1942,55,male,China,East Asia,Technology,not inherited
+1943,72,female,Turkey,Middle East/North Africa,Financial,inherited
+1944,61,male,Indonesia,East Asia,Financial,not inherited
+1945,70,male,Indonesia,East Asia,Financial,not inherited
+1946,58,male,Russia,Europe,Real Estate,not inherited
+1947,71,male,United States,North America,"Retail, Restaurant",not inherited
+1948,54,male,Peru,Latin America,Financial,not inherited
+1949,70,male,Taiwan,East Asia,Real Estate,not inherited
+1950,51,male,China,East Asia,Technology,not inherited
+1951,45,female,China,East Asia,Financial,inherited
+1952,44,female,Hong Kong,East Asia,Consumer,not inherited
+1953,64,male,United States,North America,Media,not inherited
+1954,64,male,Macau,East Asia,Real Estate,not inherited
+1955,46,female,Kazakhstan,South Asia,Financial,not inherited
+1956,70,female,France,Europe,Media,inherited
+1957,44,male,United States,North America,Technology,not inherited
+1958,47,female,Turkey,Middle East/North Africa,Financial,inherited
+1959,60,male,United States,North America,Media,inherited
+1960,46,male,Israel,Middle East/North Africa,Technology,not inherited
+1961,72,male,United States,North America,Media,not inherited
+1962,56,male,United States,North America,Financial,not inherited
+1963,0,male,Germany,Europe,"Retail, Restaurant",not inherited
+1964,55,male,United States,North America,Technology,inherited
+1965,80,male,United States,North America,Technology,not inherited
+1966,77,male,Spain,Europe,Financial,inherited
+1967,62,female,United States,North America,Real Estate,inherited
+1968,57,male,United States,North America,Financial,not inherited
+1969,65,male,United States,North America,Media,inherited
+1970,70,male,Singapore,East Asia,Energy,not inherited
+1971,60,female,United States,North America,Real Estate,inherited
+1972,60,male,China,East Asia,Technology,not inherited
+1973,67,male,Germany,Europe,Technology,not inherited
+1974,58,male,India,South Asia,"Retail, Restaurant",not inherited
+1975,64,male,United States,North America,Technology,not inherited
+1976,53,male,Russia,Europe,Financial,not inherited
+1977,55,male,Cyprus,Europe,"Retail, Restaurant",not inherited
+1978,60,male,India,South Asia,Construction,not inherited
+1979,62,male,India,South Asia,Consumer,inherited
+1980,71,male,Mexico,Latin America,Financial,not inherited
+1981,72,male,United States,North America,Consumer,not inherited
+1982,91,male,Australia,North America,Real Estate,not inherited
+1983,56,male,India,South Asia,Other,not inherited
+1984,77,female,United States,North America,Financial,inherited
+1985,0,male,Switzerland,Europe,Consumer,not inherited
+1986,47,male,Kazakhstan,South Asia,Financial,not inherited
+1987,78,male,Malaysia,East Asia,Construction,not inherited
+1988,0,male,Taiwan,East Asia,Financial,inherited
+1989,52,male,China,East Asia,Technology,not inherited
+1990,52,male,Egypt,Middle East/North Africa,Financial,inherited
+1991,52,male,Russia,Europe,Technology,not inherited
+1992,45,male,Hong Kong,East Asia,Construction,not inherited
+1993,54,male,China,East Asia,Construction,not inherited
+1994,64,male,Canada,North America,"Retail, Restaurant",not inherited
+1995,66,male,United Kingdom,Europe,Consumer,not inherited
+1996,66,male,Monaco,Europe,Other,not inherited
+1997,72,male,Canada,North America,Financial,not inherited
+1998,67,male,Brazil,Latin America,Financial,inherited
+1999,79,male,United States,North America,Technology,not inherited
+2000,0,female,United States,North America,"Retail, Restaurant",not inherited
+2001,0,female,United States,North America,Consumer,not inherited
+2002,0,female,United States,North America,"Retail, Restaurant",not inherited
+2003,60,male,Australia,North America,Financial,not inherited
+2004,0,male,United States,North America,"Retail, Restaurant",not inherited
+2005,73,male,Indonesia,East Asia,Financial,not inherited
+2006,80,male,Thailand,East Asia,Real Estate,not inherited
+2007,60,male,South Korea,East Asia,"Retail, Restaurant",inherited
+2008,0,male,United States,North America,Consumer,not inherited
+2009,0,male,United States,North America,"Retail, Restaurant",not inherited
+2010,60,male,Israel,Middle East/North Africa,Construction,not inherited
+2011,60,male,Kazakhstan,South Asia,Construction,not inherited
+2012,52,male,Russia,Europe,Energy,not inherited
+2013,50,male,Russia,Europe,Technology,not inherited
+2014,57,male,Russia,Europe,Construction,not inherited
+2015,62,male,South Korea,East Asia,Consumer,inherited
+2016,79,male,Spain,Europe,"Retail, Restaurant",not inherited
+2017,56,male,Russia,Europe,Construction,not inherited
+2018,60,male,Australia,North America,Media,not inherited
+2019,50,male,China,East Asia,Technology,not inherited
+2020,54,male,China,East Asia,Real Estate,not inherited
+2021,43,male,Russia,Europe,Construction,not inherited
+2022,59,male,United States,North America,Consumer,not inherited
+2023,72,male,Netherlands,Europe,Media,not inherited
+2024,68,male,Japan,East Asia,Real Estate,not inherited
+2025,73,male,Australia,North America,Media,not inherited
+2026,73,male,South Korea,East Asia,Technology,not inherited
+2027,70,female,South Korea,East Asia,"Retail, Restaurant",inherited
+2028,58,male,China,East Asia,Technology,not inherited
+2029,53,male,United States,North America,Financial,not inherited
+2030,54,male,Indonesia,East Asia,Construction,not inherited
+2031,67,male,India,South Asia,Technology,not inherited
+2032,61,male,Belgium,Europe,Construction,not inherited
+2033,87,male,United States,North America,Financial,not inherited
+2034,62,male,Italy,Europe,Consumer,inherited
+2035,79,male,Netherlands,Europe,Consumer,inherited
+2036,59,male,Germany,Europe,Financial,inherited
+2037,48,male,China,East Asia,Consumer,not inherited
+2038,59,male,United States,North America,Media,not inherited
+2039,61,male,Philippines,East Asia,"Retail, Restaurant",not inherited
+2040,45,male,China,East Asia,Technology,not inherited
+2041,59,male,China,East Asia,Financial,not inherited
+2042,47,male,Germany,Europe,Consumer,inherited
+2043,69,male,Germany,Europe,Consumer,inherited
+2044,67,female,Germany,Europe,Consumer,inherited
+2045,41,male,Germany,Europe,Consumer,inherited
+2046,65,male,Germany,Europe,Consumer,inherited
+2047,55,male,Italy,Europe,Consumer,not inherited
+2048,84,male,Switzerland,Europe,Financial,not inherited
+2049,69,male,United States,North America,Technology,not inherited
+2050,35,female,Germany,Europe,Consumer,inherited
+2051,71,male,United States,North America,Financial,not inherited
+2052,63,male,Germany,Europe,Consumer,inherited
+2053,73,female,Germany,Europe,Consumer,inherited
+2054,51,male,Italy,Europe,Consumer,not inherited
+2055,53,male,Kazakhstan,South Asia,Construction,not inherited
+2056,83,male,Indonesia,East Asia,Construction,not inherited
+2057,50,male,United Kingdom,Europe,Financial,not inherited
+2058,30,male,Germany,Europe,Financial,inherited
+2059,86,male,United States,North America,Construction,not inherited
+2060,48,male,Italy,Europe,Consumer,not inherited
+2061,51,male,China,East Asia,Construction,not inherited
+2062,38,male,United States,North America,Financial,not inherited
+2063,52,male,Spain,Europe,Construction,inherited
+2064,45,male,United States,North America,Financial,not inherited
+2065,46,female,United Kingdom,Europe,Technology,not inherited
+2066,70,male,United States,North America,Financial,not inherited
+2067,62,male,China,East Asia,Consumer,not inherited
+2068,76,male,United States,North America,Technology,not inherited
+2069,49,male,China,East Asia,Construction,not inherited
+2070,62,male,United States,North America,Financial,not inherited
+2071,43,male,China,East Asia,"Retail, Restaurant",not inherited
+2072,54,male,United States,North America,Other,inherited
+2073,62,male,United States,North America,Construction,inherited
+2074,88,male,United States,North America,Other,not inherited
+2075,55,male,United States,North America,Technology,inherited
+2076,83,female,United States,North America,"Retail, Restaurant",inherited
+2077,78,male,Brazil,Latin America,Financial,not inherited
+2078,44,male,Czech Republic,Europe,Energy,not inherited
+2079,53,male,South Korea,East Asia,Media,inherited
+2080,46,male,China,East Asia,Financial,not inherited
+2081,55,male,United States,North America,Financial,not inherited
+2082,58,male,India,South Asia,Real Estate,not inherited
+2083,71,male,United States,North America,Financial,not inherited
+2084,55,male,Turkey,Middle East/North Africa,Construction,inherited
+2085,76,male,United States,North America,Financial,not inherited
+2086,45,male,Vietnam,East Asia,Real Estate,not inherited
+2087,64,male,United States,North America,Technology,not inherited
+2088,78,male,France,Europe,Construction,not inherited
+2089,56,female,Hong Kong,East Asia,Financial,not inherited
+2090,72,male,United States,North America,Construction,not inherited
+2091,74,male,United Kingdom,Europe,Construction,not inherited
+2092,76,male,United Kingdom,Europe,"Retail, Restaurant",not inherited
+2093,65,male,Chile,Latin America,Construction,inherited
+2094,61,male,United States,North America,Technology,not inherited
+2095,81,male,Italy,Europe,Construction,inherited
+2096,88,male,Canada,North America,Financial,not inherited
+2097,86,male,Taiwan,East Asia,Construction,not inherited
+2098,64,male,Thailand,East Asia,Financial,not inherited
+2099,63,male,Taiwan,East Asia,Technology,not inherited
+2100,62,male,India,South Asia,Technology,inherited
+2101,62,male,Malaysia,East Asia,Financial,not inherited
+2102,52,male,China,East Asia,Other,not inherited
+2103,52,male,China,East Asia,Construction,not inherited
+2104,37,male,Japan,East Asia,Technology,not inherited
+2105,69,male,Russia,Europe,Consumer,not inherited
+2106,48,male,China,East Asia,"Retail, Restaurant",not inherited
+2107,63,female,Turkey,Middle East/North Africa,Consumer,inherited
+2108,60,male,Turkey,Middle East/North Africa,Construction,not inherited
+2109,89,female,Peru,Latin America,Construction,inherited
+2110,58,female,Brazil,Latin America,Other,inherited
+2111,82,male,India,South Asia,Construction,inherited
+2112,0,male,Brazil,Latin America,Construction,not inherited
+2113,0,male,Germany,Europe,Consumer,inherited
+2114,86,male,United States,North America,Other,not inherited
+2115,87,female,Peru,Latin America,Construction,inherited
+2116,56,male,United States,North America,Financial,not inherited
+2117,44,male,China,East Asia,"Retail, Restaurant",not inherited
+2118,49,male,Russia,Europe,Construction,not inherited
+2119,64,male,Brazil,Latin America,Consumer,not inherited
+2120,69,male,Mexico,Latin America,Financial,not inherited
+2121,47,male,Russia,Europe,Energy,not inherited
+2122,64,male,Turkey,Middle East/North Africa,Technology,inherited
+2123,86,male,Taiwan,East Asia,Other,not inherited
+2124,41,male,China,East Asia,Technology,not inherited
+2125,78,male,Taiwan,East Asia,Real Estate,not inherited
+2126,57,male,United States,North America,Energy,not inherited
+2127,95,female,Germany,Europe,Consumer,inherited
+2128,68,male,Monaco,Europe,Other,not inherited
+2129,62,male,United States,North America,Energy,not inherited
+2130,59,male,Turkey,Middle East/North Africa,Technology,inherited
+2131,70,male,Italy,Europe,Construction,not inherited
+2132,65,male,United States,North America,Technology,not inherited
+2133,78,male,Argentina,Latin America,Energy,inherited
+2134,48,female,China,East Asia,Construction,not inherited
+2135,80,male,Germany,Europe,Consumer,inherited
+2136,62,male,Hong Kong,East Asia,Real Estate,not inherited
+2137,60,male,United States,North America,"Retail, Restaurant",not inherited
+2138,64,male,United States,North America,Consumer,not inherited
+2139,79,male,Spain,Europe,Construction,not inherited
+2140,54,male,Venezuela,Latin America,Financial,not inherited
+2141,69,male,South Korea,East Asia,Technology,inherited
+2142,49,male,China,East Asia,Technology,not inherited
+2143,57,female,Spain,Europe,Construction,inherited
+2144,72,female,France,Europe,Construction,inherited
+2145,54,male,United States,North America,Financial,not inherited
+2146,68,male,Italy,Europe,Energy,inherited
+2147,69,male,Turkey,Middle East/North Africa,Media,not inherited
+2148,66,male,Turkey,Middle East/North Africa,Construction,not inherited
+2149,74,female,France,Europe,Construction,inherited
+2150,62,male,India,South Asia,Technology,not inherited
+2151,69,male,United States,North America,Financial,not inherited
+2152,59,male,India,South Asia,Consumer,not inherited
+2153,66,male,United States,North America,Consumer,not inherited
+2154,61,male,Philippines,East Asia,Energy,inherited
+2155,43,male,Lebanon,Middle East/North Africa,Construction,inherited
+2156,58,male,India,South Asia,Technology,not inherited
+2157,66,male,Brazil,Latin America,Construction,inherited
+2158,69,male,United States,North America,Financial,not inherited
+2159,86,male,United States,North America,Other,not inherited
+2160,50,male,Ukraine,Europe,Construction,not inherited
+2161,56,male,Thailand,East Asia,"Retail, Restaurant",not inherited
+2162,81,male,Brazil,Latin America,Construction,not inherited
+2163,59,male,United States,North America,Financial,not inherited
+2164,48,male,China,East Asia,Construction,not inherited
+2165,45,male,Ukraine,Europe,Consumer,not inherited
+2166,49,male,China,East Asia,Financial,not inherited
+2167,58,male,India,South Asia,Technology,not inherited
+2168,79,male,Spain,Europe,"Retail, Restaurant",inherited
+2169,81,male,United States,North America,Financial,inherited
+2170,56,male,Russia,Europe,"Retail, Restaurant",not inherited
+2171,47,male,United States,North America,Financial,not inherited
+2172,86,female,United States,North America,Financial,inherited
+2173,55,male,China,East Asia,Financial,not inherited
+2174,84,male,United States,North America,Media,not inherited
+2175,68,male,Belgium,Europe,"Retail, Restaurant",inherited
+2176,68,male,Spain,Europe,Financial,not inherited
+2177,61,male,Russia,Europe,Consumer,not inherited
+2178,53,male,Morocco,Middle East/North Africa,Energy,inherited
+2179,86,male,United States,North America,Real Estate,not inherited
+2180,43,male,China,East Asia,Construction,not inherited
+2181,56,male,United States,North America,Construction,not inherited
+2182,71,male,United States,North America,Consumer,inherited
+2183,82,male,France,Europe,Construction,not inherited
+2184,75,male,United States,North America,Real Estate,not inherited
+2185,45,male,Russia,Europe,Real Estate,not inherited
+2186,45,male,Russia,Europe,Construction,not inherited
+2187,77,male,United States,North America,Media,not inherited
+2188,66,female,Netherlands,Europe,"Retail, Restaurant",inherited
+2189,58,male,Russia,Europe,Energy,not inherited
+2190,78,male,Italy,Europe,Construction,inherited
+2191,77,male,Italy,Europe,Energy,inherited
+2192,47,male,Russia,Europe,Media,not inherited
+2193,42,male,Turkey,Middle East/North Africa,Consumer,not inherited
+2194,68,female,South Korea,East Asia,Technology,inherited
+2195,72,male,United States,North America,Financial,not inherited
+2196,69,male,United States,North America,Technology,not inherited
+2197,61,male,Brazil,Latin America,Consumer,not inherited
+2198,44,male,United States,North America,Other,not inherited
+2199,73,male,Japan,East Asia,"Retail, Restaurant",not inherited
+2200,44,male,United States,North America,Financial,not inherited
+2201,61,female,China,East Asia,Technology,not inherited
+2202,90,male,Australia,North America,Consumer,not inherited
+2203,76,female,Brazil,Latin America,Financial,inherited
+2204,63,male,Chile,Latin America,Financial,inherited
+2205,48,male,Israel,Middle East/North Africa,Technology,not inherited
+2206,81,male,Mexico,Latin America,Consumer,not inherited
+2207,68,male,United Kingdom,Europe,Other,not inherited
+2208,82,male,France,Europe,"Retail, Restaurant",not inherited
+2209,58,male,India,South Asia,Technology,not inherited
+2210,70,male,United States,North America,Real Estate,inherited
+2211,73,male,Italy,Europe,Consumer,inherited
+2212,46,male,Russia,Europe,Financial,not inherited
+2213,76,male,Italy,Europe,Consumer,inherited
+2214,63,male,Canada,North America,Construction,not inherited
+2215,69,male,Germany,Europe,"Retail, Restaurant",not inherited
+2216,51,male,Norway,Europe,Real Estate,not inherited
+2217,64,male,Russia,Europe,Consumer,not inherited
+2218,42,male,Czech Republic,Europe,Real Estate,not inherited
+2219,41,male,India,South Asia,Other,inherited
+2220,52,male,Italy,Europe,Consumer,not inherited
+2221,55,male,United States,North America,Financial,not inherited
+2222,70,male,United States,North America,Consumer,inherited
+2223,46,male,Russia,Europe,Financial,not inherited
+2224,78,male,Israel,Middle East/North Africa,Financial,not inherited
+2225,64,male,Japan,East Asia,"Retail, Restaurant",not inherited
+2226,53,male,United States,North America,Media,not inherited
+2227,55,male,Germany,Europe,Construction,not inherited
+2228,64,male,Russia,Europe,Consumer,not inherited
+2229,41,male,China,East Asia,Media,not inherited
+2230,44,male,China,East Asia,Energy,not inherited
+2231,57,male,Hong Kong,East Asia,Real Estate,not inherited
+2232,73,female,Japan,East Asia,Construction,inherited
+2233,62,male,Russia,Europe,Financial,not inherited
+2234,0,male,United States,North America,"Retail, Restaurant",not inherited
+2235,78,female,United States,North America,"Retail, Restaurant",inherited
+2236,29,male,Germany,Europe,Consumer,inherited
+2237,56,male,United States,North America,Financial,not inherited
+2238,39,male,United States,North America,Media,not inherited
+2239,71,male,Japan,East Asia,Real Estate,not inherited
+2240,64,male,Thailand,East Asia,Real Estate,not inherited
+2241,58,female,South Korea,East Asia,Media,inherited
+2242,50,male,China,East Asia,Financial,not inherited
+2243,43,male,United States,North America,Technology,not inherited
+2244,49,male,Russia,Europe,Media,not inherited
+2245,59,female,Chile,Latin America,Construction,inherited
+2246,56,male,United States,North America,Energy,not inherited
+2247,0,female,United States,North America,"Retail, Restaurant",not inherited
+2248,77,male,United States,North America,Consumer,not inherited
+2249,88,male,United States,North America,Consumer,inherited
+2250,70,male,Japan,East Asia,"Retail, Restaurant",not inherited
+2251,66,male,France,Europe,Real Estate,not inherited
+2252,76,male,South Africa,Sub-Saharan Africa,Other,not inherited
+2253,64,male,Hong Kong,East Asia,Technology,not inherited
+2254,42,male,Russia,Europe,Construction,not inherited
+2255,48,male,United States,North America,Technology,not inherited
+2256,67,male,United States,North America,Real Estate,not inherited
+2257,65,male,India,South Asia,Other,inherited
+2258,78,male,Taiwan,East Asia,Technology,not inherited
+2259,80,male,United States,North America,"Retail, Restaurant",inherited
+2260,60,male,Italy,Europe,Consumer,not inherited
+2261,67,male,United States,North America,Financial,not inherited
+2262,67,male,Brazil,Latin America,Real Estate,not inherited
+2263,66,male,United States,North America,Technology,not inherited
+2264,66,male,United States,North America,Media,not inherited
+2265,71,female,United States,North America,Consumer,inherited
+2266,48,male,China,East Asia,Real Estate,not inherited
+2267,54,male,China,East Asia,Real Estate,not inherited
+2268,82,male,Indonesia,East Asia,Real Estate,not inherited
+2269,68,male,United States,North America,Financial,not inherited
+2270,73,male,United Kingdom,Europe,"Retail, Restaurant",inherited
+2271,71,male,South Africa,Sub-Saharan Africa,Construction,inherited
+2272,44,male,China,East Asia,Construction,not inherited
+2273,59,male,United States,North America,"Retail, Restaurant",inherited
+2274,85,male,Brazil,Latin America,Construction,not inherited
+2275,70,male,Brazil,Latin America,Real Estate,not inherited
+2276,0,male,Kuwait,Middle East/North Africa,Financial,inherited
+2277,52,male,United States,North America,Real Estate,not inherited
+2278,81,male,Canada,North America,Consumer,not inherited
+2279,92,male,United States,North America,Financial,not inherited
+2280,70,male,Austria,Europe,Consumer,inherited
+2281,54,male,United States,North America,Technology,not inherited
+2282,77,male,France,Europe,Other,not inherited
+2283,68,male,United States,North America,Technology,not inherited
+2284,0,male,Kuwait,Middle East/North Africa,Financial,inherited
+2285,50,male,China,East Asia,Real Estate,not inherited
+2286,69,male,Brazil,Latin America,Real Estate,not inherited
+2287,73,male,Brazil,Latin America,Real Estate,not inherited
+2288,66,male,United States,North America,Media,not inherited
+2289,61,male,South Africa,Sub-Saharan Africa,Media,not inherited
+2290,43,female,South Korea,East Asia,Technology,inherited
+2291,85,male,Hong Kong,East Asia,Consumer,inherited
+2292,58,male,Israel,Middle East/North Africa,Construction,not inherited
+2293,79,female,Brazil,Latin America,Construction,inherited
+2294,76,female,Monaco,Europe,Financial,inherited
+2295,45,male,United States,North America,Real Estate,not inherited
+2296,65,male,Indonesia,East Asia,Construction,not inherited
+2297,61,male,United States,North America,Financial,not inherited
+2298,0,male,Kuwait,Middle East/North Africa,Financial,inherited
+2299,45,male,Turkey,Middle East/North Africa,Other,not inherited
+2300,69,male,Turkey,Middle East/North Africa,Consumer,not inherited
+2301,58,male,China,East Asia,Real Estate,not inherited
+2302,38,male,United States,North America,Technology,not inherited
+2303,24,female,Hong Kong,East Asia,Real Estate,inherited
+2304,54,male,United States,North America,Other,inherited
+2305,48,male,Ukraine,Europe,Consumer,not inherited
+2306,66,male,Austria,Europe,Consumer,not inherited
+2307,65,male,Mexico,Latin America,Construction,not inherited
+2308,57,male,Egypt,Middle East/North Africa,Real Estate,inherited
+2309,59,male,Israel,Middle East/North Africa,Technology,not inherited
+2310,86,male,United States,North America,"Retail, Restaurant",not inherited
+2311,49,male,South Africa,Sub-Saharan Africa,Technology,not inherited
+2312,44,male,China,East Asia,Consumer,not inherited
+2313,64,male,Thailand,East Asia,Media,not inherited
+2314,53,male,Sweden,Europe,Financial,not inherited
+2315,46,male,Russia,Europe,Consumer,not inherited
+2316,47,male,Russia,Europe,Financial,not inherited
+2317,70,male,Switzerland,Europe,"Retail, Restaurant",inherited
+2318,49,male,China,East Asia,Technology,not inherited
+2319,84,male,Brazil,Latin America,Construction,not inherited
+2320,54,male,Russia,Europe,Consumer,not inherited
+2321,46,male,South Korea,East Asia,Technology,not inherited
+2322,81,male,Canada,North America,Media,not inherited
+2323,56,male,Morocco,Middle East/North Africa,Real Estate,not inherited
+2324,71,male,India,South Asia,Consumer,inherited
+2325,62,male,Kuwait,Middle East/North Africa,Financial,inherited
+2326,66,male,Malaysia,East Asia,Real Estate,not inherited
+2327,45,male,South Korea,East Asia,"Retail, Restaurant",inherited
+2328,66,male,United States,North America,Energy,inherited
+2329,52,male,United Kingdom,Europe,Financial,not inherited
+2330,52,male,Hong Kong,East Asia,"Retail, Restaurant",not inherited
+2331,87,male,France,Europe,Consumer,not inherited
+2332,48,male,Russia,Europe,Energy,not inherited
+2333,68,male,Kuwait,Middle East/North Africa,Financial,inherited
+2334,56,male,United States,North America,Financial,not inherited
+2335,68,male,Japan,East Asia,Other,inherited
+2336,51,male,China,East Asia,Real Estate,not inherited
+2337,38,male,Japan,East Asia,Technology,not inherited
+2338,54,male,Nigeria,Sub-Saharan Africa,Consumer,not inherited
+2339,69,male,Turkey,Middle East/North Africa,Financial,not inherited
+2340,73,male,Italy,Europe,Consumer,not inherited
+2341,56,male,Argentina,Latin America,Technology,inherited
+2342,61,male,Russia,Europe,Energy,not inherited
+2343,42,male,Russia,Europe,Real Estate,not inherited
+2344,59,male,Singapore,East Asia,Real Estate,inherited
+2345,35,male,Lebanon,Middle East/North Africa,Construction,inherited
+2346,70,female,United Kingdom,Europe,Consumer,inherited
+2347,54,male,United States,North America,Media,inherited
+2348,57,female,United States,North America,"Retail, Restaurant",inherited
+2349,67,male,Hong Kong,East Asia,Consumer,not inherited
+2350,76,male,South Korea,East Asia,Consumer,inherited
+2351,63,male,France,Europe,Construction,not inherited
+2352,49,male,United States,North America,Other,not inherited
+2353,57,male,Russia,Europe,Energy,not inherited
+2354,63,female,United States,North America,Other,inherited
+2355,85,male,United States,North America,"Retail, Restaurant",inherited
+2356,0,female,Brazil,Latin America,Construction,inherited
+2357,71,male,Taiwan,East Asia,Financial,inherited
+2358,30,male,United States,North America,Technology,not inherited
+2359,65,male,Indonesia,East Asia,Construction,inherited
+2360,33,male,Lebanon,Middle East/North Africa,Construction,inherited
+2361,51,male,United States,North America,Consumer,not inherited
+2362,74,male,Australia,North America,"Retail, Restaurant",not inherited
+2363,50,male,France,Europe,Technology,not inherited
+2364,64,male,Brazil,Latin America,Consumer,not inherited
+2365,48,male,Indonesia,East Asia,Media,not inherited
+2366,60,male,China,East Asia,Real Estate,not inherited
+2367,59,male,Romania,Europe,Consumer,not inherited
+2368,0,male,St. Kitts and Nevis,Latin America,Consumer,not inherited
+2369,75,male,France,Europe,Construction,inherited
+2370,61,male,United Kingdom,Europe,Construction,not inherited
+2371,59,male,United States,North America,Technology,not inherited
+2372,50,male,Singapore,East Asia,Real Estate,not inherited
+2373,42,male,Russia,Europe,Real Estate,not inherited
+2374,40,male,Ukraine,Europe,Construction,not inherited
+2375,68,male,Australia,North America,Real Estate,not inherited
+2376,77,male,Australia,North America,Construction,not inherited
+2377,64,male,Russia,Europe,Financial,not inherited
+2378,50,male,China,East Asia,Technology,not inherited
+2379,76,female,Brazil,Latin America,Financial,inherited
+2380,63,male,China,East Asia,Construction,not inherited
+2381,69,female,Argentina,Latin America,Construction,inherited
+2382,55,male,United Kingdom,Europe,Real Estate,not inherited
+2383,60,male,United States,North America,"Retail, Restaurant",not inherited
+2384,69,male,India,South Asia,Real Estate,not inherited
+2385,62,male,Oman,Middle East/North Africa,Energy,not inherited
+2386,53,male,Malaysia,East Asia,Energy,not inherited
+2387,61,male,Israel,Middle East/North Africa,Technology,not inherited
+2388,50,male,China,East Asia,Technology,not inherited
+2389,42,male,Russia,Europe,Real Estate,not inherited
+2390,56,male,Russia,Europe,Financial,not inherited
+2391,43,male,India,South Asia,Consumer,not inherited
+2392,53,male,India,South Asia,Other,not inherited
+2393,56,male,Singapore,East Asia,"Retail, Restaurant",not inherited
+2394,83,male,Canada,North America,"Retail, Restaurant",not inherited
+2395,57,male,Brazil,Latin America,Construction,not inherited
+2396,55,male,United States,North America,Technology,not inherited
+2397,61,male,Cyprus,Europe,Real Estate,not inherited
+2398,60,male,China,East Asia,Construction,not inherited
+2399,50,male,China,East Asia,Consumer,not inherited
+2400,68,male,United States,North America,Other,inherited
+2401,68,male,United States,North America,Energy,not inherited
+2402,49,male,Hong Kong,East Asia,Consumer,not inherited
+2403,51,female,United Kingdom,Europe,Real Estate,not inherited
+2404,52,male,China,East Asia,Other,not inherited
+2405,50,male,China,East Asia,Construction,not inherited
+2406,56,male,Singapore,East Asia,Real Estate,not inherited
+2407,45,male,Russia,Europe,Energy,not inherited
+2408,43,male,Russia,Europe,"Retail, Restaurant",not inherited
+2409,46,male,Russia,Europe,Real Estate,not inherited
+2410,44,male,Brazil,Latin America,Financial,inherited
+2411,48,male,Russia,Europe,Media,not inherited
+2412,77,male,India,South Asia,Construction,not inherited
+2413,86,female,Brazil,Latin America,Energy,inherited
+2414,58,male,Malaysia,East Asia,Real Estate,not inherited
+2415,50,male,Peru,Latin America,Construction,inherited
+2416,66,male,Spain,Europe,"Retail, Restaurant",inherited
+2417,82,male,Norway,Europe,Other,not inherited
+2418,41,female,United States,North America,Consumer,inherited
+2419,81,male,United States,North America,Consumer,not inherited
+2420,46,male,South Korea,East Asia,Technology,not inherited
+2421,40,female,South Korea,East Asia,Technology,inherited
+2422,49,male,China,East Asia,Other,not inherited
+2423,44,male,China,East Asia,Technology,not inherited
+2424,78,male,Austria,Europe,Construction,inherited
+2425,68,male,Russia,Europe,Financial,not inherited
+2426,59,male,China,East Asia,Real Estate,not inherited
+2427,62,male,United States,North America,Construction,inherited
+2428,43,male,China,East Asia,Technology,not inherited
+2429,55,male,Thailand,East Asia,Real Estate,not inherited
+2430,52,male,China,East Asia,Financial,not inherited
+2431,44,female,United States,North America,Consumer,inherited
+2432,56,male,Turkey,Middle East/North Africa,Energy,not inherited
+2433,51,male,Russia,Europe,Energy,not inherited
+2434,59,male,Russia,Europe,Energy,not inherited
+2435,70,male,Hong Kong,East Asia,Real Estate,not inherited
+2436,61,male,United States,North America,Consumer,not inherited
+2437,90,male,United States,North America,Real Estate,not inherited
+2438,88,male,United States,North America,Technology,not inherited
+2439,55,male,Thailand,East Asia,Construction,not inherited
+2440,40,female,Brazil,Latin America,Financial,inherited
+2441,49,male,Russia,Europe,Construction,not inherited
+2442,50,male,Russia,Europe,Financial,not inherited
+2443,77,male,Turkey,Middle East/North Africa,Media,not inherited
+2444,58,male,Nepal,South Asia,Financial,not inherited
+2445,71,male,United States,North America,Financial,not inherited
+2446,90,male,United States,North America,Consumer,not inherited
+2447,62,male,Singapore,East Asia,Real Estate,not inherited
+2448,0,male,United States,North America,Other,not inherited
+2449,73,male,United States,North America,"Retail, Restaurant",not inherited
+2450,69,male,Brazil,Latin America,Media,not inherited
+2451,49,male,United States,North America,Energy,not inherited
+2452,40,male,China,East Asia,Construction,not inherited
+2453,59,male,Malaysia,East Asia,Technology,not inherited
+2454,79,male,Hong Kong,East Asia,Real Estate,not inherited
+2455,72,male,Japan,East Asia,"Retail, Restaurant",not inherited
+2456,87,male,Indonesia,East Asia,Consumer,not inherited
+2457,56,male,United States,North America,Financial,not inherited
+2458,52,male,China,East Asia,Technology,not inherited
+2459,66,male,China,East Asia,Construction,not inherited
+2460,55,male,Finland,Europe,Construction,inherited
+2461,49,female,Finland,Europe,Construction,inherited
+2462,59,male,United States,North America,Consumer,not inherited
+2463,75,male,France,Europe,Consumer,inherited
+2464,52,male,China,East Asia,Technology,not inherited
+2465,76,male,United States,North America,Construction,not inherited
+2466,51,male,Spain,Europe,Construction,inherited
+2467,86,male,Brazil,Latin America,Construction,not inherited
+2468,52,male,United States,North America,Consumer,not inherited
+2469,70,male,Peru,Latin America,Consumer,not inherited
+2470,53,male,China,East Asia,Financial,not inherited
+2471,64,male,South Korea,East Asia,Technology,inherited
+2472,83,male,India,South Asia,Consumer,not inherited
+2473,64,male,France,Europe,Consumer,inherited
+2474,52,male,China,East Asia,Energy,not inherited
+2475,0,male,China,East Asia,Consumer,not inherited
+2476,93,male,Canada,North America,Real Estate,not inherited
+2477,48,male,United States,North America,Technology,not inherited
+2478,73,male,United States,North America,Financial,not inherited
+2479,39,female,Switzerland,Europe,Construction,inherited
+2480,67,male,United Kingdom,Europe,Media,not inherited
+2481,50,male,Finland,Europe,Construction,inherited
+2482,45,male,Russia,Europe,Financial,not inherited
+2483,68,male,Japan,East Asia,Consumer,inherited
+2484,55,male,South Korea,East Asia,Financial,not inherited
+2485,65,male,Oman,Middle East/North Africa,Real Estate,not inherited
+2486,50,male,China,East Asia,Technology,not inherited
+2487,49,male,Russia,Europe,Energy,not inherited
+2488,79,male,United States,North America,Energy,not inherited
+2489,49,male,United States,North America,Financial,not inherited
+2490,69,male,Australia,North America,Real Estate,not inherited
+2491,72,male,United States,North America,"Retail, Restaurant",inherited
+2492,60,male,Russia,Europe,Energy,not inherited
+2493,53,male,Russia,Europe,Consumer,not inherited
+2494,54,male,Russia,Europe,Financial,not inherited
+2495,68,male,China,East Asia,Construction,not inherited
+2496,68,male,Australia,North America,"Retail, Restaurant",not inherited
+2497,76,male,United States,North America,Consumer,not inherited
+2498,58,male,Uganda,Sub-Saharan Africa,Real Estate,not inherited
+2499,50,male,Switzerland,Europe,Consumer,inherited
+2500,64,male,United States,North America,Consumer,inherited
+2501,75,male,Peru,Latin America,Consumer,not inherited
+2502,41,male,China,East Asia,Real Estate,not inherited
+2503,77,male,India,South Asia,Technology,inherited
+2504,62,male,China,East Asia,Real Estate,not inherited
+2505,61,male,Australia,North America,Media,inherited
+2506,61,male,China,East Asia,Real Estate,not inherited
+2507,71,male,China,East Asia,Consumer,not inherited
+2508,57,female,China,East Asia,Consumer,not inherited
+2509,47,male,United Kingdom,Europe,Financial,not inherited
+2510,68,female,Turkey,Middle East/North Africa,Financial,inherited
+2511,0,male,United States,North America,"Retail, Restaurant",not inherited
+2512,0,male,Brazil,Latin America,Media,inherited
+2513,72,male,Austria,Europe,Construction,not inherited
+2514,61,male,Brazil,Latin America,Financial,inherited
+2515,56,male,Brazil,Latin America,Financial,inherited
+2516,59,male,India,South Asia,Technology,not inherited
+2517,67,male,Canada,North America,Real Estate,not inherited
+2518,0,male,South Korea,East Asia,,not inherited
+2519,62,male,China,East Asia,Technology,not inherited
+2520,51,male,Brazil,Latin America,Consumer,not inherited
+2521,0,female,United States,North America,"Retail, Restaurant",not inherited
+2522,59,female,Brazil,Latin America,Financial,inherited
+2523,0,female,Brazil,Latin America,Media,inherited
+2524,87,male,Japan,East Asia,Financial,not inherited
+2525,44,female,United States,North America,Technology,not inherited
+2526,51,male,United States,North America,Real Estate,not inherited
+2527,0,male,Brazil,Latin America,Media,inherited
+2528,71,male,India,South Asia,Consumer,inherited
+2529,46,female,China,East Asia,Technology,not inherited
+2530,49,male,China,East Asia,Technology,not inherited
+2531,43,male,China,East Asia,Technology,not inherited
+2532,70,male,Israel,Middle East/North Africa,Financial,not inherited
+2533,71,male,Spain,Europe,Financial,not inherited
+2534,59,male,Norway,Europe,Financial,not inherited
+2535,65,male,China,East Asia,Technology,not inherited
+2536,0,female,United States,North America,Consumer,inherited
+2537,86,male,Philippines,East Asia,Real Estate,not inherited
+2538,69,female,Australia,North America,Construction,inherited
+2539,50,female,France,Europe,Technology,inherited
+2540,72,male,India,South Asia,Technology,not inherited
+2541,62,male,Denmark,Europe,Technology,inherited
+2542,55,male,Russia,Europe,Real Estate,not inherited
+2543,49,male,United States,North America,Financial,not inherited
+2544,64,male,United States,North America,Consumer,not inherited
+2545,57,male,Brazil,Latin America,Other,not inherited
+2546,63,male,South Korea,East Asia,Other,not inherited
+2547,60,male,United States,North America,Consumer,not inherited
+2548,46,male,Poland,Europe,Real Estate,not inherited
+2549,50,male,China,East Asia,Consumer,not inherited
+2550,43,male,China,East Asia,"Retail, Restaurant",not inherited
+2551,50,male,Russia,Europe,"Retail, Restaurant",not inherited
+2552,49,male,Russia,Europe,"Retail, Restaurant",not inherited
+2553,50,female,Russia,Europe,Construction,not inherited
+2554,48,male,Spain,Europe,Real Estate,not inherited
+2555,53,male,China,East Asia,Other,not inherited
+2556,57,male,United States,North America,"Retail, Restaurant",not inherited
+2557,56,male,China,East Asia,Financial,not inherited
+2558,69,male,United Kingdom,Europe,"Retail, Restaurant",not inherited
+2559,63,male,India,South Asia,Construction,not inherited
+2560,48,male,France,Europe,Technology,inherited
+2561,69,male,Germany,Europe,Construction,not inherited
+2562,52,male,China,East Asia,Construction,not inherited
+2563,60,female,Hong Kong,East Asia,Real Estate,inherited
+2564,77,female,France,Europe,Technology,inherited
+2565,74,male,United States,North America,Other,not inherited
+2566,48,male,India,South Asia,Real Estate,not inherited
+2567,80,male,United States,North America,Technology,not inherited
+2568,68,male,Australia,North America,Real Estate,not inherited
+2569,68,male,Peru,Latin America,Consumer,not inherited
+2570,54,male,United States,North America,"Retail, Restaurant",not inherited
+2571,0,female,Macau,East Asia,Real Estate,not inherited
+2572,72,male,United States,North America,Real Estate,not inherited
+2573,61,male,United States,North America,Technology,not inherited
+2574,64,male,China,East Asia,Consumer,not inherited
+2575,57,male,China,East Asia,Construction,not inherited
+2576,86,male,Indonesia,East Asia,Construction,not inherited
+2577,64,male,Taiwan,East Asia,"Retail, Restaurant",not inherited
+2578,59,female,China,East Asia,"Retail, Restaurant",not inherited
+2579,54,male,United States,North America,"Retail, Restaurant",not inherited
+2580,49,male,United Kingdom,Europe,Technology,not inherited
+2581,41,male,Russia,Europe,Energy,not inherited
+2582,75,female,Germany,Europe,Media,inherited
+2583,84,male,Israel,Middle East/North Africa,Technology,not inherited
+2584,66,male,Turkey,Middle East/North Africa,Media,not inherited
+2585,46,male,Lithuania,Europe,"Retail, Restaurant",not inherited
+2586,49,male,United States,North America,Financial,not inherited
+2587,49,male,Czech Republic,Europe,Construction,not inherited
+2588,51,male,United States,North America,Financial,not inherited
+2589,67,male,Taiwan,East Asia,Real Estate,not inherited
+2590,82,male,Australia,North America,Consumer,not inherited
+2591,49,male,Tanzania,Sub-Saharan Africa,Media,not inherited
+2592,39,male,United States,North America,Media,not inherited
+2593,43,female,United States,North America,Consumer,not inherited
+2594,56,male,South Korea,East Asia,Technology,not inherited
+2595,59,male,Russia,Europe,"Retail, Restaurant",not inherited
+2596,55,male,Russia,Europe,Financial,not inherited
+2597,54,male,Ukraine,Europe,Financial,not inherited
+2598,86,male,Japan,East Asia,Technology,inherited
+2599,50,male,Germany,Europe,Media,inherited
+2600,66,male,India,South Asia,Consumer,not inherited
+2601,77,male,United States,North America,Financial,not inherited
+2602,51,male,United States,North America,Financial,not inherited
+2603,47,female,United States,North America,Consumer,not inherited
+2604,57,male,Australia,North America,Consumer,not inherited
+2605,44,male,China,East Asia,Consumer,not inherited
+2606,63,male,China,East Asia,"Retail, Restaurant",not inherited
+2607,63,male,China,East Asia,Consumer,not inherited
+2608,93,male,United States,North America,Energy,inherited
+2609,55,male,Taiwan,East Asia,Construction,not inherited
+2610,0,male,China,East Asia,Consumer,not inherited
+2611,53,male,China,East Asia,Real Estate,not inherited
+2612,53,male,Czech Republic,Europe,Construction,not inherited
+2613,48,male,China,East Asia,Technology,not inherited
