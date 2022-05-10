@@ -1,0 +1,72 @@
+latitude,longitude,country,country,numBils,bilsPerMil
+28.033886,1.659626,Algeria,Algeria,1,0.022
+,,,Angola,1,0.031
+,,,Argentina,4,0.087
+,,,Australia,44,1.203
+,,,Austria,9,1.007
+,,,Belgium,1,0.087
+,,,Brazil,65,0.211
+,,,Canada,64,1.147
+,,,Chile,7,0.356
+,,,China,698,0.276
+,,,Colombia,3,0.059
+,,,Cyprus,3,3.378
+49.817492,15.472962,Czech Republic,Czech Republic,8,0.747
+56.26392,9.501785,Denmark,Denmark,8,1.37
+26.820553,30.802498,Egypt,Egypt,6,0.059
+,,,Eswatini,1,0.915
+61.92411,25.748151,Finland,Finland,6,1.09
+46.227638,2.213749,France,France,42,0.579
+42.315407,43.356892,Georgia,Georgia,1,0.269
+51.165691,10.451526,Germany,Germany,136,1.553
+39.074208,21.824312,Greece,Greece,3,0.28
+22.396428,114.109497,Hong Kong,Hong Kong,71,8.83
+47.162494,19.503304,Hungary,Hungary,1,0.103
+64.963051,-19.020835,Iceland,Iceland,1,2.713
+20.593684,78.96288,India,India,237,0.171
+-0.789275,113.921327,Indonesia,Indonesia,15,0.056
+53.41291,-8.24389,Ireland,Ireland,9,1.808
+31.046051,34.851612,Israel,Israel,17,1.824
+41.87194,12.56738,Italy,Italy,51,0.607
+36.204824,138.252924,Japan,Japan,49,0.207
+48.019573,66.923684,Kazakhstan,Kazakhstan,4,0.212
+29.31166,47.481766,Kuwait,Kuwait,1,0.224
+33.854721,35.862285,Lebanon,Lebanon,6,0.886
+47.166,9.555373,Liechtenstein,Liechtenstein,1,25.71
+22.198745,113.543873,Macau,Macau,1,1.464
+4.210484,101.975766,Malaysia,Malaysia,12,0.366
+23.634501,-102.552784,Mexico,Mexico,12,0.095
+43.750298,7.412841,Monaco,Monaco,3,78.74
+31.791702,-7.09262,Morocco,Morocco,1,0.028
+28.394857,84.124008,Nepal,Nepal,1,0.033
+52.132633,5.291266,Netherlands,Netherlands,11,0.626
+-40.900557,174.885971,New Zealand,New Zealand,2,0.391
+9.081999,8.675277,Nigeria,Nigeria,3,0.014
+60.472024,8.468946,Norway,Norway,12,2.226
+21.512583,55.923255,Oman,Oman,1,0.223
+-9.189967,-75.015152,Peru,Peru,2,0.061
+12.879721,121.774017,Philippines,Philippines,15,0.136
+51.919438,19.145136,Poland,Poland,6,0.157
+39.399872,-8.224454,Portugal,Portugal,1,0.097
+25.354826,51.183884,Qatar,Qatar,1,0.368
+45.943161,24.96676,Romania,Romania,2,0.104
+61.52401,105.318756,Russia,Russia,117,0.677
+17.357822,-62.782998,Saint Kitts and Nevis,Saint Kitts and Nevis,2,37.037
+1.352083,103.819836,Singapore,Singapore,27,4.573
+48.669026,19.699024,Slovakia,Slovakia,2,0.366
+-30.559482,22.937506,South Africa,South Africa,4,0.067
+35.907757,127.766922,South Korea,South Korea,43,0.54
+40.463667,-3.74922,Spain,Spain,30,0.507
+60.128161,18.643501,Sweden,Sweden,41,2.987
+,,,Switzerland,40,4.044
+23.69781,120.960515,Taiwan,Taiwan,47,1.529
+-6.369028,34.888822,Tanzania,Tanzania,1,0.017
+15.870032,100.992541,Thailand,Thailand,31,0.3
+38.963745,35.243322,Turkey,Turkey,27,0.275
+48.379433,31.16558,Ukraine,Ukraine,6,0.144
+,,,United Arab Emirates,4,0.427
+55.378051,-3.435973,United Kingdom,United Kingdom,56,0.674
+37.09024,-95.712891,United States,United States,724,1.853
+6.42375,-66.58973,Venezuela,Venezuela,1,0.035
+14.058324,108.277199,Vietnam,Vietnam,4,0.041
+-19.015438,29.154857,Zimbabwe,Zimbabwe,1,0.063

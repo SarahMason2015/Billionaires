@@ -90,11 +90,11 @@ Yasuo Takei,30,1996,0,Takefuji,founder,finance,new,66,male,Japan,JPN,4.71E+12,Ea
 Abigail Johnson,30,2001,1946,Fidelity Investments,relation,investment banking,new,39,female,United States,USA,1.06E+13,North America,inherited,9.1,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
 Prince Alwaleed Bin Talal Alsaud,30,2014,1980,Kingdom Holding Company,founder,construction/real estate/banking,new,58,male,Saudi Arabia,SAU,0,Middle East/North Africa,privatized and resources,20.4,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Antonio Ermirio de Moraes,31,1996,1919,Votorantim Group,relation,"metals, paper, cement",new,0,male,Brazil,BRA,8.54E+11,Latin America,inherited,5.1,Traded Sectors,TRUE,Non-consumer industrial,father,TRUE,TRUE
-Forrest Mars ,31,2001,1911,"Mars, Incorperated",relation,candy,new,69,male,United States,USA,1.06E+13,North America,inherited,9,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
+Forrest Mars Jr,31,2001,1911,"Mars, Incorperated",relation,candy,new,69,male,United States,USA,1.06E+13,North America,inherited,9,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Jacqueline Mars,31,2001,1911,"Mars, Incorperated",relation,candy,new,0,female,United States,USA,1.06E+13,North America,inherited,9,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 John Mars,31,2001,1911,"Mars, Incorperated",relation,candy,new,64,male,United States,USA,1.06E+13,North America,inherited,9,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Kirsten Rausing,31,2001,1951,Tetra Pak,relation,food packaging,new,0,female,Sweden,SWE,2.40E+11,Europe,inherited,9,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
-Forrest Mars,31,2014,1911,"Mars, Incorperated",relation,candy,new,82,male,United States,USA,0,North America,inherited,20,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
+"Forrest Mars, Jr.",31,2014,1911,"Mars, Incorperated",relation,candy,new,82,male,United States,USA,0,North America,inherited,20,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Jacqueline Mars,31,2014,1911,"Mars, Incorperated",relation,candy,new,74,female,United States,USA,0,North America,inherited,20,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 John Mars,31,2014,1911,"Mars, Incorperated",relation,candy,new,77,male,United States,USA,0,North America,inherited,20,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Eka Tjipta Widjaja,32,1996,1962,Sinar Mas Group,founder,banking,new,0,male,Indonesia,IDN,2.27E+11,East Asia,self-made finance,5.1,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
@@ -107,7 +107,7 @@ Ted Turner,35,2001,1970,CNN,founder,media,aquired,62,male,United States,USA,1.06
 Lee Shau Kee,35,2014,1976,Henderson Land Development,founder/chairman,real estate,new,86,male,Hong Kong,HKG,0,East Asia,self-made finance,19.6,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Mohamed Salim Bin Mahfouz,36,1996,1953,National Comercial bank of Saudi Arabia,relation,banking,new,0,male,Saudi Arabia,SAU,1.58E+11,Middle East/North Africa,inherited,5,Financial,TRUE,Money Management,father,TRUE,TRUE
 Steve Ballmer,36,2014,1975,Microsoft,CEO,technology,new,57,male,United States,USA,0,North America,executive,19.3,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
-Theo Albrecht,36,2014,1913,Aldi Nord,Relation,groceries,new,63,male,Germany,DEU,0,Europe,inherited,19.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",father,TRUE,TRUE
+"Theo Albrecht, Jr.",36,2014,1913,Aldi Nord,Relation,groceries,new,63,male,Germany,DEU,0,Europe,inherited,19.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",father,TRUE,TRUE
 Lee Kun-Hee,37,1996,1938,Samsung,relation,electronics,new,0,male,South Korea,KOR,6.03E+11,East Asia,inherited,4.9,New Sectors,TRUE,Technology-Computer,father,TRUE,TRUE
 Yasuo Takei,37,2001,0,Takefuji,founder,finance,new,71,male,Japan,JPN,4.16E+12,East Asia,self-made finance,8.3,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 John Walton,38,1996,1962,Walmart,relation, retail, new,50,male,United States,USA,8.10E+12,North America,inherited,4.8,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
@@ -255,7 +255,7 @@ Dilip Shanghvi,82,2014,1983,Sun Pharmaceutical Industries,founder,pharmaceutical
 Jack Taylor,82,2014,1957,Enterprise,founder,rental cars,new,91,male,United States,USA,0,North America,founder non-finance,12.8,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Johanna Quandt,82,2014,1916,BMW,relation,cars,new,87,female,Germany,DEU,0,Europe,inherited,12.8,Traded Sectors,TRUE,Consumer,spouse/widow,TRUE,TRUE
 Pallonji Mistry,82,2014,1865,?Shapoorji Pallonji Group,Relation,construction,new,84,male,Ireland,IRL,0,Europe,inherited,12.8,Non-Traded Sectors,TRUE,Constrution,father,TRUE,TRUE
-Henry Ross Perot,83,1996,1962,Electronic Data Systems,founder,data processing,new,0,male,United States,USA,8.10E+12,North America,founder non-finance,3.3,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
+Henry Ross Perot Sr,83,1996,1962,Electronic Data Systems,founder,data processing,new,0,male,United States,USA,8.10E+12,North America,founder non-finance,3.3,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Keizo Saji,84,1996,1899,Suntory,relation,brewery,new,0,male,Japan,JPN,4.71E+12,East Asia,inherited,3.2,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Rupert Murdoch,85,1996,1923,News Limited,relation,media,new,65,male,United States,USA,8.10E+12,North America,inherited,3.2,Non-Traded Sectors,TRUE,Media,father,TRUE,TRUE
 Richard DeVos,86,1996,1959,Amway,founder,consumer goods,new,70,male,United States,USA,8.10E+12,North America,founder non-finance,3.2,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
@@ -278,7 +278,7 @@ Maurice Greenberg,92,2001,1919,AIG,Chairman and Chief Executive Officer,insuranc
 Philip Knight,92,2001,1964,Nike,founder,apparel,new,63,male,United States,USA,1.06E+13,North America,founder non-finance,4.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Ernesto Bertarelli,92,2014,1906,Serono,relation,pharmaceuticals,new,48,male,Switzerland,CHE,0,Europe,inherited,12,New Sectors,TRUE,Technology-Medical,3rd generation,TRUE,TRUE
 Hans Rausing,92,2014,1944,Tetra Pak,relation,food packaging,new,87,male,Sweden,SWE,0,Europe,inherited,12,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
-Peter Haas,93,1996,1853,Levi Strauss & co,relation,jeans,new,0,male,United States,USA,8.10E+12,North America,inherited,3.1,Non-Traded Sectors,TRUE,"Retail, Restaurant",father,TRUE,TRUE
+Peter Haas Sr,93,1996,1853,Levi Strauss & co,relation,jeans,new,0,male,United States,USA,8.10E+12,North America,inherited,3.1,Non-Traded Sectors,TRUE,"Retail, Restaurant",father,TRUE,TRUE
 Lemos family,94,1996,1860,Efploia Shipping,,shipping,new,0,,Greece,GRC,1.47E+11,Europe,inherited,3,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Zong Qinghou,94,2014,1987,Hangzhou Wahaha Group,founder,beverages,new,68,male,China,CHN,0,East Asia,founder non-finance,11.6,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Jassim Al-Kharafi,95,1996,1956,Kharafi Group,relation,diversified investments,new,0,male,Kuwait,KWT,31492936826,Middle East/North Africa,inherited,3,Financial,TRUE,Money Management,father,TRUE,TRUE
@@ -304,14 +304,14 @@ Jay and Arthur Pritzker,100,1996,1957,Hyatt,relation,hotels,aquired,0,male,Unite
 Ananda Krishnan,100,2014,1984,Usaha Tegas Sdn Bhd,founder,real estate,new,75,male,Malaysia,MYS,0,East Asia,founder non-finance,11.3,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 German Khan,100,2014,1989,Alfa Group,founder,oil and gas,new,52,male,Russia,RUS,0,Europe,privatized and resources,11.3,Resource Related,TRUE,Energy,not inherited,TRUE,TRUE
 Robert Pritzker,101,1996,1957,Hyatt,relation,hotels,aquired,69,male,United States,USA,8.10E+12,North America,inherited,3,Financial,TRUE,Real Estate,father,TRUE,TRUE
-Forrest Mars,102,1996,1911,"Mars, Incorperated",relation,candy,new,0,male,United States,USA,8.10E+12,North America,inherited,3,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
+Forrest Mars Sr,102,1996,1911,"Mars, Incorperated",relation,candy,new,0,male,United States,USA,8.10E+12,North America,inherited,3,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Alejandro Santo Domingo Davila,102,2014,1889,Santo Domingo Group,relation,beer,aquired,37,male,Colombia,COL,0,Latin America,inherited,11.1,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Lee Kun-Hee,102,2014,1938,Samsung,relation,electronics,new,72,male,South Korea,KOR,0,East Asia,inherited,11.1,New Sectors,TRUE,Technology-Computer,father,TRUE,TRUE
 Miuccia Prada,102,2014,1913,Prada,relation,luxury goods,new,64,female,Italy,ITA,0,Europe,inherited,11.1,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Shiv Nadar,102,2014,1976,HCL,founder,technology,new,68,male,India,IND,0,South Asia,founder non-finance,11.1,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
-Forrest Mars,103,1996,1911,"Mars, Incorperated",relation,candy,new,64,male,United States,USA,8.10E+12,North America,inherited,3,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
+Forrest Mars Jr,103,1996,1911,"Mars, Incorperated",relation,candy,new,64,male,United States,USA,8.10E+12,North America,inherited,3,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Rudolf Oetker,104,1996,1891,Oetker-Gruppe,relation,food,new,0,male,Germany,DEU,2.50E+12,Europe,inherited,2.9,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
-Henry Ross Perot,104,2001,1962,Electronic Data Systems,founder,data processing,new,0,male,United States,USA,1.06E+13,North America,founder non-finance,3.8,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
+Henry Ross Perot Sr,104,2001,1962,Electronic Data Systems,founder,data processing,new,0,male,United States,USA,1.06E+13,North America,founder non-finance,3.8,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Jon Huntsman,104,2001,1982,Huntsman chemical,founder,chemicals,new,63,male,United States,USA,1.06E+13,North America,founder non-finance,3.8,Traded Sectors,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
 Leonard Lauder,104,2001,1946,Est?Lauder,relation,makeup,new,67,male,United States,USA,1.06E+13,North America,inherited,3.8,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Sid Bass,104,2001,1919,Sid Richardson Gasoline Co,relation,oil,new,58,male,United States,USA,1.06E+13,North America,inherited,3.8,Resource Related,TRUE,Energy,father,TRUE,TRUE
@@ -388,7 +388,7 @@ Peter Livanos,129,1996,1949,Ceres Hellenic,relation,shipping,new,0,male,Greece,G
 Giorgio Armani,129,2014,1975,Armani,founder,luxury goods,new,79,male,Italy,ITA,0,Europe,founder non-finance,9.9,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Michael Kadoorie,130,1996,1890,CLP Holdings,relation,utilities,new,55,male,Hong Kong,HKG,1.60E+11,East Asia,inherited,2.5,Financial,TRUE,Money Management,father,TRUE,TRUE
 Akira Mori,130,2001,1959,Mori Building,relation,construction,new,66,male,Japan,JPN,4.16E+12,East Asia,inherited,3.3,Financial,TRUE,Real Estate,father,TRUE,TRUE
-Amos Hosetter,130,2001,1964,Continental Cablevision,founder,media,new,64,male,United States,USA,1.06E+13,North America,founder non-finance,3.3,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
+Amos Hosetter Jr,130,2001,1964,Continental Cablevision,founder,media,new,64,male,United States,USA,1.06E+13,North America,founder non-finance,3.3,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Bernard Marcus,130,2001,1979,Home Depot,founder,home improvement retail,new,71,male,United States,USA,1.06E+13,North America,founder non-finance,3.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Edgar Bronfman,130,2001,1857,Seagrams,relation,liquor,new,72,male,United States,USA,1.06E+13,North America,inherited,3.3,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Eitaro Itoyama,130,2001,0,,,golf courses,,58,male,Japan,JPN,4.16E+12,East Asia,self-made finance,3.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
@@ -399,10 +399,10 @@ Richard Kinder,130,2014,1997,Kinder Morgan Energy Partners,founder,energy,new,69
 Tsai Eng-Meng,130,2014,1962,Want Want China,relation,food,new,57,male,Taiwan,Taiwan,0,East Asia,inherited,9.5,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Henry Fok,131,1996,1962,Sociedade de Turismo e Divers?es de Macau,investor,casinos,new,72,male,Hong Kong,HKG,1.60E+11,East Asia,self-made finance,2.5,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Goroemon Yoshimoto,132,1996,0,,,,,0,male,Japan,JPN,4.71E+12,East Asia,,2.5,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
-Edward Johnson,132,2014,1946,Fidelity Investments,relation,investment banking,new,83,male,United States,USA,0,North America,inherited,9.3,Financial,TRUE,Money Management,father,TRUE,TRUE
+"Edward Johnson, III.",132,2014,1946,Fidelity Investments,relation,investment banking,new,83,male,United States,USA,0,North America,inherited,9.3,Financial,TRUE,Money Management,father,TRUE,TRUE
 Eric Schmidt,132,2014,1998,google,executive chairman,technology,new,58,male,United States,USA,0,North America,executive,9.3,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Hiroshi Mikitani,132,2014,1997,Rakuten,founder,e-commerce,new,49,male,Japan,JPN,0,East Asia,founder non-finance,9.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
-Samuel Newhouse,132,2014,1909,Advance Publications,relation,media,new,86,male,United States,USA,0,North America,inherited,9.3,Non-Traded Sectors,TRUE,Media,father,TRUE,TRUE
+"Samuel Newhouse, Jr.",132,2014,1909,Advance Publications,relation,media,new,86,male,United States,USA,0,North America,inherited,9.3,Non-Traded Sectors,TRUE,Media,father,TRUE,TRUE
 Rinji Shino,133,1996,1949,Meiko Group,,real estate,,0,male,Japan,JPN,4.71E+12,East Asia,,2.5,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Yasuyuki Nambu,134,1996,1976,Pasona Inc,founder,staffing services,new,0,male,Japan,JPN,4.71E+12,East Asia,founder non-finance,2.5,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Rafik Al-Hariri,135,1996,1978,Saudi Oger,founder,construction,aquired,52,male,Lebanon,LBN,13690217121,Middle East/North Africa,privatized and resources,2.5,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
@@ -533,11 +533,11 @@ Ryoichi Jinnai,177,1996,1962,Promise Consumer Finance,founder,finance,new,69,mal
 Charles Johnson,177,2014,1947,Franklin Resources,relation,mutal funds,new,81,male,United States,USA,0,North America,inherited,7.5,Financial,TRUE,Money Management,father,TRUE,TRUE
 James Goodnight,177,2014,1976,SAS institute,founder,software,new,71,male,United States,USA,0,North America,founder non-finance,7.5,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 John Malone,177,2014,1968,Tele-Communications Inc,CEO,telecommunications,merger,72,male,United States,USA,0,North America,executive,7.5,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
-John Menard,177,2014,1972,Menards,founder,hardware stores,new,74,male,United States,USA,0,North America,founder non-finance,7.5,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
+"John Menard, Jr.",177,2014,1972,Menards,founder,hardware stores,new,74,male,United States,USA,0,North America,founder non-finance,7.5,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Klaus Tschira,177,2014,1972,SAP AG,founder,software,new,73,male,Germany,DEU,0,Europe,founder non-finance,7.5,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Leonard Lauder,177,2014,1946,Est?Lauder,relation,makeup,new,80,male,United States,USA,0,North America,inherited,7.5,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Lee Seng Wee,178,1996,1919,Oversea-Chinese Banking Corporation,chairman,banking,new,71,male,Singapore,SGP,96400967339,East Asia,inherited,2.1,Financial,TRUE,Money Management,father,TRUE,TRUE
-Jeffrey Koo,179,1996,1930,Koos Group,relation,,new,0,male,Taiwan,Taiwan,0,East Asia,inherited,2.1,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
+Jeffrey Koo Sr,179,1996,1930,Koos Group,relation,,new,0,male,Taiwan,Taiwan,0,East Asia,inherited,2.1,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
 Den Fujita,179,2001,1971,McDonald's Japan,founder,restaurants,franchise,75,male,Japan,JPN,4.16E+12,East Asia,founder non-finance,2.6,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Klaus Tschira,179,2001,1972,SAP AG,founder,software,new,60,male,Germany,DEU,1.95E+12,Europe,founder non-finance,2.6,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Thomas Schmidheiny,179,2001,1912,Holcim,relation,cement,new,55,male,Switzerland,CHE,2.79E+11,Europe,inherited,2.6,Non-Traded Sectors,TRUE,Constrution,4th generation,TRUE,TRUE
@@ -602,7 +602,7 @@ Martin Bouygues,198,2001,1952,Bouygues S.A.,relation,construction,new,49,male,Fr
 Ralph Lauren,198,2001,1967,Ralph Lauren,founder,clothing,new,62,male,United States,USA,1.06E+13,North America,founder non-finance,2.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Ray Hunt,198,2001,1934,Hunt Oil. Co,relation,oil,new,58,male,United States,USA,1.06E+13,North America,inherited,2.3,Resource Related,TRUE,Energy,father,TRUE,TRUE
 Richard Schulze,198,2001,1966,Best Buy,founder,retail,new,60,male,United States,USA,1.06E+13,North America,founder non-finance,2.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
-Robert Bosch ,198,2001,1886,Robert Bosch GmbH,relation,auto engines,new,73,male,Germany,DEU,1.95E+12,Europe,inherited,2.3,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
+Robert Bosch Jr,198,2001,1886,Robert Bosch GmbH,relation,auto engines,new,73,male,Germany,DEU,1.95E+12,Europe,inherited,2.3,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Susan Thompson Buffett,198,2001,1962,Berkshire Hathaway,relation, Finance,new,68,female,United States,USA,1.06E+13,North America,inherited,2.3,Traded Sectors,TRUE,Consumer,spouse/widow,TRUE,TRUE
 Terry Gou,198,2001,1974,Foxconn,founder,technology,new,0,male,Taiwan,Taiwan,0,East Asia,founder non-finance,2.3,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 William Davidson,198,2001,1932,Guardian Industries,relation,glass,new,78,male,United States,USA,1.06E+13,North America,executive,2.3,Traded Sectors,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
@@ -650,7 +650,7 @@ Sid Bass,213,1996,1919,Sid Richardson Gasoline Co,relation,oil,new,53,male,Unite
 Mary Alice Dorrance Malone,214,1996,1869,Campbell Soup,relation,soup,aquired,46,female,United States,USA,8.10E+12,North America,inherited,1.9,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 David Geffen,215,1996,1970,Asylum Records/Geffen Records/Dreamworks,founder,entertainment,new,53,male,United States,USA,8.10E+12,North America,founder non-finance,1.9,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Dannine Avara,215,2014,1968,Enterprise Products,relation,natural gas,new,50,female,United States,USA,0,North America,inherited,6.3,Traded Sectors,TRUE,Non-consumer industrial,father,TRUE,TRUE
-Herbert Kohler,215,2014,1873,Kohler Company,relation,manufacturing,new,75,male,United States,USA,0,North America,inherited,6.3,Traded Sectors,TRUE,Non-consumer industrial,3rd generation,TRUE,TRUE
+"Herbert Kohler, Jr.",215,2014,1873,Kohler Company,relation,manufacturing,new,75,male,United States,USA,0,North America,inherited,6.3,Traded Sectors,TRUE,Non-consumer industrial,3rd generation,TRUE,TRUE
 Ivan Glasenberg,215,2014,1974,Glencore Xstrata,CEO,mining,new,57,male,Australia,AUS,0,North America,privatized and resources,6.3,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
 Milane Frantz,215,2014,1968,Enterprise Products,relation,natural gas,new,44,female,United States,USA,0,North America,inherited,6.3,Traded Sectors,TRUE,Non-consumer industrial,father,TRUE,TRUE
 Paolo & Gianfelice Mario Rocca,215,2014,1945,Techint,relation,steel,new,0,male,Italy,ITA,0,Europe,inherited,6.3,Traded Sectors,TRUE,Non-consumer industrial,3rd generation,TRUE,TRUE
@@ -670,7 +670,7 @@ Adolf Merckle,222,2001,1881,Ratiopharm,relation,pharmaceuticals,new,66,male,Germ
 Adrian Swire,222,2001,1816,Swire,relation,trading company,new,70,male,United Kingdom,GBR,1.53E+12,Europe,inherited,2.1,Financial,TRUE,Diversified financial,4th generation,TRUE,TRUE
 Charles Johnson,222,2001,1947,Franklin Resources,relation,mutal funds,new,68,male,United States,USA,1.06E+13,North America,inherited,2.1,Financial,TRUE,Money Management,father,TRUE,TRUE
 Edmund Wattis Littlefield,222,2001,1900,Utah Contstruction Company,relation,construction,new,0,male,United States,USA,1.06E+13,North America,inherited,2.1,Resource Related,TRUE,Mining and metals,3rd generation,TRUE,TRUE
-Ernest Stempel,222,2001,1919,AIG,chairman,insurance,new,84,male,Bermuda,BMU,3680000000,0,executive,2.1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
+Ernest Stempel,222,2001,1919,AIG,chairman,insurance,new,84,male,Bermuda,BMU,3680000000,North America,executive,2.1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 John Dorrance,222,2001,1869,Campbell Soup,relation,soup,aquired,57,male,Ireland,IRL,1.09E+11,Europe,inherited,2.1,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Louis Gonda,222,2001,1973,ILFC,founder,aircraft leasing,new,52,male,United States,USA,1.06E+13,North America,founder non-finance,2.1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Sammy Ofer,222,2001,1950,Zodiac Maritime Agencies,relation,shipping,new,0,male,Israel,ISR,1.30E+11,Middle East/North Africa,inherited,2.1,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
@@ -678,7 +678,7 @@ Sergio Mantegazza,222,2001,1928,Globus,relation,travel company,new,73,male,Switz
 Steven Spielberg,222,2001,1994,DreamWorks,founder,movies,new,54,male,United States,USA,1.06E+13,North America,founder non-finance,2.1,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Edmond Safra,223,1996,1955,Banco Safra (now Saftra Group),founder,banking,new,0,male,Lebanon,LBN,13690217121,Middle East/North Africa,self-made finance,1.8,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Teh Hong Piow,224,1996,1966,Public Bank,founder,banking,new,56,male,Malaysia,MYS,1.01E+11,East Asia,self-made finance,1.8,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
-Rupert Johnson,224,2014,1947,Franklin Resources,relation,mutal funds,new,72,male,United States,USA,0,North America,inherited,6.2,Financial,TRUE,Money Management,father,TRUE,TRUE
+"Rupert Johnson, Jr.",224,2014,1947,Franklin Resources,relation,mutal funds,new,72,male,United States,USA,0,North America,inherited,6.2,Financial,TRUE,Money Management,father,TRUE,TRUE
 S. Truett Cathy,224,2014,1946,Chick-fil-A,founder,restaurants,new,92,male,United States,USA,0,North America,founder non-finance,6.2,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Sumner Redstone,224,2014,1936,National Amusements,relation,media,new,90,male,United States,USA,0,North America,inherited,6.2,Non-Traded Sectors,TRUE,Media,father,TRUE,TRUE
 Alberto Bailleres Gonzalez,225,1996,1960,Penoles,relation,mining,privatization,63,male,Mexico,MEX,3.97E+11,Latin America,inherited,1.8,Resource Related,TRUE,Mining and metals,father,TRUE,TRUE
@@ -690,7 +690,7 @@ Lucio Tan,227,2014,1982,Asia Brewery,founder,beverages,new,79,male,Philippines,P
 Pyotr Aven,227,2014,1989,Alfa Group,chairman of the board,financial services,new,58,male,Russia,RUS,0,Europe,privatized and resources,6.1,Resource Related,TRUE,Energy,not inherited,TRUE,TRUE
 Richard LeFrak,227,2014,1883,LeFrack ,relation,real estate,new,68,male,United States,USA,0,North America,inherited,6.1,Financial,TRUE,Real Estate,4th generation,TRUE,TRUE
 Sandra Ortega Mera,227,2014,1975,Zara,relation,clothing,new,45,female,Spain,ESP,0,Europe,inherited,6.1,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
-Thomas Frist,227,2014,1968,Hostpital Corporation of America,founder/relation,hospitals,new,75,male,United States,USA,0,North America,founder non-finance,6.1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
+"Thomas Frist, Jr.",227,2014,1968,Hostpital Corporation of America,founder/relation,hospitals,new,75,male,United States,USA,0,North America,founder non-finance,6.1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 Bennett Dorrance,228,1996,1869,Campbell Soup,relation,soup,aquired,63,male,United States,USA,8.10E+12,North America,inherited,1.8,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Stanley Hubbard,229,1996,1925,Hubbard Broadcasting Inc,owner,media,new,62,male,United States,USA,8.10E+12,North America,executive,1.8,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Eliodoro Matte,230,1996,1920,CMPC,relation,timber and paper,new,50,male,Chile,CHL,75800000000,Latin America,inherited,1.7,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
@@ -804,7 +804,7 @@ Juffali family,267,1996,1946,Juffali Group,,electricity,new,0,,Saudi Arabia,SAU,
 Americo Amorim,267,2014,1870,Corticeira Amorim,relation,cork,new,79,male,Portugal,PRT,0,Europe,inherited,5.3,Resource Related,TRUE,Energy,3rd generation,TRUE,TRUE
 Anders Holch Povlsen,267,2014,1975,Bestseller,relation,fashion,new,41,male,Denmark,DEN,0,Europe,inherited,5.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",father,TRUE,TRUE
 Stef Wertheimer,267,2014,1952,ISCAR,founder,industrial tools,new,87,male,Israel,ISR,0,Middle East/North Africa,founder non-finance,5.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
-Willi and Isolde Liebherr,268,1996,1949,Liebherr,relation,construction,new,0,married couple,Switzerland,CHE,3.30E+11,Europe,inherited,1.5,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
+Isolde Liebherr,268,1996,1949,Liebherr,relation,construction,new,0,female,Switzerland,CHE,3.30E+11,Europe,inherited,1.5,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 Martin Ebner,269,1996,1985,BZ Bank,founder,banking,new,0,male,Switzerland,CHE,3.30E+11,Europe,self-made finance,1.5,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Sergio Mantegazza,270,1996,1928,Globus,relation,travel company,new,68,male,Switzerland,CHE,3.30E+11,Europe,inherited,1.5,0,TRUE,Other,father,TRUE,TRUE
 Andrew Forrest,270,2014,2003,Fortescue Metals Group,Chairman,iron ore,new,52,male,Australia,AUS,0,North America,privatized and resources,5.2,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
@@ -841,7 +841,7 @@ James Cargill,274,1996,1865,Cargill,relation,food processing/commodities,new,71,
 Margaret Cargill,275,1996,1865,Cargill,relation,food processing/commodities,new,76,female,United States,USA,8.10E+12,North America,inherited,1.5,Financial,TRUE,Diversified financial,3rd generation,TRUE,TRUE
 Michel David-Weill,276,1996,1848,Lazard,relation,banking,new,0,male,France,FRA,1.61E+12,Europe,inherited,1.4,Financial,TRUE,Money Management,father,TRUE,TRUE
 Serge Dassault,277,1996,1914,Dassault Group,relation,aviation,new,71,male,France,FRA,1.61E+12,Europe,inherited,1.4,0,TRUE,Other,father,TRUE,TRUE
-Robert Bosch,278,1996,1886,Robert Bosch GmbH,relation,auto engines,new,68,male,Germany,DEU,2.50E+12,Europe,inherited,1.4,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
+Robert Bosch Jr,278,1996,1886,Robert Bosch GmbH,relation,auto engines,new,68,male,Germany,DEU,2.50E+12,Europe,inherited,1.4,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Finn Rausing,278,2014,1951,Tetra Pak,relation,food packaging,new,59,male,Sweden,SWE,0,Europe,inherited,5.1,0,TRUE,Other,3rd generation,TRUE,TRUE
 Jacqueline Desmarais,278,2014,1925,Power Corporation of Canada,relation,utilities/financial services,aquired,85,female,Canada,CAN,0,North America,inherited,5.1,Financial,TRUE,Money Management,spouse/widow,TRUE,TRUE
 Kirsten Rausing,278,2014,1951,Tetra Pak,relation,food packaging,new,61,female,Sweden,SWE,0,Europe,inherited,5.1,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
@@ -875,7 +875,7 @@ H Wayne Huizenga,291,1996,1968,Waste Management,founder,waste management,new,58,
 Kenneth Troutt,292,1996,1988,Excel Communications,founder,telecomm,new,48,male,United States,USA,8.10E+12,North America,founder non-finance,1.4,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Andre Kudelski,292,2001,1951,Kudelski Group,relation,software,new,0,male,Switzerland,CHE,2.79E+11,Europe,inherited,1.7,New Sectors,TRUE,Technology-Computer,father,TRUE,TRUE
 Clayton Mathile,292,2001,1946,Iams,former CEO,pet food,new,60,male,United States,USA,1.06E+13,North America,executive,1.7,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
-Clemmie Spangler,292,2001,1991,Bank of North Carolina,relation,banking,new,68,male,United States,USA,1.06E+13,North America,inherited,1.7,Financial,TRUE,Money Management,father,TRUE,TRUE
+Clemmie Spangler Jr,292,2001,1991,Bank of North Carolina,relation,banking,new,68,male,United States,USA,1.06E+13,North America,inherited,1.7,Financial,TRUE,Money Management,father,TRUE,TRUE
 Donald Trump,292,2001,1920,The Trump Organization,relation,real estate,new,55,male,United States,USA,1.06E+13,North America,inherited,1.7,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Eugene Melnyk,292,2001,1989,Biovail Corporation,founder,pharmaceuticals,new,0,male,Canada,CAN,7.33E+11,North America,founder non-finance,1.7,0,TRUE,Other,not inherited,TRUE,TRUE
 Giorgio Armani,292,2001,1975,Armani,founder,luxury goods,new,66,male,Italy,ITA,1.16E+12,Europe,founder non-finance,1.7,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
@@ -885,11 +885,11 @@ Jess Jackson,292,2001,1982,Kendall-Jackson,founder,wine,new,71,male,United State
 John Arrillaga,292,2001,1960,,founder,real estate,new,63,male,United States,USA,1.06E+13,North America,self-made finance,1.7,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Kenneth Morrison,292,2001,1899,Morrisons,relation,supermarkets,new,69,male,United Kingdom,GBR,1.53E+12,Europe,inherited,1.7,Non-Traded Sectors,TRUE,"Retail, Restaurant",father,TRUE,TRUE
 Kumar Birla,292,2001,1857,Aditya Birla Group,relation,cement,new,33,male,India,IND,4.94E+11,South Asia,inherited,1.7,Resource Related,TRUE,Mining and metals,4th generation,TRUE,TRUE
-Lawrence Flinn,292,2001,1975,UVSG,investor ,media,aquired,0,male,United States,USA,1.06E+13,North America,executive,1.7,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
+Lawrence Flinn Jr,292,2001,1975,UVSG,investor ,media,aquired,0,male,United States,USA,1.06E+13,North America,executive,1.7,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Michele Ferrero,292,2001,1946,Ferrero spa,relation,chocolates,new,74,male,Italy,ITA,1.16E+12,Europe,executive,1.7,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Rachman Halim,292,2001,1958,Gudang Garam,relation,cigarette,new,53,male,Indonesia,IDN,1.60E+11,East Asia,inherited,1.7,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Richard Peery,292,2001,1960,,founder,real estate,new,60,male,United States,USA,1.06E+13,North America,self-made finance,1.7,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
-Robert Rich,292,2001,1945,Rich Products,founder,food processing,new,87,male,United States,USA,1.06E+13,North America,founder non-finance,1.7,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
+Robert Rich Sr,292,2001,1945,Rich Products,founder,food processing,new,87,male,United States,USA,1.06E+13,North America,founder non-finance,1.7,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Roger Sant,292,2001,1981,AES,founder,energy,new,0,male,United States,USA,1.06E+13,North America,privatized and resources,1.7,Resource Related,TRUE,Energy,not inherited,TRUE,TRUE
 Rupert Johnson,292,2001,1947,Franklin Resources,relation,mutal funds,new,60,male,United States,USA,1.06E+13,North America,inherited,1.7,Financial,TRUE,Money Management,father,TRUE,TRUE
 Scott McNealy,292,2001,1982,Sun Microsystems,founder,microchips,new,0,male,United States,USA,1.06E+13,North America,founder non-finance,1.7,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
@@ -967,7 +967,7 @@ Samuel LeFrak,315,1996,1905,LeFrack ,relation,real estate,new,0,male,United Stat
 Leslie Wexner,316,1996,1963,Limited Brands,founder,clothing,new,44,male,United States,USA,8.10E+12,North America,founder non-finance,1.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Craig McCaw,317,1996,1987,McCaw Cellular,founder,cell phones,new,46,male,United States,USA,8.10E+12,North America,founder non-finance,1.3,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Dorrance Hill Hamilton,318,1996,1869,Campbell Soup,relation,soup,aquired,0,female,United States,USA,8.10E+12,North America,inherited,1.3,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
-Amos Hosetter,319,1996,1964,Continental Cablevision,founder,media,new,59,male,United States,USA,8.10E+12,North America,founder non-finance,1.3,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
+Amos Hosetter Jr,319,1996,1964,Continental Cablevision,founder,media,new,59,male,United States,USA,8.10E+12,North America,founder non-finance,1.3,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Andrew Tan,319,2014,1993,Alliance Global Group,Chairman and Chief Executive Officer,"real estate, retail",new,61,male,Philippines,PHL,0,East Asia,self-made finance,4.7,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Arnon Milchan,319,2014,1991,New Regency Films,founder,movies,new,69,male,Israel,ISR,0,Middle East/North Africa,founder non-finance,4.7,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Frank Lowy,319,2014,1960,Westfield Group,founder,shopping centers,new,83,male,Australia,AUS,0,North America,self-made finance,4.7,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
@@ -1052,12 +1052,12 @@ Emanuele (Lino) Saputo,345,2014,1954,Saputo Inc,relation,cheese,new,77,male,Cana
 Guo Guangchang,345,2014,1992,Fosun Group,founder,investment,new,47,male,China,CHN,0,East Asia,self-made finance,4.3,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Lee Shin Cheng,345,2014,1969,IOI Group,founder and chairman,palm oil/real estate,new,74,male,Malaysia,MYS,0,East Asia,privatized and resources,4.3,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
 Liang Wengen,345,2014,1989,Sany Heavy Industry,founder,heavy manufacturing,new,57,male,China,CHN,0,East Asia,founder non-finance,4.3,Traded Sectors,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
-Paul Tudor Jones,345,2014,1980,Tudor Investment Corporation,founder,hedge funds,new,59,male,United States,USA,0,North America,self-made finance,4.3,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
+"Paul Tudor Jones, II.",345,2014,1980,Tudor Investment Corporation,founder,hedge funds,new,59,male,United States,USA,0,North America,self-made finance,4.3,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Sam Zell,345,2014,1968,Equity Group Investments,founder,real estate,new,72,male,United States,USA,0,North America,self-made finance,4.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Samvel Karapetyan,345,2014,1999,Tashir Group,founder,real estate,new,48,male,Russia,RUS,0,Europe,founder non-finance,4.3,Financial,TRUE,Other,not inherited,TRUE,TRUE
 Wang Chuanfu,345,2014,1995,BYD Company,founder,mobile phone batteries,new,48,male,China,CHN,0,East Asia,founder non-finance,4.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Sam Zell,346,1996,1968,Equity Group Investments,founder,real estate,new,54,male,United States,USA,8.10E+12,North America,self-made finance,1.2,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
-Peter Haas,347,1996,1853,Levi Strauss & co,relation,jeans,new,0,male,United States,USA,8.10E+12,North America,inherited,1.2,Non-Traded Sectors,TRUE,"Retail, Restaurant",3rd generation,TRUE,TRUE
+Peter Haas Jr,347,1996,1853,Levi Strauss & co,relation,jeans,new,0,male,United States,USA,8.10E+12,North America,inherited,1.2,Non-Traded Sectors,TRUE,"Retail, Restaurant",3rd generation,TRUE,TRUE
 Bemberg family,348,1996,1888,Cerveza Quilmes,relation,beverages,new,0,,Argentina,ARG,2.72E+11,Latin America,inherited,1.1,Traded Sectors,TRUE,Consumer,5th generation or longer,TRUE,TRUE
 Leon Feffer,349,1996,1939,Suzano Papel e Celulose,founder,paper,new,0,male,Brazil,BRA,8.54E+11,Latin America,founder non-finance,1.1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Galen Weston,350,1996,1882,George Weston Limited,relation,food distribution,new,55,male,Canada,CAN,6.27E+11,North America,inherited,1.1,Non-Traded Sectors,TRUE,"Retail, Restaurant",3rd generation,TRUE,TRUE
@@ -1108,7 +1108,7 @@ Stanley Druckenmiller,363,2001,1981,Duquesne Capital,founder,hedge funds,new,47,
 Stein Erik Hagen,363,2001,1977,RIMI,founder,groceries,new,44,male,Norway,NOR,1.74E+11,Europe,founder non-finance,1.4,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Stephen Case,363,2001,1985,AOL,Chairman and Chief Executive Officer,internet company,new,49,male,United States,USA,1.06E+13,North America,executive,1.4,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Thomas Frist,363,2001,1968,Hostpital Corporation of America,founder/relation,hospitals,new,62,male,United States,USA,1.06E+13,North America,founder non-finance,1.4,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
-Willi and Isolde Liebherr,363,2001,1949,Liebherr,relation,construction,new,0,married couple,Switzerland,CHE,2.79E+11,Europe,inherited,1.4,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
+Isolde Liebherr,363,2001,1949,Liebherr,relation,construction,new,0,female,Switzerland,CHE,2.79E+11,Europe,inherited,1.4,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 William Ford,363,2001,1903,Ford Motor Company,relation,automobiles,new,0,male,United States,USA,1.06E+13,North America,inherited,1.4,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 William Kellogg,363,2001,1962,Khol's,CEO,retail,new,57,male,United States,USA,1.06E+13,North America,executive,1.4,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Juan and Carlos March,364,1996,1916,Acciona Trasmediterranea,relation,shipping,new,0,male,Spain,ESP,6.41E+11,Europe,inherited,1.1,Financial,TRUE,Diversified financial,3rd generation,TRUE,TRUE
@@ -1147,9 +1147,9 @@ Wang Wei,375,2014,1993,S.F. Express,founder,express delivery services,new,0,male
 Curtis LeRoy Carlson,376,1996,1938,Carlson,founder,hospitality,new,0,male,United States,USA,8.10E+12,North America,founder non-finance,1.1,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Charles Schwab,377,1996,1971,Charles Schwab Corporation,founder,brokerage/banking,new,58,male,United States,USA,8.10E+12,North America,self-made finance,1.1,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Eli Broad,378,1996,1957,"Kaufman and Broad, SunAmerica",founder,construction/insurance,new/aquired,62,male,United States,USA,8.10E+12,North America,self-made finance,1.1,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
-Carl Lindner,379,1996,1959,American Financial Group,founder,banking,new,76,male,United States,USA,8.10E+12,North America,founder non-finance,1.1,0,TRUE,0,not inherited,TRUE,TRUE
+Carl Lindner Jr,379,1996,1959,American Financial Group,founder,banking,new,76,male,United States,USA,8.10E+12,North America,founder non-finance,1.1,0,TRUE,0,not inherited,TRUE,TRUE
 Thomas Frist,380,1996,1968,Hostpital Corporation of America,founder/relation,hospitals,new,57,male,United States,USA,8.10E+12,North America,founder non-finance,1.1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
-Charles Gates,381,1996,1911,Gates Rubber Company,relation,tires,aquired,74,male,United States,USA,8.10E+12,North America,inherited,1.1,Resource Related,TRUE,Mining and metals,father,TRUE,TRUE
+Charles Gates Jr,381,1996,1911,Gates Rubber Company,relation,tires,aquired,74,male,United States,USA,8.10E+12,North America,inherited,1.1,Resource Related,TRUE,Mining and metals,father,TRUE,TRUE
 Gustavo Cisneros,382,1996,1929,Cisneros Group,relation,media,new,50,male,Venezuela,VEN,68258588863,Latin America,inherited,1.1,Non-Traded Sectors,TRUE,Media,father,TRUE,TRUE
 Ahmed Ali Kanoo,383,1996,1890,YBA Kanoo,relation,shipping,new,0,male,Bahrain,BHR,6100000000,Middle East/North Africa,inherited,1,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Larragoiti family,384,1996,1895,SulAmerica Seguros,,insurance,new,0,,Brazil,BRA,8.54E+11,Latin America,inherited,1,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
@@ -1159,7 +1159,7 @@ Nathaniel Rothschild,387,1996,1811,?N M Rothschild & Sons,relation,banking,new,0
 Alfredo Harp Helu,387,2001,1884,Banamex,owner,banking,aquired,57,male,Mexico,MEX,7.25E+11,Latin America,self-made finance,1.3,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Andronico Luksic,387,2001,1888,Antofagasta,founder,copper,aquired,74,male,Chile,CHL,72300000000,Latin America,privatized and resources,1.3,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
 Anthony Bamford,387,2001,1945,JCB,relation,"heavy equiptment (excavators, backhoes and tractors)",new,55,male,United Kingdom,GBR,1.53E+12,Europe,inherited,1.3,Non-Traded Sectors,TRUE,Constrution,father,TRUE,TRUE
-Arthur Williams,387,2001,1977,A.L. Williams & Associates,founder,life insurance ,new,58,male,United States,USA,1.06E+13,North America,self-made finance,1.3,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
+Arthur Williams Jr,387,2001,1977,A.L. Williams & Associates,founder,life insurance ,new,58,male,United States,USA,1.06E+13,North America,self-made finance,1.3,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Arturo Moreno,387,2001,1947,Outdoor Systems,CEO,advertising,new,54,male,United States,USA,1.06E+13,North America,self-made finance,1.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Bradley Hughes,387,2001,1972,Public Storage,founder,self-storage,new,67,male,United States,USA,1.06E+13,North America,founder non-finance,1.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Calisto Tanzi,387,2001,1961,Parmalat,founder,dairy,new,0,male,Italy,ITA,1.16E+12,Europe,founder non-finance,1.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
@@ -1195,10 +1195,10 @@ Bernard (Barry) Sherman,388,2014,1959,Empire Laboratories,relation,pharmaceutica
 Daniel Och,388,2014,1994,Och-Ziff Capital Management Group,"founder, chairman, ceo",hedge funds,new,53,male,United States,USA,0,North America,self-made finance,3.9,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Donald Trump,388,2014,1920,The Trump Organization,relation,real estate,new,67,male,United States,USA,0,North America,inherited,3.9,Non-Traded Sectors,TRUE,Media,father,TRUE,TRUE
 Heinz-Georg Baus,388,2014,1960,Bauhaus,founder,home improvement retail,new,80,male,Germany,DEU,0,Europe,founder non-finance,3.9,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
-John Gokongwe,388,2014,1954,JG Summit Holdings,founder,"manufacturing, real estate, aviation",new,86,male,Philippines,PHL,0,East Asia,self-made finance,3.9,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
+"John Gokongwei, Jr.",388,2014,1954,JG Summit Holdings,founder,"manufacturing, real estate, aviation",new,86,male,Philippines,PHL,0,East Asia,self-made finance,3.9,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Martha Ingram,388,2014,1946,Ingram Industries,relation,transportation,new,78,female,United States,USA,0,North America,inherited,3.9,Non-Traded Sectors,TRUE,"Retail, Restaurant",spouse/widow,TRUE,TRUE
 Riley Bechtel,388,2014,1898,Bechtel Corporation,relation and chairman,construction,new,61,male,United States,USA,0,North America,inherited,3.9,Non-Traded Sectors,TRUE,Constrution,4th generation,TRUE,TRUE
-Stephen Bechtel,388,2014,1898,Bechtel Corporation,relation,construction,new,88,male,United States,USA,0,North America,inherited,3.9,Non-Traded Sectors,TRUE,Constrution,4th generation,TRUE,TRUE
+"Stephen Bechtel, Jr.",388,2014,1898,Bechtel Corporation,relation,construction,new,88,male,United States,USA,0,North America,inherited,3.9,Non-Traded Sectors,TRUE,Constrution,4th generation,TRUE,TRUE
 Strwher family,389,1996,0,,,,,0,,Germany,DEU,2.50E+12,Europe,,1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Werhahn family,390,1996,1844,Wilh. Werhahn KG,,building materials,new,0,,Germany,DEU,2.50E+12,Europe,inherited,1,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 Chao Kuang-Piu,391,1996,1960,,founder,wool,new,0,male,Hong Kong,HKG,1.60E+11,East Asia,founder non-finance,1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
@@ -1277,10 +1277,10 @@ Harold Lenfest,421,2001,1974,Lenfest Communications,founder,media,new,0,male,Uni
 Herbert Siegel,421,2001,1977,BHC Communications,Chairman and Chief Executive Officer,television,new,73,male,United States,USA,1.06E+13,North America,executive,1.2,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Jaime Augusto Zobel de Ayala,421,2001,1834,Ayala Corporation,relation,construcion,new,0,male,Philippines,PHL,76261998621,East Asia,inherited,1.2,Financial,TRUE,Money Management,4th generation,TRUE,TRUE
 John Fredriksen,421,2001,1985,Frontline Ltd.,founder,oil tankers,aquired,56,male,Norway,NOR,1.74E+11,Europe,founder non-finance,1.2,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
-John Krehbiel,421,2001,1938,Molex Incorporated,co-chairman,electronic interconnectors,new,0,male,United States,USA,1.06E+13,North America,executive,1.2,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
-John Marriott,421,2001,1927,Marriot,relation,hotels,new,65,male,United States,USA,1.06E+13,North America,inherited,1.2,Financial,TRUE,Real Estate,father,TRUE,TRUE
+John Krehbiel Jr,421,2001,1938,Molex Incorporated,co-chairman,electronic interconnectors,new,0,male,United States,USA,1.06E+13,North America,executive,1.2,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
+John Marriott Jr,421,2001,1927,Marriot,relation,hotels,new,65,male,United States,USA,1.06E+13,North America,inherited,1.2,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Jon Stryker,421,2001,1941,Stryker Corporation,relation,medical supplies,new,42,male,United States,USA,1.06E+13,North America,inherited,1.2,New Sectors,TRUE,Technology-Medical,3rd generation,TRUE,TRUE
-Joseph Jamail,421,2001,1987,,lawer,lawsuits,,75,male,United States,USA,1.06E+13,North America,executive,1.2,0,TRUE,Other,not inherited,TRUE,TRUE
+Joseph Jamail Jr,421,2001,1987,,lawer,lawsuits,,75,male,United States,USA,1.06E+13,North America,executive,1.2,0,TRUE,Other,not inherited,TRUE,TRUE
 Kunio Busujima,421,2001,1950,Sankyo,founder,pachinko gaming machines,new,33,male,Japan,JPN,4.16E+12,East Asia,founder non-finance,1.2,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Lee Seng Wee,421,2001,1919,Oversea-Chinese Banking Corporation,chairman,banking,new,76,male,Singapore,SGP,89285087395,East Asia,inherited,1.2,Financial,TRUE,Money Management,father,TRUE,TRUE
 Lucio Tan,421,2001,1982,Asia Brewery,founder,beverages,new,66,male,Philippines,PHL,76261998621,East Asia,privatized and resources,1.2,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
@@ -1319,7 +1319,7 @@ Andreas Struengmann,446,2014,1986,Hexal AG,founder,pharmaceuticals,new,64,male,G
 Bernard Marcus,446,2014,1979,Home Depot,founder,home improvement retail,new,84,male,United States,USA,0,North America,founder non-finance,3.5,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Evan Williams,446,2014,2006,Twitter,founder,internet,new,41,male,United States,USA,0,North America,founder non-finance,3.5,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 George Bishop,446,2014,1981,GeoSouthern,founder,oil and gas,new,77,male,United States,USA,0,North America,privatized and resources,3.5,Resource Related,TRUE,Energy,not inherited,TRUE,TRUE
-H. Ross Perot,446,2014,1962,Electronic Data Systems,founder,data processing,new,83,male,United States,USA,0,North America,founder non-finance,3.5,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
+"H. Ross Perot, Sr.",446,2014,1962,Electronic Data Systems,founder,data processing,new,83,male,United States,USA,0,North America,founder non-finance,3.5,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Jamshyd Godrej,446,2014,1897,Godrej Group,relation,security,new,65,male,India,IND,0,South Asia,inherited,3.5,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Keiichiro Takahara,446,2014,1961,Unicharm,founder,diapers,new,82,male,Japan,JPN,0,East Asia,founder non-finance,3.5,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Leon G. Cooperman,446,2014,1991,Omega Advisors,founder,asset management,new,70,male,United States,USA,0,North America,self-made finance,3.5,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
@@ -1367,13 +1367,13 @@ Thomas Flatley,452,2001,1958,The Flatley Co,founder,real estate,new,68,male,Unit
 Victor Fung,452,2001,1906,Li & Fung Group,relation,supply chain,new,56,male,Hong Kong,HKG,1.69E+11,East Asia,inherited,1.1,Non-Traded Sectors,TRUE,"Retail, Restaurant",3rd generation,TRUE,TRUE
 Viktor Chernomyrdin,452,2001,1989,Gazprom,founder,natural gas,state owned enterprise,0,male,Russia,RUS,3.07E+11,Europe,privatized and resources,1.1,Resource Related,TRUE,Energy,not inherited,TRUE,TRUE
 Viscount Rothermere,452,2001,1896,Associated Newspapers,relation,media,new,0,male,United Kingdom,GBR,1.53E+12,Europe,inherited,1.1,Non-Traded Sectors,TRUE,Media,4th generation,TRUE,TRUE
-Walter Scott,452,2001,1884,Piewit Corporation,former CEO,construction,new,69,male,United States,USA,1.06E+13,North America,executive,1.1,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
+Walter Scott Jr,452,2001,1884,Piewit Corporation,former CEO,construction,new,69,male,United States,USA,1.06E+13,North America,executive,1.1,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 William Cook,452,2001,1963,Cook Group,founder,medical technology,new,69,male,United States,USA,1.06E+13,North America,founder non-finance,1.1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 William Fung,452,2001,1906,Li & Fung Group,relation,supply chain,new,53,male,Hong Kong,HKG,1.69E+11,East Asia,inherited,1.1,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Andrei Guriev,466,2014,1929,Apatit,chairman,fertilizer,privatization,53,male,Russia,RUS,0,Europe,privatized and resources,3.4,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Chung Eui-Sun,466,2014,1967,Hyundai,relation/vice chairman,cars,new,43,male,South Korea,KOR,0,East Asia,inherited,3.4,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Daniela Herz,466,2014,1949,Maxingvest AG,relation,coffee,new,60,female,Germany,DEU,0,Europe,inherited,3.4,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
-Edward Roski,466,2014,1948,Majestic Realty Co.,relation,real estate,new,75,male,United States,USA,0,North America,inherited,3.4,Financial,TRUE,Real Estate,father,TRUE,TRUE
+"Edward Roski, Jr.",466,2014,1948,Majestic Realty Co.,relation,real estate,new,75,male,United States,USA,0,North America,inherited,3.4,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Fredrik Lundberg,466,2014,1944,LE Lundbergforetagen AB,relation,construction,new,62,male,Sweden,SWE,0,Europe,inherited,3.4,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Haim Saban,466,2014,1988,Saban Entertainment,founder,media,new,69,male,United States,USA,0,North America,founder non-finance,3.4,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Han Chang-Woo,466,2014,1957,Maruhan,"Chairman, CEO",gaming,new,83,male,Japan,JPN,0,East Asia,founder non-finance,3.4,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
@@ -1434,7 +1434,7 @@ George Ying Chow Lien,490,2001,1949,Overseas Chinese Union Bank,founder,banking,
 Gerald Cadogan,490,2001,1712,Cadogan Estates,relation,real estate,new,0,male,United Kingdom,GBR,1.53E+12,Europe,inherited,1,Financial,TRUE,Real Estate,5th generation or longer,TRUE,TRUE
 German Larrea Mota Velasco,490,2001,1978,Grupo Mexio,founder,copper,new,47,male,Mexico,MEX,7.25E+11,Latin America,privatized and resources,1,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
 Hope Hill Van Beuren,490,2001,1869,Campbell Soup,relation,soup,aquired,55,female,United States,USA,1.06E+13,North America,inherited,1,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
-Jacob and Yehudith Richter,490,2001,1992,Medinol,founder,pharmaceuticals,new,0,married couple,Israel,ISR,1.30E+11,Middle East/North Africa,founder non-finance,1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
+Yehudith Richter,490,2001,1992,Medinol,founder,pharmaceuticals,new,0,female,Israel,ISR,1.30E+11,Middle East/North Africa,founder non-finance,1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 Jacques Servier,490,2001,1954,Laboratories Servier,founder,pharmaceuticals,new,0,male,France,FRA,1.38E+12,Europe,self-made finance,1,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 James France,490,2001,1947,NASCAR,relation,sports,new,56,male,United States,USA,1.06E+13,North America,inherited,1,0,TRUE,Other,father,TRUE,TRUE
 Jerome Kohlberg,490,2001,1976,Kohberg Kravis Roberts & Co,founder,private equity,new,75,male,United States,USA,1.06E+13,North America,self-made finance,1,Financial,TRUE,Private equity/leveraged buyout,not inherited,TRUE,TRUE
@@ -1443,7 +1443,7 @@ John Doerr,490,2001,1972,Kleinter Perkins Caufield & Byers,employee,venture capi
 John Todd,490,2001,1929,Todd Energy,relation,oil,new,0,male,New Zealand,NZL,53872593337,North America,inherited,1,Resource Related,TRUE,Energy,3rd generation,TRUE,TRUE
 Julian Robertson,490,2001,1980,Tiger Management Corp,founder,hedge funds,new,69,male,United States,USA,1.06E+13,North America,self-made finance,1,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Lee Hon Chiu,490,2001,1920,Hysan Development,relation,real estate,new,0,male,Hong Kong,HKG,1.69E+11,East Asia,inherited,1,Financial,TRUE,Real Estate,father,TRUE,TRUE
-Malcolm Green Chace,490,2001,1984,First Allied Corporation,founder,"investments/real estate, sports teams",new,0,male,United States,USA,1.06E+13,North America,founder non-finance,1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
+Malcolm Green Chace III,490,2001,1984,First Allied Corporation,founder,"investments/real estate, sports teams",new,0,male,United States,USA,1.06E+13,North America,founder non-finance,1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Mark Dixon,490,2001,1989,Regus,founder,business centers,new,0,male,United Kingdom,GBR,1.53E+12,Europe,founder non-finance,1,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Michael Lee-Chin,490,2001,1950,Otto Group,relation,mail order retail,new,50,male,Canada,CAN,7.33E+11,North America,inherited,1,Financial,TRUE,Hedge funds,father,TRUE,TRUE
 Norman Waitt,490,2001,1985,Gateway,founder,computers,new,0,male,United States,USA,1.06E+13,North America,founder non-finance,1,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
@@ -1457,9 +1457,9 @@ Toichi Takenaka,490,2001,1610,Takenaka Corporation,relation,construction,new,58,
 Tom Gores,490,2001,1995,Platinum Equity,founder,private equity,new,36,male,United States,USA,1.06E+13,North America,self-made finance,1,Financial,TRUE,Private equity/leveraged buyout,not inherited,TRUE,TRUE
 Vinod Khosla,490,2001,1982,Sun Microsystems,founder,software,new,46,male,United States,USA,1.06E+13,North America,self-made finance,1,Financial,TRUE,Venture Capital,not inherited,TRUE,TRUE
 Wee Cho Yaw,490,2001,1935,United Overseas Bank,relation,banking,new,72,male,Singapore,SGP,89285087395,East Asia,inherited,1,Financial,TRUE,Money Management,father,TRUE,TRUE
-William France,490,2001,1947,NASCAR,relation,sports,new,68,male,United States,USA,1.06E+13,North America,inherited,1,0,TRUE,Other,father,TRUE,TRUE
-William Hearst,490,2001,1887,Hearst Corporation,relation,media,new,51,male,United States,USA,1.06E+13,North America,inherited,1,Non-Traded Sectors,TRUE,Media,3rd generation,TRUE,TRUE
-Austen Cargill,506,2014,1865,Cargill,relation,food processing/commodities,new,63,male,United States,USA,0,North America,inherited,3.2,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
+William France Jr,490,2001,1947,NASCAR,relation,sports,new,68,male,United States,USA,1.06E+13,North America,inherited,1,0,TRUE,Other,father,TRUE,TRUE
+William Hearst III,490,2001,1887,Hearst Corporation,relation,media,new,51,male,United States,USA,1.06E+13,North America,inherited,1,Non-Traded Sectors,TRUE,Media,3rd generation,TRUE,TRUE
+"Austen Cargill, II.",506,2014,1865,Cargill,relation,food processing/commodities,new,63,male,United States,USA,0,North America,inherited,3.2,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
 Christoffel Wiese,506,2014,1979,Shoprite,Exectuitve Director,consumer retail,aquired,72,male,South Africa,ZAF,0,Sub-Saharan Africa,executive,3.2,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Desh Bandhu Gupta,506,2014,1968,Lupin Limited,founder,pharmaceuticals,new,76,male,India,IND,0,South Asia,founder non-finance,3.2,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 Frederick Smith,506,2014,1971,FedEx,founder,shipping,new,69,male,United States,USA,0,North America,founder non-finance,3.2,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
@@ -1467,8 +1467,8 @@ George Lindemann,506,2014,1972,"Vision Cable, Metro Mobile, Southern Union",Chai
 Gianluigi Aponte,506,2014,1970,MSC,founder,shipping,new,0,male,Switzerland,CHE,0,Europe,founder non-finance,3.2,0,TRUE,Other,not inherited,TRUE,TRUE
 Heidi Horten,506,2014,1936,Horten AG,relation,retail,new,73,female,Austria,AUT,0,Europe,inherited,3.2,Non-Traded Sectors,TRUE,"Retail, Restaurant",spouse/widow,TRUE,TRUE
 Issad Rebrab,506,2014,1971,CEVITAL,founder,"manufacturing (agriculture, steel, electronics)",new,70,male,Algeria,DZA,0,Middle East/North Africa,founder non-finance,3.2,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
-James Cargill,506,2014,1865,Cargill,relation,food processing/commodities,new,64,male,United States,USA,0,North America,inherited,3.2,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
-Julian Robertson,506,2014,1980,Tiger Management Corp,founder,hedge funds,new,82,male,United States,USA,0,North America,self-made finance,3.2,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
+"James Cargill, II.",506,2014,1865,Cargill,relation,food processing/commodities,new,64,male,United States,USA,0,North America,inherited,3.2,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
+"Julian Robertson, Jr.",506,2014,1980,Tiger Management Corp,founder,hedge funds,new,82,male,United States,USA,0,North America,self-made finance,3.2,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Liu Yonghao,506,2014,1982,New Hope Group,founder,animal feed,new,62,male,China,CHN,0,East Asia,founder non-finance,3.2,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Lu Xiangyang,506,2014,1995,BYD,vice chairman,automobiles,new,51,male,China,CHN,0,East Asia,executive,3.2,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Marianne Liebmann,506,2014,1865,Cargill,relation,food processing/commodities,new,60,female,United States,USA,0,North America,inherited,3.2,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
@@ -1489,7 +1489,7 @@ Hans Peter Wild,520,2014,1931,?Rudolf WILD GmbH & Co. KG,relation,natural flavor
 Isaac Perlmutter,520,2014,1998,Marvel Entertainment,CEO,media,aquired,71,male,United States,USA,0,North America,executive,3.1,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 James Jannard,520,2014,1975,"Oakley, Inc",founder,apparel and eyewear,new,64,male,United States,USA,0,North America,founder non-finance,3.1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Jay Robert (J.B.) Pritzker,520,2014,1957,Hyatt,relation,hotels,aquired,49,male,United States,USA,0,North America,inherited,3.1,Financial,TRUE,Real Estate,father,TRUE,TRUE
-Jeremy Jacobs,520,2014,1915,Delaware North Companies,relation,hospitality and food service,new,74,male,United States,USA,0,North America,inherited,3.1,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
+"Jeremy Jacobs, Sr.",520,2014,1915,Delaware North Companies,relation,hospitality and food service,new,74,male,United States,USA,0,North America,inherited,3.1,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Judy Faulkner,520,2014,1979,Epic Systems,founder,healthcare management,new,70,female,United States,USA,0,North America,founder non-finance,3.1,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 Maria Helena Moraes Scripilliti,520,2014,1919,Votorantim Group,relation,"metals, paper, cement",new,83,female,Brazil,BRA,0,Latin America,inherited,3.1,Financial,TRUE,Diversified financial,father,TRUE,TRUE
 Mohamed Mansour,520,2014,1952,Mansour Group,relation,automobiles,new,66,male,Egypt,EGY,0,Middle East/North Africa,inherited,3.1,Financial,TRUE,Diversified financial,father,TRUE,TRUE
@@ -1504,10 +1504,10 @@ Syed Mokhtar AlBukhary,520,2014,1911,MMC Corp./DRBHicom,owner,"rice trading, min
 Taha Mikati,520,2014,1982,Investcom,founder,telecommunications,new,69,male,Lebanon,LBN,0,Middle East/North Africa,privatized and resources,3.1,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Theo Mueller,520,2014,1896,Muller,relation,dairy products,new,74,male,Germany,DEU,0,Europe,executive,3.1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Wang Yung-Tsai,520,2014,1954,Formosa Plastics,founder,petrochemicals,new,93,male,Taiwan,Taiwan,0,East Asia,founder non-finance,3.1,Traded Sectors,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
-William Conway,520,2014,1987,Carlyle Group,founder,private equity,new,64,male,United States,USA,0,North America,self-made finance,3.1,Financial,TRUE,Private equity/leveraged buyout,not inherited,TRUE,TRUE
+"William Conway, Jr.",520,2014,1987,Carlyle Group,founder,private equity,new,64,male,United States,USA,0,North America,self-made finance,3.1,Financial,TRUE,Private equity/leveraged buyout,not inherited,TRUE,TRUE
 Yitzhak Tshuva,520,2014,1992,El-Ad Group,founder and chairman,real estate,new,65,male,Israel,ISR,0,Middle East/North Africa,self-made finance,3.1,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Alexander Nesis,551,2014,1991,ICT Group,founder,private equity,new,51,male,Russia,RUS,0,Europe,privatized and resources,3,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
-Amos Hostetter,551,2014,1964,Continental Cablevision,founder,media,new,77,male,United States,USA,0,North America,founder non-finance,3,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
+"Amos Hostetter, Jr.",551,2014,1964,Continental Cablevision,founder,media,new,77,male,United States,USA,0,North America,founder non-finance,3,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Anthony Pratt,551,2014,1948,Pratt Industries/Visy Industries,relation,paper,new,53,male,Australia,AUS,0,North America,inherited,3,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Brian Acton,551,2014,2009,WhatsApp,founder,software,new,42,male,United States,USA,0,North America,founder non-finance,3,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Edward Lampert,551,2014,1988,ESL Investment,founder,investment banking,new,51,male,United States,USA,0,North America,founder non-finance,3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
@@ -1529,7 +1529,7 @@ Lu Zhiqiang,551,2014,1985,Oceanwide Group of Beijing,chairman,"real estate, fina
 Michel Leclercq,551,2014,1976,Oxylane,founder,sports equipment,new,74,male,France,FRA,0,Europe,founder non-finance,3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Paul Ramsay,551,2014,1964,Ramsay Health Care,founder,hospitals,new,78,male,Australia,AUS,0,North America,founder non-finance,3,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 Peter Buck,551,2014,1965,Subway,founder,restaurant,new,83,male,United States,USA,0,North America,founder non-finance,3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
-Robert Rich,551,2014,1945,Rich Products Corporation,relation,frozen foods,new,73,male,United States,USA,0,North America,inherited,3,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
+"Robert Rich, Jr.",551,2014,1945,Rich Products Corporation,relation,frozen foods,new,73,male,United States,USA,0,North America,inherited,3,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 S. Curtis Johnson,551,2014,1886,S. C. Johnson & Son,relation,cleaning supplies,new,58,male,United States,USA,0,North America,inherited,3,Traded Sectors,TRUE,Consumer,5th generation or longer,TRUE,TRUE
 Samuel Tak Lee,551,2014,1958,Prudential Enterprise,relation,real estate,new,74,male,Hong Kong,HKG,0,East Asia,inherited,3,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Tang Yiu,551,2014,1981,Belle Holdings,founder,footwear,new,80,male,Hong Kong,HKG,0,East Asia,founder non-finance,3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
@@ -1538,7 +1538,7 @@ Winnie Johnson-Marquart,551,2014,1886,S. C. Johnson & Son,relation,cleaning supp
 Anil Agarwal,580,2014,1986,Vedanta Resources,founder,metals and mining,new,60,male,India,IND,0,South Asia,privatized and resources,2.9,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
 Carlo Benetton,580,2014,1965,Benetton Group,founder,fashion,new,70,male,Italy,ITA,0,Europe,founder non-finance,2.9,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 David Filo,580,2014,1994,Yahoo!,founder,software,new,47,male,United States,USA,0,North America,founder non-finance,2.9,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
-David Rockefeller,580,2014,1870,Standard Oil,relation,oil,new,98,male,United States,USA,0,North America,inherited,2.9,Resource Related,TRUE,Energy,3rd generation,TRUE,TRUE
+"David Rockefeller, Sr.",580,2014,1870,Standard Oil,relation,oil,new,98,male,United States,USA,0,North America,inherited,2.9,Resource Related,TRUE,Energy,3rd generation,TRUE,TRUE
 Do Won Chang,580,2014,1984,Forever 21,founder,fashion,new,0,male,United States,USA,0,North America,founder non-finance,2.9,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Farhad Moshiri,580,2014,1999,Metalloinvest,founder,metals,new,58,male,United Kingdom,GBR,0,Europe,privatized and resources,2.9,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
 Fernando Roberto Moreira Salles,580,2014,1926,Unibanco,relation,banking,new,67,male,Brazil,BRA,0,Latin America,inherited,2.9,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
@@ -1564,7 +1564,7 @@ Rahel Blocher,580,2014,1936,EMS-Chemie,relation,petrochemicals,aquired,38,female
 Robert Kraft,580,2014,1972,International Forest Products,founder,paper products,new,72,male,United States,USA,0,North America,founder non-finance,2.9,0,TRUE,Other,not inherited,TRUE,TRUE
 Thomas Pritzker,580,2014,1957,Hyatt,relation,hotels,aquired,63,male,United States,USA,0,North America,inherited,2.9,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Tom Gores,580,2014,1995,Platinum Equity,founder,private equity,new,49,male,United States,USA,0,North America,self-made finance,2.9,Financial,TRUE,Private equity/leveraged buyout,not inherited,TRUE,TRUE
-Walter Scott,580,2014,1884,Piewit Corporation,former CEO,construction,new,82,male,United States,USA,0,North America,executive,2.9,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
+"Walter Scott, Jr.",580,2014,1884,Piewit Corporation,former CEO,construction,new,82,male,United States,USA,0,North America,executive,2.9,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 Walther Moreira Salles Junior,580,2014,1926,Unibanco,relation,banking,new,57,male,Brazil,BRA,0,Latin America,inherited,2.9,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
 Abilio dos Santos Diniz,609,2014,1948,Companhia Brasileira de Distribui?ao,relation,retail,new,77,male,Brazil,BRA,0,Latin America,inherited,2.8,Non-Traded Sectors,TRUE,"Retail, Restaurant",father,TRUE,TRUE
 Alexandra Schorghuber,609,2014,1954,Schorghuber Group,relation,real estate,new,55,female,Germany,DEU,0,Europe,inherited,2.8,Financial,TRUE,Real Estate,spouse/widow,TRUE,TRUE
@@ -1574,7 +1574,7 @@ Angela Leong,609,2014,1962,"Sociedade de Turismo e Divers?es de Macau, SA",relat
 Bernard Broermann,609,2014,1984,Asklepios Kliniken GmbH,founder,hospitals,new,70,male,Germany,DEU,0,Europe,founder non-finance,2.8,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 Chee Chen Tung,609,2014,1969,Orient Overseas Container Line,relation,shipping,new,72,male,Hong Kong,HKG,0,East Asia,inherited,2.8,Traded Sectors,TRUE,Other,father,TRUE,TRUE
 Dirk Rossmann,609,2014,1972,Rossmann,founder,retail,new,67,male,Germany,DEU,0,Europe,founder non-finance,2.8,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
-Edward DeBartolo,609,2014,1944,Edward J. DeBartolo Corporation,relation,real estate,new,67,male,United States,USA,0,North America,inherited,2.8,Financial,TRUE,Real Estate,father,TRUE,TRUE
+"Edward DeBartolo, Jr.",609,2014,1944,Edward J. DeBartolo Corporation,relation,real estate,new,67,male,United States,USA,0,North America,inherited,2.8,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Erman Ilicak,609,2014,1994,Ronesans Construction,founder,construction,new,46,male,Turkey,TUR,0,Middle East/North Africa,founder non-finance,2.8,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 Gautam Adani,609,2014,1988,Adani Group,founder,"energy (coal, oil and gas)",new,51,male,India,IND,0,South Asia,privatized and resources,2.8,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
 Huang Rulun,609,2014,1991,Century Golden Resources Group,founder,real estate,new,62,male,China,CHN,0,East Asia,self-made finance,2.8,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
@@ -1595,7 +1595,7 @@ Saif Al Ghurair,609,2014,1960,Al-Ghurair Group,relation,industrial goods,new,0,m
 Suh Kyung-Bae,609,2014,1945,AmorePacific,relation,cosmetics,new,51,male,South Korea,KOR,0,East Asia,inherited,2.8,Traded Sectors,TRUE,Consumer,father,TRUE,TRUE
 Viktor Rashnikov,609,2014,1925,Magnitogorsk Metallurgical Enterprise,general director,iron and steel,privatization,65,male,Russia,RUS,0,Europe,privatized and resources,2.8,Resource Related,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
 W. Herbert Hunt,609,2014,1920,Petro-Hunt,relation,oil,new,85,male,United States,USA,0,North America,inherited,2.8,Resource Related,TRUE,Energy,father,TRUE,TRUE
-Wilbur Ross,609,2014,2000,WL Ross & Co,founder,leveraged buyouts,new,76,male,United States,USA,0,North America,self-made finance,2.8,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
+"Wilbur Ross, Jr.",609,2014,2000,WL Ross & Co,founder,leveraged buyouts,new,76,male,United States,USA,0,North America,self-made finance,2.8,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Yang Kai,609,2014,1951,China Huishan Dairy Holding,chairman,dairy products,new,57,male,China,CHN,0,East Asia,executive,2.8,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Ziyad Manasir,609,2014,1992,Stroygazconsulting,founder,construction,new,48,male,Russia,RUS,0,Europe,privatized and resources,2.8,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 Richard Chandler,641,2014,1986,Chandler Corporation,founder,private equity,new,55,male,New Zealand,NZL,0,North America,self-made finance,2.8,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
@@ -1627,7 +1627,7 @@ Danil Khachaturov,663,2014,1921,Rosgosstrakh,chairman,insurance,privatization,42
 Edson de Godoy Bueno,663,2014,1972,Amil,founder,healthcare management,new,70,male,Brazil,BRA,0,Latin America,founder non-finance,2.6,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Emilio Azcarraga Jean,663,2014,1955,Grupo Televisa,relation,media,new,46,male,Mexico,MEX,0,Latin America,inherited,2.6,Non-Traded Sectors,TRUE,Media,father,TRUE,TRUE
 Helmut Sohmen,663,2014,1955,BW Group,relation,shipping,new,74,male,Austria,AUT,0,Europe,inherited,2.6,Traded Sectors,TRUE,Other,father,TRUE,TRUE
-Herbert Allen,663,2014,1922,Allen & Company,relation,investment banking,new,74,male,United States,USA,0,North America,inherited,2.6,Financial,TRUE,Money Management,father,TRUE,TRUE
+"Herbert Allen, Jr.",663,2014,1922,Allen & Company,relation,investment banking,new,74,male,United States,USA,0,North America,inherited,2.6,Financial,TRUE,Money Management,father,TRUE,TRUE
 Hui Lin Chit,663,2014,1985,Hengan Internationl Group Company Limited,founder,diapers,new,61,male,China,CHN,0,East Asia,founder non-finance,2.6,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Jason Chang,663,2014,1984,Advanced Semiconductor Engineering,founder,electronics,new,69,male,Singapore,SGP,0,East Asia,founder non-finance,2.6,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Maria Luisa Solari Falabella,663,2014,1889,SACI Falabella,relation,retail,new,73,female,Chile,CHL,0,Latin America,inherited,2.6,Non-Traded Sectors,TRUE,"Retail, Restaurant",4th generation,TRUE,TRUE
@@ -1666,7 +1666,7 @@ Henry Hillman,687,2014,1942,Pittsburgh Coke & Chemical,relation,coal,new,95,male
 Hubert Burda,687,2014,1898,Hubert Burda Media,relation,media,new,74,male,Germany,DEU,0,Europe,inherited,2.5,Non-Traded Sectors,TRUE,Media,father,TRUE,TRUE
 Jack Dangermond,687,2014,1969,Environmental Systems Research Institute,founder,software,new,68,male,United States,USA,0,North America,founder non-finance,2.5,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Jeff Greene,687,2014,0,,founder,real estate,,59,male,United States,USA,0,North America,self-made finance,2.5,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
-John Dorrance,687,2014,1869,Campbell Soup,relation,soup,aquired,70,male,Ireland,IRL,0,Europe,inherited,2.5,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
+"John Dorrance, III.",687,2014,1869,Campbell Soup,relation,soup,aquired,70,male,Ireland,IRL,0,Europe,inherited,2.5,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Juan Maria Riberas Mera,687,2014,1958,Corporation Gestamp SL,relation,steel,new,0,male,Spain,ESP,0,Europe,inherited,2.5,Resource Related,TRUE,Non-consumer industrial,father,TRUE,TRUE
 Juan-Miguel Villar Mir,687,2014,1911,Obrascon Huarte Lain S.A.,Chairman and Chief Executive Officer,construction,aquired,82,male,Spain,ESP,0,Europe,executive,2.5,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 Kjell Inge Rokke,687,2014,1841,Aker Soulutions ASA,owner,oil,aquired,55,male,Norway,NOR,0,Europe,executive,2.5,0,TRUE,Other,not inherited,TRUE,TRUE
@@ -1688,7 +1688,7 @@ Valery Kogan,687,2014,1992,East Line Group,investor,airport,new,62,male,Russia,R
 Warren Stephens,687,2014,1933,Stephans Inc.,relation,financial services,new,57,male,United States,USA,0,North America,inherited,2.5,Financial,TRUE,Money Management,father,TRUE,TRUE
 William Erbey,687,2014,1988,Ocwen Financial,executive chairman,mortgages,new,64,male,United States,USA,0,North America,self-made finance,2.5,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 William Fung,687,2014,1906,Li & Fung Group,relation,supply chain,new,65,male,Hong Kong,HKG,0,East Asia,inherited,2.5,0,TRUE,Other,3rd generation,TRUE,TRUE
-William Wrigley,687,2014,1891,Wm Wrigley Jr. Company,relation,gum,new,50,male,United States,USA,0,North America,inherited,2.5,Traded Sectors,TRUE,Consumer,4th generation,TRUE,TRUE
+"William Wrigley, Jr.",687,2014,1891,Wm Wrigley Jr. Company,relation,gum,new,50,male,United States,USA,0,North America,inherited,2.5,Traded Sectors,TRUE,Consumer,4th generation,TRUE,TRUE
 Abdullah Al Rajhi,731,2014,1957,Al Rajhi bank,founder,Banking,new,0,male,Saudi Arabia,SAU,0,Middle East/North Africa,self-made finance,2.4,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Andrej Babis,731,2014,1993,Agrofert,owner and former CEO,agriculteral,new,59,male,Czech Republic,CZE,0,Europe,executive,2.4,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Barry Diller,731,2014,1986,IAC ,Chairman and Chief Executive Officer,media,new,72,male,United States,USA,0,North America,executive,2.4,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
@@ -1725,12 +1725,12 @@ Peter Lim,763,2014,1991,Wilmar International,investor,palm oil,new,60,male,Singa
 Alexander Mamut,764,2014,1999,Livejournal,investor,technology,new,54,male,Russia,RUS,0,Europe,privatized and resources,2.3,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Alexander Ponomarenko,764,2014,1957,NCSP Group,chairman,port,privatization,49,male,Russia,RUS,0,Europe,privatized and resources,2.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Alexander Skorobogatko,764,2014,1958,NCSP Group,chairman,port,privatization,46,male,Russia,RUS,0,Europe,privatized and resources,2.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
-Bernard Saul,764,2014,1899,B. F. Saul Company,relation,mortgage banking,new,81,male,United States,USA,0,North America,inherited,2.3,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
+"Bernard Saul, II.",764,2014,1899,B. F. Saul Company,relation,mortgage banking,new,81,male,United States,USA,0,North America,inherited,2.3,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
 Bill Gross,764,2014,1971,PIMCO,founder,mutual funds,new,69,male,United States,USA,0,North America,self-made finance,2.3,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Cai Kui,764,2014,1995,Longfor Properties,founder,real estate,new,51,male,China,CHN,0,East Asia,self-made finance,2.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Caprotti Bernardo,764,2014,1957,Esselunga,founder,groceries,new,88,male,Italy,ITA,0,Europe,founder non-finance,2.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Chen Fashu,764,2014,2000,Zijin Mining Group,investor,mining,new,53,male,China,CHN,0,East Asia,self-made finance,2.3,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
-Clemmie Spangler,764,2014,1991,Bank of North Carolina,relation,banking,new,81,male,United States,USA,0,North America,inherited,2.3,Financial,TRUE,Diversified financial,father,TRUE,TRUE
+"Clemmie Spangler, Jr.",764,2014,1991,Bank of North Carolina,relation,banking,new,81,male,United States,USA,0,North America,inherited,2.3,Financial,TRUE,Diversified financial,father,TRUE,TRUE
 David Murdock,764,2014,1851,Dole Food Company,Chairman and Chief Executive Officer,food,aquired,90,male,United States,USA,0,North America,executive,2.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 George Ty,764,2014,1962,Metropolitan Bank and Trust Company,founder,banking,new,81,male,Philippines,PHL,0,East Asia,self-made finance,2.3,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Henadiy Boholyubov,764,2014,1992,Privatbank,owner,Banking,new,52,male,Ukraine,UKR,0,Europe,self-made finance,2.3,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
@@ -1756,7 +1756,7 @@ Xue Xiangdong,764,2014,2001,DHC Software,founder,software,new,55,male,China,CHN,
 Youssef Mansour,764,2014,1952,Mansour Group,relation,automobiles,new,68,male,Egypt,EGY,0,Middle East/North Africa,inherited,2.3,Financial,TRUE,Diversified financial,father,TRUE,TRUE
 Andreas Halvorsen,796,2014,1999,Viking Global Equities,founder and ceo,hedge funds,new,52,male,Norway,NOR,0,Europe,self-made finance,2.2,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Bahaa Hariri,796,2014,1978,Saudi Oger,relation,construction,aquired,47,male,Lebanon,LBN,0,Middle East/North Africa,inherited,2.2,Financial,TRUE,Real Estate,father,TRUE,TRUE
-Bill Marriott,796,2014,1927,Marriot,relation,hotels,new,81,male,United States,USA,0,North America,inherited,2.2,Financial,TRUE,Real Estate,father,TRUE,TRUE
+"Bill Marriott, Jr.",796,2014,1927,Marriot,relation,hotels,new,81,male,United States,USA,0,North America,inherited,2.2,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Bulat Utemuratov,796,2014,1995,ATF Bank,founder,banking,new,56,male,Kazakhstan,KAZ,0,South Asia,privatized and resources,2.2,Resource Related,TRUE,Mining and metals,not inherited,TRUE,TRUE
 Chip Wilson,796,2014,1998,Lululemon Athletica,founder,apparel,new,57,male,Canada,CAN,0,North America,founder non-finance,2.2,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Daniel Loeb,796,2014,1995,Third Point LLC,founder,hedge funds,new,52,male,United States,USA,0,North America,self-made finance,2.2,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
@@ -1814,7 +1814,7 @@ Raj Kumar & Kishin RK,828,2014,1947,Royal Holdings/RB Capital,relation,real esta
 Reinfried Pohl,828,2014,1975,Deutsche Verm?gensberatung?,founder,financial services,new,85,male,Germany,DEU,0,Europe,self-made finance,2.1,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Richard Schulze,828,2014,1966,Best Buy,founder,retail,new,73,male,United States,USA,0,North America,founder non-finance,2.1,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Sandro Veronesi,828,2014,1987,Calzedonia Group,founder,retail,new,54,male,Italy,ITA,0,Europe,founder non-finance,2.1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
-Stephen Mandel,828,2014,1997,Lone Pine Capital,founder,hedge funds,new,57,male,United States,USA,0,North America,self-made finance,2.1,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
+"Stephen Mandel, Jr.",828,2014,1997,Lone Pine Capital,founder,hedge funds,new,57,male,United States,USA,0,North America,self-made finance,2.1,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Sukanto Tanoto,828,2014,1973,Royal Golden Eagle International,founder,lumber,new,64,male,Indonesia,IDN,0,East Asia,self-made finance,2.1,Financial,TRUE,Diversified financial,not inherited,TRUE,TRUE
 Sylvia Stroher,828,2014,1927,Wella AG,relation,hair care,new,58,female,Germany,DEU,0,Europe,inherited,2.1,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 T.Y. Tsai,828,2014,1954,Cathay Financial,relation,financial services,new,0,male,Taiwan,Taiwan,0,East Asia,inherited,2.1,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
@@ -1846,7 +1846,7 @@ Dean White,869,2014,1935,Whiteco Industries,relation,advertising,new,90,male,Uni
 Dermot Desmond,869,2014,1995,International Investment and Underwriting,founder,private equity,new,63,male,Ireland,IRL,0,Europe,self-made finance,2,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Dmitry Ananyev,869,2014,1992,Technoserv,founder,technology,new,45,male,Russia,RUS,0,Europe,self-made finance,2,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Dmitry Pumpyansky,869,2014,1934,TMK Pipes,former CEO,steel,privatization,49,male,Russia,RUS,0,Europe,privatized and resources,2,Resource Related,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
-Drayton McLane,869,2014,1894,McLane Company,relation,groceries,new,77,male,United States,USA,0,North America,inherited,2,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
+"Drayton McLane, Jr.",869,2014,1894,McLane Company,relation,groceries,new,77,male,United States,USA,0,North America,inherited,2,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Erwin Franz Mueller,869,2014,1953,Mueller,founder,retail,new,81,male,Germany,DEU,0,Europe,founder non-finance,2,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Fiona Geminder,869,2014,1948,Visy Industries,relation,paper,new,49,female,Australia,AUS,0,North America,inherited,2,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Florentino Perez,869,2014,1983,Actividades de Construccion y Servicios,Chairman and Chief Executive Officer,construction,aquired,66,male,Spain,ESP,0,Europe,executive,2,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
@@ -1963,7 +1963,7 @@ Gil Shwed,988,2014,1993,Check Point,founder,software,new,46,male,Israel,ISR,0,Mi
 Glen Taylor,988,2014,1975,Taylor Corporation,founder,printing and electronics,aquired,72,male,United States,USA,0,North America,founder non-finance,1.8,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Glenn Dubin,988,2014,1992,Highbridge Capital Management,founder,hedge funds,new,56,male,United States,USA,0,North America,self-made finance,1.8,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Guenther Lehmann,988,2014,1973,Drogeriemarkt,owner,retail,new,0,male,Germany,DEU,0,Europe,executive,1.8,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
-H. Ross Perot,988,2014,1962,Electronic Data Systems,relation,data processing,new,55,male,United States,USA,0,North America,inherited,1.8,New Sectors,TRUE,Technology-Computer,father,TRUE,TRUE
+"H. Ross Perot, Jr.",988,2014,1962,Electronic Data Systems,relation,data processing,new,55,male,United States,USA,0,North America,inherited,1.8,New Sectors,TRUE,Technology-Computer,father,TRUE,TRUE
 Irwin Jacobs,988,2014,1985,Qualcomm,founder,software,new,80,male,United States,USA,0,North America,founder non-finance,1.8,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Jaime Botin,988,2014,1857,Banco Santander,relation,banking,new,77,male,Spain,ESP,0,Europe,inherited,1.8,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
 Jennifer Pritzker,988,2014,1957,Hyatt,relation,hotels,aquired,62,female,United States,USA,0,North America,inherited,1.8,Financial,TRUE,Real Estate,father,TRUE,TRUE
@@ -2061,7 +2061,7 @@ Albert von Thurn und Taxis,1092,2014,1615,von Thurn and Taxis family,relation,"p
 Alfred James Clark,1092,2014,1906,Clark Enterprises,chairman,construction,aquired,86,male,United States,USA,0,North America,executive,1.6,Non-Traded Sectors,TRUE,Constrution,not inherited,TRUE,TRUE
 Andrea Della Valle,1092,2014,1920,Tod's,relation,leather,new,48,male,Italy,ITA,0,Europe,executive,1.6,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Cao Kejian,1092,2014,1956,Zhejiang Kaishan Compressor,chairman,air compressors,privatization,51,male,China,CHN,0,East Asia,privatized and resources,1.6,Traded Sectors,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
-Chase Coleman,1092,2014,2000,Tiger Global Management,founder,hedge funds,new,38,male,United States,USA,0,North America,self-made finance,1.6,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
+"Chase Coleman, III.",1092,2014,2000,Tiger Global Management,founder,hedge funds,new,38,male,United States,USA,0,North America,self-made finance,1.6,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 D. Leopoldo Del Pino y Calvo-Sotelo,1092,2014,1952,Ferrovial,relation,construction,new,52,male,Spain,ESP,0,Europe,inherited,1.6,Non-Traded Sectors,TRUE,Constrution,father,TRUE,TRUE
 David Einhorn,1092,2014,1996,Greenlight Capital,founder,hedge funds,new,45,male,United States,USA,0,North America,self-made finance,1.6,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Denise Coates,1092,2014,2000,Bet365,founder,gambing,new,46,female,United Kingdom,GBR,0,Europe,founder non-finance,1.6,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
@@ -2072,8 +2072,8 @@ Gu Wei,1092,2014,2005,Shenzhen MTC,chairman,electronics,new,49,male,China,CHN,0,
 Hamilton James,1092,2014,1985,Blackstone Group,president,hedge funds,new,62,male,United States,USA,0,North America,self-made finance,1.6,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Huang Shaowu,1092,2014,1998,Shenzhen Aisidi,founder,retail,new,43,male,China,CHN,0,East Asia,founder non-finance,1.6,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 James Irsay,1092,2014,1953,Indianapolis Colts,relation,sports team,aquired,54,male,United States,USA,0,North America,inherited,1.6,0,TRUE,Other,father,TRUE,TRUE
-Jim Justice,1092,2014,1971,Bluestone Industries,relation,coal,new,62,male,United States,USA,0,North America,inherited,1.6,Resource Related,TRUE,Mining and metals,father,TRUE,TRUE
-Joe Jamail,1092,2014,1987,,lawyer,lawsuits,,88,male,United States,USA,0,North America,executive,1.6,0,TRUE,Other,not inherited,TRUE,TRUE
+"Jim Justice, II.",1092,2014,1971,Bluestone Industries,relation,coal,new,62,male,United States,USA,0,North America,inherited,1.6,Resource Related,TRUE,Mining and metals,father,TRUE,TRUE
+"Joe Jamail, Jr.",1092,2014,1987,,lawyer,lawsuits,,88,male,United States,USA,0,North America,executive,1.6,0,TRUE,Other,not inherited,TRUE,TRUE
 Jon Stryker,1092,2014,1941,Stryker Corporation,relation,medical supplies,new,55,male,United States,USA,0,North America,inherited,1.6,New Sectors,TRUE,Technology-Medical,3rd generation,TRUE,TRUE
 Joyce Raley Teel,1092,2014,1935,Raley's,relation,groceries,new,83,female,United States,USA,0,North America,inherited,1.6,Non-Traded Sectors,TRUE,"Retail, Restaurant",father,TRUE,TRUE
 Julio Bozano,1092,2014,1960,Banco Bozano Simonsen,founder,banking,new,78,male,Brazil,BRA,0,Latin America,self-made finance,1.6,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
@@ -2153,7 +2153,7 @@ Murali Divi,1154,2014,1990,Divis Laboratories,founder,pharmaceuticals,new,62,mal
 Paul Singer,1154,2014,1977,Elliott Associates,founder,hedge funds,new,69,male,United States,USA,0,North America,self-made finance,1.5,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Ravi Jaipuria,1154,2014,1960,RJ Corp,relation,soft drinks,new,59,male,India,IND,0,South Asia,executive,1.5,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Richard Hayne,1154,2014,1970,Urban Outfitters,founder,retail,new,66,male,United States,USA,0,North America,founder non-finance,1.5,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
-Robert Coyiuto,1154,2014,1981,Prudential Guarantee & Assurance,relation,"insurancei, power",new,61,male,Philippines,PHL,0,East Asia,inherited,1.5,Resource Related,TRUE,Energy,father,TRUE,TRUE
+Robert Coyiuto Jr,1154,2014,1981,Prudential Guarantee & Assurance,relation,"insurancei, power",new,61,male,Philippines,PHL,0,East Asia,inherited,1.5,Resource Related,TRUE,Energy,father,TRUE,TRUE
 Saad Hariri,1154,2014,1978,Saudi Oger,relation,construction,aquired,43,male,Lebanon,LBN,0,Middle East/North Africa,inherited,1.5,Non-Traded Sectors,TRUE,Constrution,father,TRUE,TRUE
 Senapathy Gopalakrishnan,1154,2014,1981,Infosys,founder and executive vice chairman,information services,new,58,male,India,IND,0,South Asia,founder non-finance,1.5,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Sergio Lins Andrade,1154,2014,1948,Andrade Gutierrez,relation,construction,new,66,male,Brazil,BRA,0,Latin America,inherited,1.5,Non-Traded Sectors,TRUE,Constrution,father,TRUE,TRUE
@@ -2209,7 +2209,7 @@ Max Michel Suberville,1210,2014,1890,FEMSA,owner,beverages,new,81,male,Mexico,ME
 Michael Ashcroft,1210,2014,1972,Michael A. Ashcroft Associates,founder,investments,new,68,male,United Kingdom,GBR,0,Europe,founder non-finance,1.4,0,TRUE,Other,not inherited,TRUE,TRUE
 Michel Chalhoub,1210,2014,1955,Chalhoub Group,founder,luxury goods,new,82,male,France,FRA,0,Europe,founder non-finance,1.4,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Nandan Nilekani,1210,2014,1981,Infosys,founder,software,new,58,male,India,IND,0,South Asia,founder non-finance,1.4,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
-Nicholas Pritzker,1210,2014,1957,Hyatt,relation,hotels,aquired,70,male,United States,USA,0,North America,inherited,1.4,Financial,TRUE,Real Estate,father,TRUE,TRUE
+"Nicholas Pritzker, II.",1210,2014,1957,Hyatt,relation,hotels,aquired,70,male,United States,USA,0,North America,inherited,1.4,Financial,TRUE,Real Estate,father,TRUE,TRUE
 Nicola Bulgari,1210,2014,1884,Bulgari,relation,luxury goods,new,73,male,Italy,ITA,0,Europe,inherited,1.4,Traded Sectors,TRUE,Consumer,5th generation or longer,TRUE,TRUE
 Oleg Tinkov,1210,2014,1990,Tinkoff Brewery,founder,beer,new,46,male,Russia,RUS,0,Europe,self-made finance,1.4,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Paolo Bulgari,1210,2014,1884,Bulgari,relation,luxury goods,new,76,male,Italy,ITA,0,Europe,inherited,1.4,Traded Sectors,TRUE,Consumer,5th generation or longer,TRUE,TRUE
@@ -2220,8 +2220,8 @@ Pyotr Kondrashev,1210,2014,1925,Silvinit,CEO,fertilizers,privatization,64,male,R
 Radovan Vitek,1210,2014,1997,CPI,founder,real estate,aquired,42,male,Czech Republic,CZE,0,Europe,self-made finance,1.4,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Ranjan Pai,1210,2014,1953,Manipal Education & Medical Group,relation,education,new,41,male,India,IND,0,South Asia,inherited,1.4,0,TRUE,Other,3rd generation,TRUE,TRUE
 Remo Ruffini,1210,2014,1954,Moncler,owner,winter jackets,aquired,52,male,Italy,ITA,0,Europe,executive,1.4,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
-Richard Chilton,1210,2014,1992,Chilton Investment Company,founder,investment banking,new,55,male,United States,USA,0,North America,self-made finance,1.4,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
-Richard Yuengling,1210,2014,1829,Yuengling,relation,beer,new,70,male,United States,USA,0,North America,inherited,1.4,Traded Sectors,TRUE,Consumer,5th generation or longer,TRUE,TRUE
+Richard Chilton Jr,1210,2014,1992,Chilton Investment Company,founder,investment banking,new,55,male,United States,USA,0,North America,self-made finance,1.4,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
+"Richard Yuengling, Jr.",1210,2014,1829,Yuengling,relation,beer,new,70,male,United States,USA,0,North America,inherited,1.4,Traded Sectors,TRUE,Consumer,5th generation or longer,TRUE,TRUE
 Roman Avdeev,1210,2014,1994,Credit Bank of Moscow,founder,banking,new,46,male,Russia,RUS,0,Europe,self-made finance,1.4,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Shlomo Eliahu,1210,2014,1955,Eliyahu Insurance Company,founder,insurance,new,78,male,Israel,ISR,0,Middle East/North Africa,self-made finance,1.4,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Takao Yasuda,1210,2014,1980,Don Quijote,Chairman and Chief Executive Officer,retail,new,64,male,Japan,JPN,0,East Asia,executive,1.4,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
@@ -2235,7 +2235,7 @@ Yoshiko Mori,1210,2014,1959,Mori Building,relation,construction,new,73,female,Ja
 Yuri Kovalchuk,1210,2014,1990,Russia bank,Head of Board of Directors,banking,new,62,male,Russia,RUS,0,Europe,privatized and resources,1.4,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Andrew Cherng,1270,2014,1973,Panda Express,founder,restaurant,new,0,male,United States,USA,0,North America,founder non-finance,1.4,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Anne Gittinger,1270,2014,1901,Nordstrom,relation,retail,new,78,female,United States,USA,0,North America,inherited,1.4,Non-Traded Sectors,TRUE,"Retail, Restaurant",3rd generation,TRUE,TRUE
-Anton Kathrein,1270,2014,1919,Katherine Werke AG,relation,antennas,new,29,male,Germany,DEU,0,Europe,inherited,1.4,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
+"Anton Kathrein, Jr.",1270,2014,1919,Katherine Werke AG,relation,antennas,new,29,male,Germany,DEU,0,Europe,inherited,1.4,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Henry Swieca,1270,2014,1992,Highbridge Capital Management,founder,hedge funds,new,56,male,United States,USA,0,North America,self-made finance,1.4,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Jonathan Oringer,1270,2014,2003,Shutterstock,founder,internet company,new,39,male,United States,USA,0,North America,founder non-finance,1.4,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Kazuo Okada,1270,2014,1973,Wynn Resorts,founder,casinos,new,71,male,Japan,JPN,0,East Asia,self-made finance,1.4,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
@@ -2248,7 +2248,7 @@ Patricia Angelini Rossi,1270,2014,1955,Angelini Group,relation,forestry and mini
 Paul Foster,1270,2014,1997,Western Refining,founder,oil refining,new,56,male,United States,USA,0,North America,privatized and resources,1.4,Resource Related,TRUE,Energy,not inherited,TRUE,TRUE
 Peggy Cherng,1270,2014,1973,Panda Express,founder,restaurant,new,0,female,United States,USA,0,North America,founder non-finance,1.4,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Roger Penske,1270,2014,1965,Penske Racing,founder,automobiles,new,77,male,United States,USA,0,North America,founder non-finance,1.4,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
-William Ford,1270,2014,1903,Ford Motor Company,relation,automobiles,new,88,male,United States,USA,0,North America,inherited,1.4,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
+"William Ford, Sr.",1270,2014,1903,Ford Motor Company,relation,automobiles,new,88,male,United States,USA,0,North America,inherited,1.4,Traded Sectors,TRUE,Consumer,3rd generation,TRUE,TRUE
 Akio Nitori,1284,2014,1967,Nitori,founder,home furnishings,new,70,male,Japan,JPN,0,East Asia,founder non-finance,1.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Alain Taravella,1284,2014,1994,Altarea Cogedim,founder,real estate,new,66,male,France,FRA,0,Europe,self-made finance,1.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Allan Gray,1284,2014,1973,Allan Gray,founder,asset management,new,76,male,South Africa,ZAF,0,Sub-Saharan Africa,self-made finance,1.3,Financial,TRUE,Other,not inherited,TRUE,TRUE
@@ -2276,11 +2276,11 @@ Edward Stack,1284,2014,1948,Dick's Sporting Goods,relation,retail,new,59,male,Un
 Eggon da Silva,1284,2014,1961,WEG,founder,electronics,new,85,male,Brazil,BRA,0,Latin America,founder non-finance,1.3,Traded Sectors,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
 Elie Horn,1284,2014,1962,Cyrela Brazil Realty,founder,real estate,new,70,male,Brazil,BRA,0,Latin America,self-made finance,1.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Fawzi Al-Kharafi,1284,2014,1956,Kharafi Group,relation,diversified investments,new,0,male,Kuwait,KWT,0,Middle East/North Africa,inherited,1.3,Financial,TRUE,Diversified financial,father,TRUE,TRUE
-Frank Fertitta,1284,2014,1976,Station Casinos,ceo,entertainment,new,52,male,United States,USA,0,North America,self-made finance,1.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
+"Frank Fertitta, III.",1284,2014,1976,Station Casinos,ceo,entertainment,new,52,male,United States,USA,0,North America,self-made finance,1.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Frank Stronach,1284,2014,1956,Manga International,founder,automotive parts,new,81,male,Canada,CAN,0,North America,founder non-finance,1.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 George Joseph,1284,2014,1961,Mercury General,founder,insurance,new,92,male,United States,USA,0,North America,self-made finance,1.3,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Gernot Langes-Swarovski,1284,2014,1895,Swarovski,relation,luxury goods,new,70,male,Austria,AUT,0,Europe,inherited,1.3,Traded Sectors,TRUE,Consumer,4th generation,TRUE,TRUE
-Henry Nicholas,1284,2014,1991,Broadcom Corporation,founder,semiconductors,new,54,male,United States,USA,0,North America,founder non-finance,1.3,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
+"Henry Nicholas, III.",1284,2014,1991,Broadcom Corporation,founder,semiconductors,new,54,male,United States,USA,0,North America,founder non-finance,1.3,New Sectors,TRUE,Technology-Computer,not inherited,TRUE,TRUE
 Jacques Saade,1284,2014,1978,CMA CGM,founder,shipping,new,77,male,France,FRA,0,Europe,founder non-finance,1.3,Traded Sectors,TRUE,Other,not inherited,TRUE,TRUE
 James Leininger,1284,2014,1976,Kinetic Concepts (KCI),founder,medical devices,new,68,male,United States,USA,0,North America,founder non-finance,1.3,New Sectors,TRUE,Technology-Medical,not inherited,TRUE,TRUE
 Jassim Al-Kharafi,1284,2014,1956,Kharafi Group,relation,diversified investments,new,0,male,Kuwait,KWT,0,Middle East/North Africa,inherited,1.3,Financial,TRUE,Diversified financial,father,TRUE,TRUE
@@ -2327,7 +2327,7 @@ Ashwin Dani,1356,2014,1942,Asian Paints,relation,paint,new,71,male,India,IND,0,S
 Bassam Alghanim,1356,2014,1932,Alghanim Industries,relation,diversified investments,new,62,male,Kuwait,KWT,0,Middle East/North Africa,inherited,1.3,Financial,TRUE,Diversified financial,father,TRUE,TRUE
 Chen Lip Keong,1356,2014,1995,NagaCorp,founder,casinos,new,66,male,Malaysia,MYS,0,East Asia,privatized and resources,1.3,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
 Chung Yong-Jin,1356,2014,1930,Shinsegae Group,relation,retail,subsidiary,45,male,South Korea,KOR,0,East Asia,inherited,1.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",3rd generation,TRUE,TRUE
-Daniel Harrison,1356,2014,1921,Shell Oil,relation,oil and gas,new,66,male,United States,USA,0,North America,inherited,1.3,Resource Related,TRUE,Energy,3rd generation,TRUE,TRUE
+"Daniel Harrison, III.",1356,2014,1921,Shell Oil,relation,oil and gas,new,66,male,United States,USA,0,North America,inherited,1.3,Resource Related,TRUE,Energy,3rd generation,TRUE,TRUE
 David Harding,1356,2014,1997,Winton Capital Management,founder,investment mangagment,new,52,male,United Kingdom,GBR,0,Europe,self-made finance,1.3,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
 Huang Yi,1356,2014,1998,Zhongsheng Group,founder,automobile dealers,new,52,male,Hong Kong,HKG,0,East Asia,founder non-finance,1.3,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Hubert d'Ornano,1356,2014,1976,Sisley Cosmetics,founder,cosmetics,new,87,male,France,FRA,0,Europe,founder non-finance,1.3,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
@@ -2607,7 +2607,7 @@ Vivek Chaand Sehgal,1565,2014,1986,Samvardhana Motherson Group,founder,auto part
 Wang Jianfeng,1565,2014,2004,Ningo Joyson Electric,founder,auto parts,new,44,male,China,CHN,0,East Asia,founder non-finance,1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Wang Muqing,1565,2014,1999,China ZhengTong Auto Services,founder,auto retail,new,63,male,China,CHN,0,East Asia,founder non-finance,1,Non-Traded Sectors,TRUE,"Retail, Restaurant",not inherited,TRUE,TRUE
 Wang Yong,1565,2014,1986,Xiwang Group,founder,food sweeteners,new,63,male,China,CHN,0,East Asia,founder non-finance,1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
-William Moncrief,1565,2014,1929,Moncrief Oil,relation,oil,new,93,male,United States,USA,0,North America,inherited,1,Resource Related,TRUE,Energy,father,TRUE,TRUE
+"William Moncrief, Jr.",1565,2014,1929,Moncrief Oil,relation,oil,new,93,male,United States,USA,0,North America,inherited,1,Resource Related,TRUE,Energy,father,TRUE,TRUE
 Wu Chung-Yi,1565,2014,1991,Tingyi,investor,beverages and food,new,55,male,Taiwan,Taiwan,0,East Asia,executive,1,Traded Sectors,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE
 Wu Xiong,1565,2014,1999,Biostime International Holdings,owner,infant formula,new,0,male,China,CHN,0,East Asia,executive,1,Traded Sectors,TRUE,Consumer,not inherited,TRUE,TRUE
 Yang Keng,1565,2014,0,Blue Ray Corp,chairman,real estate,new,53,male,China,CHN,0,East Asia,self-made finance,1,Financial,TRUE,Real Estate,not inherited,TRUE,TRUE
