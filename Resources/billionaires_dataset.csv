@@ -670,7 +670,7 @@ company.founded,demographics.age,demographics.gender,location.citizenship,locati
 1816,70,male,United Kingdom,Europe,Diversified financial,4th generation
 1947,68,male,United States,North America,Money Management,father
 1900,0,male,United States,North America,Mining and metals,3rd generation
-1919,84,male,Bermuda,North America,Technology-Medical,not inherited
+1919,84,male,Bermuda,0,Technology-Medical,not inherited
 1869,57,male,Ireland,Europe,Consumer,3rd generation
 1973,52,male,United States,North America,Consumer,not inherited
 1950,0,male,Israel,Middle East/North Africa,Consumer,father
@@ -804,7 +804,7 @@ company.founded,demographics.age,demographics.gender,location.citizenship,locati
 1870,79,male,Portugal,Europe,Energy,3rd generation
 1975,41,male,Denmark,Europe,"Retail, Restaurant",father
 1952,87,male,Israel,Middle East/North Africa,Consumer,not inherited
-1949,0,female,Switzerland,Europe,Constrution,not inherited
+1949,0,married couple,Switzerland,Europe,Constrution,not inherited
 1985,0,male,Switzerland,Europe,Money Management,not inherited
 1928,68,male,Switzerland,Europe,Other,father
 2003,52,male,Australia,North America,Mining and metals,not inherited
@@ -1108,7 +1108,7 @@ company.founded,demographics.age,demographics.gender,location.citizenship,locati
 1977,44,male,Norway,Europe,"Retail, Restaurant",not inherited
 1985,49,male,United States,North America,Technology-Computer,not inherited
 1968,62,male,United States,North America,Technology-Medical,not inherited
-1949,0,female,Switzerland,Europe,Constrution,not inherited
+1949,0,married couple,Switzerland,Europe,Constrution,not inherited
 1903,0,male,United States,North America,Consumer,3rd generation
 1962,57,male,United States,North America,"Retail, Restaurant",not inherited
 1916,0,male,Spain,Europe,Diversified financial,3rd generation
@@ -1434,7 +1434,7 @@ company.founded,demographics.age,demographics.gender,location.citizenship,locati
 1712,0,male,United Kingdom,Europe,Real Estate,5th generation or longer
 1978,47,male,Mexico,Latin America,Mining and metals,not inherited
 1869,55,female,United States,North America,Consumer,3rd generation
-1992,0,female,Israel,Middle East/North Africa,Technology-Medical,not inherited
+1992,0,married couple,Israel,Middle East/North Africa,Technology-Medical,not inherited
 1954,0,male,France,Europe,Diversified financial,not inherited
 1947,56,male,United States,North America,Other,father
 1976,75,male,United States,North America,Private equity/leveraged buyout,not inherited
