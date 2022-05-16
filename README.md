@@ -20,11 +20,19 @@ We chose to use a CSV dataset called "Billionaires" which we discovered on the C
 * We also searched for dates that would help us create a regression timeline.  And since our dataset was a compilation of three different datasets from the years 1996, 2004, and 2014, this step would lead us to discover some name redundancies in the data that needed to be removed as well
 
 ## Analysis Phase
-We broke down the data and pre-processed for machine learning using the following methods:
+We broke down all the data and pre-processed it for machine learning using the following methods:
 * All of the different locations in the "location.citizenshp" columns were retained to assist in creating a heatmap of billionaires accross the globe
 * Null values in the "location.region" column were identified and removed since this was also the title row
 * The industries that produced the world's super-rich were condensed into more generalized categories for better comprehension and machince learning
-* The "wealth.how.inherited" column was condensed from six possible variables to just two
+* The "wealth.how.inherited" column was condensed from six possible variables to just two, inherited or not inherited
+* Data associated with three married couples in the "demographics.gender" was removed to maintain a binary gender grouping
+
+Now it's time for machine learning
+
+# The Machine Learning Model
+
+## Preliminary Data Preprocessing
+We started our project using the billionaires.csv dataset referenced above, then removed unwanted columns from the dataset using Excel.  Once the dataset contained only the information we wanted, and nothing we didn't want, we created a new dataset named billionaires_dataset and uploaded it to GiHub.  It had several columns that could be easily converted to numbers and scaled for the machine learning.
 
 # Link to Google Slides Presentation
 https://docs.google.com/presentation/d/1h-Ca8qJQ0kc-vKjcii2cRtlcarzMyKrszOJvwMABFSE/edit?usp=sharing
