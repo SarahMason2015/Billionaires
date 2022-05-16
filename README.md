@@ -1,5 +1,5 @@
 # Description of the communication protocols
-Each team member has created a branch for individual tasks and project analysis.  We have been commiting our work via GitBash to our individual branches where Sarah has been joining the necessary documents and resources for the project into the main branch.
+Each team member has created a branch for individual tasks and project analysis.  We have been commiting our work via GitBash to our individual branches where Sarah has been joining the necessary documents and resources for the project into the main branch periodically
 
 
 # Outline of the project (this may include images, but they should be easy to follow and digest)
@@ -22,8 +22,9 @@ We chose to use a CSV dataset called "Billionaires" which we discovered on the C
 ## Analysis Phase
 We broke down the data and pre-processed for machine learning using the following methods:
 * All of the different locations in the "location.citizenshp" columns were retained to assist in creating a heatmap of billionaires accross the globe
-* The null values in the "location.region" column were identified and removed since this was also the title row
-* The industries that produced the world's super-rich were condensed into more generalized categories for better comprehension
+* Null values in the "location.region" column were identified and removed since this was also the title row
+* The industries that produced the world's super-rich were condensed into more generalized categories for better comprehension and machince learning
+* The "wealth.how.inherited" column was condensed from six possible variables to just two
 
 # Link to Google Slides Presentation
 https://docs.google.com/presentation/d/1h-Ca8qJQ0kc-vKjcii2cRtlcarzMyKrszOJvwMABFSE/edit?usp=sharing
