@@ -5,7 +5,7 @@ Each team member has created a branch for individual tasks and project analysis.
 # Outline of the project (this may include images, but they should be easy to follow and digest)
 
 ## Billionaires or Billion-heirs
-If you haven't heard the words "Twitter" or "Musk" uttered recently, you probably have been living in your closet without a smartphone for weeks.  In fact, it was about one week before our group project began when the world's richest person, Elon Musk (CEO, Tesla Motors), made a deal to purchase the networking giant Twitter for $44 billion dollars.  While we all could use a little more cash at some point, how in the world does one person acquire that kind of wealth?  Is it simply laid at their feet, or did they establish their fortunes through hard-work and innovation?  Obviously, every billionaire's story is unique, and there will likely be stories of each.  So, this leads to why we thought it would be interesting to uncover the actual similarities between all the super-rich in our world today.  We wanted to use this opportunity to learn how much different factors such as geographic location, economic sectors, and family inheritance truly affect one's likelihood of becoming a billionaire in their lifetime.
+If you haven't heard the words "Twitter" or "Musk" uttered recently, you probably have been living in your closet without a smartphone for weeks.  In fact, it was about one week before our group project began when the world's richest person, Elon Musk (CEO, Tesla Motors), made a deal to purchase the networking giant Twitter for $44 billion dollars.  While we all could use a little more cash throughout our lives, how in the world does one person acquire that kind of wealth?  Is it simply laid at their feet, or did they establish their fortunes through hard-work and innovation?  Obviously, every billionaire's story is unique, and there will likely be stories of each.  So, this leads to why we thought it would be interesting to uncover the actual similarities between all the super-rich in our world today.  We wanted to use this opportunity to learn how much different factors such as geographic location, economic sectors, and family inheritance truly affect one's likelihood of becoming a billionaire in their lifetime.
 
 ## Data sources
 We chose to use a CSV dataset called "Billionaires" which we discovered on the CORGIS Datasets Project website.  The dataset had been compiled using the Forbes World's Billionaires lists for the years 1996-2014.
@@ -42,6 +42,8 @@ We started our project using the billionaires.csv dataset referenced above, then
 ## Splitting the data into training and testing set
 * The sklearn module, "Train_Test_Split," was used to organize the data into training and testing datasets
 * We used the standard data breakdown of 75% training and 25% testing for machine learning
+
+There are several different machine learning models that could be used for analyzing our data, and each have their own benefits and limitations.  So, to help maximize the learning efficacy, we decided to give several of those models a try, including decision trees, random forest classifier, oversampling, SMOTE, undersampling, cluster centroid undersampling, and SMOTEENN.
 
 # Link to Google Slides Presentation
 https://docs.google.com/presentation/d/1h-Ca8qJQ0kc-vKjcii2cRtlcarzMyKrszOJvwMABFSE/edit?usp=sharing
