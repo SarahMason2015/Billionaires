@@ -45,7 +45,7 @@ We started our project using the billionaires.csv dataset referenced above, then
 
 There are several different machine learning models that could be used for analyzing our data, and each have their own benefits and limitations.  So, to help maximize the learning efficacy, we decided to give several of those models a try, including decision trees, random forest classifier, oversampling, SMOTE, undersampling, cluster centroid undersampling, and SMOTEENN.
 
-## Analyzing the data
+## Analyzing the results
 
 # Link to Google Slides Presentation
 https://docs.google.com/presentation/d/1pSMN2wxcZaVX9Tp_cYKhkRDpbOZibJBERjL-bh5KN3w/edit?usp=sharing (May 16)
