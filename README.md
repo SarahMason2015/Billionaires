@@ -46,6 +46,7 @@ We started our project using the billionaires.csv dataset referenced above, then
 There are several different machine learning models that could be used for analyzing our data, and each have their own benefits and limitations.  So, to help maximize the learning efficacy, [we decided to give several of those models a try, including decision trees, random forest classifier, oversampling, SMOTE, undersampling, cluster centroid undersampling, and SMOTEENN](https://github.com/SarahMason2015/Billionaires/blob/James_wk1/BillionairesDataML.ipynb).
 
 ## Analyzing the results
+We created two dashboards for the data: one for the [demographics of the billionaires](https://public.tableau.com/app/profile/andrew.thomas.crane/viz/BillionaireUpdated/Dashboard1), and the second [looking Billion-Aires vs Billion-Heirs](https://public.tableau.com/app/profile/andrew.thomas.crane/viz/BillionaireUpdatedInheritance/Dashboard2).
 
 # Link to Google Slides Presentation
 https://docs.google.com/presentation/d/1pSMN2wxcZaVX9Tp_cYKhkRDpbOZibJBERjL-bh5KN3w/edit?usp=sharing (May 16)
