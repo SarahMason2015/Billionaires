@@ -1,2 +1,0 @@
-# Billionaires
-Final Project
