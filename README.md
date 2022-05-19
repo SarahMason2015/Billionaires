@@ -20,7 +20,7 @@ We chose to use a [CSV dataset called "Billionaires"](https://github.com/SarahMa
 * We also searched for dates that would help us create a regression timeline.  And since our dataset was a compilation of three different datasets from the years 1996, 2004, and 2014, this step would lead us to discover some name redundancies in the data that needed to be removed as well
 
 ## Analysis Phase
-We broke down all the data and pre-processed it for machine learning using the following methods:
+We broke down all the data and [pre-processed it for machine learning using the following methods](https://github.com/SarahMason2015/Billionaires/blob/main/Cleaning/BillionairesData.ipynb):
 * All of the different locations in the "location.citizenshp" columns were retained to assist in creating a heatmap of billionaires across the globe
 * Null values in the "location.region" column were identified and removed since this was also the title row
 * The industries that produced the world's super-rich were condensed into more generalized categories for better comprehension and machine learning
@@ -43,7 +43,7 @@ We started our project using the billionaires.csv dataset referenced above, then
 * The sklearn module, "Train_Test_Split," was used to organize the data into training and testing datasets
 * We used the standard data breakdown of 75% training and 25% testing for machine learning
 
-There are several different machine learning models that could be used for analyzing our data, and each have their own benefits and limitations.  So, to help maximize the learning efficacy, we decided to give several of those models a try, including decision trees, random forest classifier, oversampling, SMOTE, undersampling, cluster centroid undersampling, and SMOTEENN.
+There are several different machine learning models that could be used for analyzing our data, and each have their own benefits and limitations.  So, to help maximize the learning efficacy, [we decided to give several of those models a try, including decision trees, random forest classifier, oversampling, SMOTE, undersampling, cluster centroid undersampling, and SMOTEENN](https://github.com/SarahMason2015/Billionaires/blob/James_wk1/BillionairesDataML.ipynb).
 
 ## Analyzing the results
 
